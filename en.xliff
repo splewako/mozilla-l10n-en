@@ -73,14 +73,14 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.3.2" build-num="6D2105"/>
     </header>
     <body>
-      <trans-unit id="Add to my Mobile Bookmarks">
-        <source>Add to my Mobile Bookmarks</source>
-        <target>Add to my Mobile Bookmarks</target>
+      <trans-unit id="Bookmarks">
+        <source>Bookmarks</source>
+        <target>Bookmarks</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Add to my Reading List">
-        <source>Add to my Reading List</source>
-        <target>Add to my Reading List</target>
+      <trans-unit id="Reading List">
+        <source>Reading List</source>
+        <target>Reading List</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
