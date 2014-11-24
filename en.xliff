@@ -88,6 +88,16 @@
         <target>Send To Device</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Send to ">
+        <source>Send to </source>
+        <target>Send to </target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="TODO Not logged in.">
+        <source>TODO Not logged in.</source>
+        <target>TODO Not logged in.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
