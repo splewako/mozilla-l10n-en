@@ -83,6 +83,11 @@
         <target>Add to Reading List</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Send To Device">
+        <source>Send To Device</source>
+        <target>Send To Device</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
