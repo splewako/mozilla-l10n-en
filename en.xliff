@@ -50,6 +50,11 @@
         <target>Back</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Cancel">
+        <source>Cancel</source>
+        <target>Cancel</target>
+        <note>Cancel button</note>
+      </trans-unit>
       <trans-unit id="Double tap and hold to open history">
         <source>Double tap and hold to open history</source>
         <target>Double tap and hold to open history</target>
@@ -59,6 +64,11 @@
         <source>Forward</source>
         <target>Forward</target>
         <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="OK">
+        <source>OK</source>
+        <target>OK</target>
+        <note>OK button</note>
       </trans-unit>
       <trans-unit id="Reader">
         <source>Reader</source>
