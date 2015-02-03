@@ -55,6 +55,11 @@
         <target>Cancel</target>
         <note>Cancel button</note>
       </trans-unit>
+      <trans-unit id="Could not connect to Firefox Account server. Try again later.">
+        <source>Could not connect to Firefox Account server. Try again later.</source>
+        <target>Could not connect to Firefox Account server. Try again later.</target>
+        <note>Error shown when we can't connect to Firefox Accounts.</note>
+      </trans-unit>
       <trans-unit id="Double tap and hold to open history">
         <source>Double tap and hold to open history</source>
         <target>Double tap and hold to open history</target>
@@ -64,6 +69,11 @@
         <source>Forward</source>
         <target>Forward</target>
         <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Get started">
+        <source>Get started</source>
+        <target>Get started</target>
+        <note>Get started button</note>
       </trans-unit>
       <trans-unit id="OK">
         <source>OK</source>
