@@ -52,7 +52,7 @@
       <trans-unit id="Back">
         <source>Back</source>
         <target>Back</target>
-        <note>Accessibility label</note>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Cancel">
         <source>Cancel</source>
@@ -72,7 +72,7 @@
       <trans-unit id="Forward">
         <source>Forward</source>
         <target>Forward</target>
-        <note>Accessibility label</note>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Get started">
         <source>Get started</source>
