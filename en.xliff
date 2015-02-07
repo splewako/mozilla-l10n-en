@@ -52,7 +52,7 @@
       <trans-unit id="Back">
         <source>Back</source>
         <target>Back</target>
-        <note>No comment provided by engineer.</note>
+        <note>Accessibility label</note>
       </trans-unit>
       <trans-unit id="Cancel">
         <source>Cancel</source>
@@ -72,7 +72,7 @@
       <trans-unit id="Forward">
         <source>Forward</source>
         <target>Forward</target>
-        <note>No comment provided by engineer.</note>
+        <note>Accessibility label</note>
       </trans-unit>
       <trans-unit id="Get started">
         <source>Get started</source>
@@ -113,6 +113,16 @@
         <source>TODO Not logged in.</source>
         <target>TODO Not logged in.</target>
         <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="URL">
+        <source>URL</source>
+        <target>URL</target>
+        <note>Accessibility label</note>
+      </trans-unit>
+      <trans-unit id="Web content">
+        <source>Web content</source>
+        <target>Web content</target>
+        <note>Accessibility label for the main web content view</note>
       </trans-unit>
     </body>
   </file>
