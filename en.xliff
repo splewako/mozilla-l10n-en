@@ -89,6 +89,11 @@
         <target>Reader</target>
         <note>Browser function that presents simplified version of the page with bigger text.</note>
       </trans-unit>
+      <trans-unit id="Search or enter address">
+        <source>Search or enter address</source>
+        <target>Search or enter address</target>
+        <note>The text shown in the URL bar on about:home</note>
+      </trans-unit>
       <trans-unit id="Secure connection">
         <source>Secure connection</source>
         <target>Secure connection</target>
