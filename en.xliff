@@ -114,6 +114,16 @@
         <target>Show Tabs</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Sign in">
+        <source>Sign in</source>
+        <target>Sign in</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Sign out">
+        <source>Sign out</source>
+        <target>Sign out</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="TODO Not logged in.">
         <source>TODO Not logged in.</source>
         <target>TODO Not logged in.</target>
