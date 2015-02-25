@@ -124,11 +124,6 @@
         <target>Sign out</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="TODO Not logged in.">
-        <source>TODO Not logged in.</source>
-        <target>TODO Not logged in.</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="URL">
         <source>URL</source>
         <target>URL</target>
