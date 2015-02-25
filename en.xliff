@@ -79,6 +79,16 @@
         <target>Get started</target>
         <note>Get started button</note>
       </trans-unit>
+      <trans-unit id="Last month">
+        <source>Last month</source>
+        <target>Last month</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Last week">
+        <source>Last week</source>
+        <target>Last week</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="OK">
         <source>OK</source>
         <target>OK</target>
@@ -124,6 +134,11 @@
         <target>Sign out</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Today">
+        <source>Today</source>
+        <target>Today</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="URL">
         <source>URL</source>
         <target>URL</target>
@@ -133,6 +148,11 @@
         <source>Web content</source>
         <target>Web content</target>
         <note>Accessibility label for the main web content view</note>
+      </trans-unit>
+      <trans-unit id="Yesterday">
+        <source>Yesterday</source>
+        <target>Yesterday</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
     </body>
   </file>
