@@ -64,6 +64,11 @@
         <target>Could not connect to Firefox Account server. Try again later.</target>
         <note>Error shown when we can't connect to Firefox Accounts.</note>
       </trans-unit>
+      <trans-unit id="Done">
+        <source>Done</source>
+        <target>Done</target>
+        <note>Settings</note>
+      </trans-unit>
       <trans-unit id="Double tap and hold to open history">
         <source>Double tap and hold to open history</source>
         <target>Double tap and hold to open history</target>
@@ -118,6 +123,11 @@
         <source>Send to </source>
         <target>Send to </target>
         <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Settings">
+        <source>Settings</source>
+        <target>Settings</target>
+        <note>Settings</note>
       </trans-unit>
       <trans-unit id="Show Tabs">
         <source>Show Tabs</source>
