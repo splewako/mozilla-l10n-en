@@ -44,11 +44,6 @@
         <target>Address and Search</target>
         <note>Accessibility label for address and search field, both words (Address, Search) are therefore nouns.</note>
       </trans-unit>
-      <trans-unit id="Avatar">
-        <source>Avatar</source>
-        <target>Avatar</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="Back">
         <source>Back</source>
         <target>Back</target>
@@ -132,16 +127,6 @@
       <trans-unit id="Show Tabs">
         <source>Show Tabs</source>
         <target>Show Tabs</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Sign in">
-        <source>Sign in</source>
-        <target>Sign in</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Sign out">
-        <source>Sign out</source>
-        <target>Sign out</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Today">
