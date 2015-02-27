@@ -99,6 +99,11 @@
         <target>OK</target>
         <note>OK button</note>
       </trans-unit>
+      <trans-unit id="Providers">
+        <source>Providers</source>
+        <target>Providers</target>
+        <note>Search Settings</note>
+      </trans-unit>
       <trans-unit id="Reader">
         <source>Reader</source>
         <target>Reader</target>
