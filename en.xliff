@@ -59,6 +59,11 @@
         <target>Could not connect to Firefox Account server. Try again later.</target>
         <note>Error shown when we can't connect to Firefox Accounts.</note>
       </trans-unit>
+      <trans-unit id="Default">
+        <source>Default</source>
+        <target>Default</target>
+        <note>Search Settings</note>
+      </trans-unit>
       <trans-unit id="Done">
         <source>Done</source>
         <target>Done</target>
@@ -103,6 +108,16 @@
         <source>Recent Bookmarks</source>
         <target>Recent Bookmarks</target>
         <note>Header for bookmarks list</note>
+      </trans-unit>
+      <trans-unit id="Search">
+        <source>Search</source>
+        <target>Search</target>
+        <note>Settings</note>
+      </trans-unit>
+      <trans-unit id="Search Default">
+        <source>Search Default</source>
+        <target>Search Default</target>
+        <note>Settings</note>
       </trans-unit>
       <trans-unit id="Search or enter address">
         <source>Search or enter address</source>
