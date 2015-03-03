@@ -154,6 +154,11 @@
         <target>Show Tabs</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Sign in">
+        <source>Sign in</source>
+        <target>Sign in</target>
+        <note>Settings</note>
+      </trans-unit>
       <trans-unit id="Today">
         <source>Today</source>
         <target>Today</target>
