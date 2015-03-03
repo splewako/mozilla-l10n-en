@@ -52,7 +52,8 @@
       <trans-unit id="Cancel">
         <source>Cancel</source>
         <target>Cancel</target>
-        <note>Cancel button</note>
+        <note>Cancel button
+   Settings</note>
       </trans-unit>
       <trans-unit id="Could not connect to Firefox Accounts.">
         <source>Could not connect to Firefox Accounts.</source>
@@ -63,6 +64,16 @@
         <source>Default</source>
         <target>Default</target>
         <note>Search Settings</note>
+      </trans-unit>
+      <trans-unit id="Disconnect">
+        <source>Disconnect</source>
+        <target>Disconnect</target>
+        <note>Settings</note>
+      </trans-unit>
+      <trans-unit id="Disconnect Firefox Account?">
+        <source>Disconnect Firefox Account?</source>
+        <target>Disconnect Firefox Account?</target>
+        <note>Settings</note>
       </trans-unit>
       <trans-unit id="Done">
         <source>Done</source>
@@ -77,6 +88,11 @@
       <trans-unit id="Enter your password to connect.">
         <source>Enter your password to connect.</source>
         <target>Enter your password to connect.</target>
+        <note>Settings</note>
+      </trans-unit>
+      <trans-unit id="Firefox will stop syncing with your account, but won’t delete any of your browsing data on this device.">
+        <source>Firefox will stop syncing with your account, but won’t delete any of your browsing data on this device.</source>
+        <target>Firefox will stop syncing with your account, but won’t delete any of your browsing data on this device.</target>
         <note>Settings</note>
       </trans-unit>
       <trans-unit id="Forward">
