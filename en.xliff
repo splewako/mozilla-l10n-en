@@ -54,6 +54,11 @@
         <target>Cancel</target>
         <note>Cancel button</note>
       </trans-unit>
+      <trans-unit id="Could not connect to Firefox Accounts.">
+        <source>Could not connect to Firefox Accounts.</source>
+        <target>Could not connect to Firefox Accounts.</target>
+        <note>Settings</note>
+      </trans-unit>
       <trans-unit id="Default">
         <source>Default</source>
         <target>Default</target>
@@ -68,6 +73,11 @@
         <source>Double tap and hold to open history</source>
         <target>Double tap and hold to open history</target>
         <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Enter your password to connect.">
+        <source>Enter your password to connect.</source>
+        <target>Enter your password to connect.</target>
+        <note>Settings</note>
       </trans-unit>
       <trans-unit id="Forward">
         <source>Forward</source>
@@ -158,6 +168,16 @@
         <source>URL</source>
         <target>URL</target>
         <note>Accessibility label</note>
+      </trans-unit>
+      <trans-unit id="Upgrade Firefox to connect.">
+        <source>Upgrade Firefox to connect.</source>
+        <target>Upgrade Firefox to connect.</target>
+        <note>Settings</note>
+      </trans-unit>
+      <trans-unit id="Verify your email address.">
+        <source>Verify your email address.</source>
+        <target>Verify your email address.</target>
+        <note>Settings</note>
       </trans-unit>
       <trans-unit id="Web content">
         <source>Web content</source>
