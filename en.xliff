@@ -49,6 +49,11 @@
         <target>Back</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Bookmarks">
+        <source>Bookmarks</source>
+        <target>Bookmarks</target>
+        <note>Panel accessibility label</note>
+      </trans-unit>
       <trans-unit id="Cancel">
         <source>Cancel</source>
         <target>Cancel</target>
@@ -100,6 +105,11 @@
         <target>Forward</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="History">
+        <source>History</source>
+        <target>History</target>
+        <note>Panel accessibility label</note>
+      </trans-unit>
       <trans-unit id="Last month">
         <source>Last month</source>
         <target>Last month</target>
@@ -124,6 +134,11 @@
         <source>Reader</source>
         <target>Reader</target>
         <note>Browser function that presents simplified version of the page with bigger text.</note>
+      </trans-unit>
+      <trans-unit id="Reading list">
+        <source>Reading list</source>
+        <target>Reading list</target>
+        <note>Panel accessibility label</note>
       </trans-unit>
       <trans-unit id="Recent Bookmarks">
         <source>Recent Bookmarks</source>
@@ -175,10 +190,20 @@
         <target>Sign in</target>
         <note>Settings</note>
       </trans-unit>
+      <trans-unit id="Tabs">
+        <source>Tabs</source>
+        <target>Tabs</target>
+        <note>Panel accessibility label</note>
+      </trans-unit>
       <trans-unit id="Today">
         <source>Today</source>
         <target>Today</target>
         <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Top sites">
+        <source>Top sites</source>
+        <target>Top sites</target>
+        <note>Panel accessibility label</note>
       </trans-unit>
       <trans-unit id="URL">
         <source>URL</source>
