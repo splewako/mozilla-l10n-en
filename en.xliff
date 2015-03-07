@@ -65,10 +65,12 @@
         <target>Could not connect to Firefox Accounts.</target>
         <note>Settings</note>
       </trans-unit>
-      <trans-unit id="Default">
-        <source>Default</source>
-        <target>Default</target>
-        <note>Search Settings</note>
+      <trans-unit id="Default Search Engine">
+        <source>Default Search Engine</source>
+        <target>Default Search Engine</target>
+        <note>Accessibility label for default search engine setting.
+   Title for default search engine picker.
+   Title for default search engine settings section.</note>
       </trans-unit>
       <trans-unit id="Disconnect">
         <source>Disconnect</source>
@@ -125,10 +127,10 @@
         <target>OK</target>
         <note>OK button</note>
       </trans-unit>
-      <trans-unit id="Providers">
-        <source>Providers</source>
-        <target>Providers</target>
-        <note>Search Settings</note>
+      <trans-unit id="Quick-search Engines">
+        <source>Quick-search Engines</source>
+        <target>Quick-search Engines</target>
+        <note>Title for quick-search engines settings section.</note>
       </trans-unit>
       <trans-unit id="Reader">
         <source>Reader</source>
@@ -148,12 +150,13 @@
       <trans-unit id="Search">
         <source>Search</source>
         <target>Search</target>
-        <note>Settings</note>
+        <note>Navigation title for search settings.
+   Settings</note>
       </trans-unit>
-      <trans-unit id="Search Default">
-        <source>Search Default</source>
-        <target>Search Default</target>
-        <note>Settings</note>
+      <trans-unit id="Search Settings">
+        <source>Search Settings</source>
+        <target>Search Settings</target>
+        <note>Title for search settings section.</note>
       </trans-unit>
       <trans-unit id="Search or enter address">
         <source>Search or enter address</source>
@@ -178,7 +181,8 @@
       <trans-unit id="Settings">
         <source>Settings</source>
         <target>Settings</target>
-        <note>Settings</note>
+        <note>Accessibility label for the Settings button in the Tab Tray.
+   Settings</note>
       </trans-unit>
       <trans-unit id="Show Tabs">
         <source>Show Tabs</source>
@@ -188,7 +192,13 @@
       <trans-unit id="Sign in">
         <source>Sign in</source>
         <target>Sign in</target>
-        <note>Settings</note>
+        <note>Button that leads to Sign in section of the Settings sheet.
+   Settings</note>
+      </trans-unit>
+      <trans-unit id="Tabs Tray">
+        <source>Tabs Tray</source>
+        <target>Tabs Tray</target>
+        <note>Accessibility label for the Tabs Tray view.</note>
       </trans-unit>
       <trans-unit id="Today">
         <source>Today</source>
