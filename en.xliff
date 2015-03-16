@@ -122,6 +122,16 @@
         <target>Last week</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Mark as Read">
+        <source>Mark as Read</source>
+        <target>Mark as Read</target>
+        <note>Title for the button that marks a reading list item as read</note>
+      </trans-unit>
+      <trans-unit id="Mark as Unread">
+        <source>Mark as Unread</source>
+        <target>Mark as Unread</target>
+        <note>Title for the button that marks a reading list item as unread</note>
+      </trans-unit>
       <trans-unit id="OK">
         <source>OK</source>
         <target>OK</target>
@@ -146,6 +156,11 @@
         <source>Recent Bookmarks</source>
         <target>Recent Bookmarks</target>
         <note>Header for bookmarks list</note>
+      </trans-unit>
+      <trans-unit id="Remove">
+        <source>Remove</source>
+        <target>Remove</target>
+        <note>Title for the button that removes a reading list item</note>
       </trans-unit>
       <trans-unit id="Search">
         <source>Search</source>
