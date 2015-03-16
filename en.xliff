@@ -199,6 +199,11 @@
         <note>Accessibility label for the Settings button in the Tab Tray.
    Settings</note>
       </trans-unit>
+      <trans-unit id="Share">
+        <source>Share</source>
+        <target>Share</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Show Tabs">
         <source>Show Tabs</source>
         <target>Show Tabs</target>
