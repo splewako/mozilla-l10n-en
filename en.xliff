@@ -57,7 +57,8 @@
       <trans-unit id="Cancel">
         <source>Cancel</source>
         <target>Cancel</target>
-        <note>Cancel button
+        <note>Cancel
+   Cancel button
    Settings</note>
       </trans-unit>
       <trans-unit id="Could not connect to Firefox Accounts.">
@@ -135,7 +136,13 @@
       <trans-unit id="OK">
         <source>OK</source>
         <target>OK</target>
-        <note>OK button</note>
+        <note>OK
+   OK button</note>
+      </trans-unit>
+      <trans-unit id="Opening %@">
+        <source>Opening %@</source>
+        <target>Opening %@</target>
+        <note>Opening an external URL</note>
       </trans-unit>
       <trans-unit id="Quick-search Engines">
         <source>Quick-search Engines</source>
@@ -224,6 +231,11 @@
         <source>Tabs Tray</source>
         <target>Tabs Tray</target>
         <note>Accessibility label for the Tabs Tray view.</note>
+      </trans-unit>
+      <trans-unit id="This will open in another application">
+        <source>This will open in another application</source>
+        <target>This will open in another application</target>
+        <note>Opening an external app</note>
       </trans-unit>
       <trans-unit id="Today">
         <source>Today</source>
