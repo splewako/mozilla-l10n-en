@@ -227,6 +227,11 @@
         <note>Button that leads to Sign in section of the Settings sheet.
    Settings</note>
       </trans-unit>
+      <trans-unit id="Synced tabs">
+        <source>Synced tabs</source>
+        <target>Synced tabs</target>
+        <note>Panel accessibility label</note>
+      </trans-unit>
       <trans-unit id="Tabs Tray">
         <source>Tabs Tray</source>
         <target>Tabs Tray</target>
