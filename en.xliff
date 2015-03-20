@@ -67,12 +67,12 @@
       <trans-unit id="Add to Bookmarks">
         <source>Add to Bookmarks</source>
         <target>Add to Bookmarks</target>
-        <note>No comment provided by engineer.</note>
+        <note>On/off toggle to select adding this url to your bookmarks</note>
       </trans-unit>
       <trans-unit id="Add to Reading List">
         <source>Add to Reading List</source>
         <target>Add to Reading List</target>
-        <note>No comment provided by engineer.</note>
+        <note>On/off toggle to select adding this url to your reading list</note>
       </trans-unit>
       <trans-unit id="Address and Search">
         <source>Address and Search</source>
@@ -82,7 +82,7 @@
       <trans-unit id="Back">
         <source>Back</source>
         <target>Back</target>
-        <note>No comment provided by engineer.</note>
+        <note>Accessibility Label for the browser toolbar Back button</note>
       </trans-unit>
       <trans-unit id="Bookmarks">
         <source>Bookmarks</source>
@@ -92,14 +92,14 @@
       <trans-unit id="Cancel">
         <source>Cancel</source>
         <target>Cancel</target>
-        <note>Cancel
+        <note>Alert Cancel Button
    Cancel button
-   Settings</note>
+   Cancel button in the 'disconnect firefox account' alert</note>
       </trans-unit>
       <trans-unit id="Could not connect to Firefox Accounts.">
         <source>Could not connect to Firefox Accounts.</source>
         <target>Could not connect to Firefox Accounts.</target>
-        <note>Settings</note>
+        <note>Error message that is shown in settings when there was a problem connecting to Firefox Accounts</note>
       </trans-unit>
       <trans-unit id="Default Search Engine">
         <source>Default Search Engine</source>
@@ -111,17 +111,18 @@
       <trans-unit id="Disconnect">
         <source>Disconnect</source>
         <target>Disconnect</target>
-        <note>Settings</note>
+        <note>Button in settings screen to disconnect from your account
+   Disconnect button in the 'disconnect firefox account' alert</note>
       </trans-unit>
       <trans-unit id="Disconnect Firefox Account?">
         <source>Disconnect Firefox Account?</source>
         <target>Disconnect Firefox Account?</target>
-        <note>Settings</note>
+        <note>Title of the 'disconnect firefox account' alert</note>
       </trans-unit>
       <trans-unit id="Done">
         <source>Done</source>
         <target>Done</target>
-        <note>Settings</note>
+        <note>Done button on left side of the Settings view controller title bar</note>
       </trans-unit>
       <trans-unit id="Double tap and hold to open history">
         <source>Double tap and hold to open history</source>
@@ -131,17 +132,17 @@
       <trans-unit id="Enter your password to connect.">
         <source>Enter your password to connect.</source>
         <target>Enter your password to connect.</target>
-        <note>Settings</note>
+        <note>Text message in the settings table view</note>
       </trans-unit>
       <trans-unit id="Firefox will stop syncing with your account, but won’t delete any of your browsing data on this device.">
         <source>Firefox will stop syncing with your account, but won’t delete any of your browsing data on this device.</source>
         <target>Firefox will stop syncing with your account, but won’t delete any of your browsing data on this device.</target>
-        <note>Settings</note>
+        <note>Text of the 'disconnect firefox account' alert</note>
       </trans-unit>
       <trans-unit id="Forward">
         <source>Forward</source>
         <target>Forward</target>
-        <note>No comment provided by engineer.</note>
+        <note>Accessibility Label for the browser toolbar Forward button</note>
       </trans-unit>
       <trans-unit id="History">
         <source>History</source>
@@ -151,12 +152,12 @@
       <trans-unit id="Last month">
         <source>Last month</source>
         <target>Last month</target>
-        <note>No comment provided by engineer.</note>
+        <note>History tableview section header</note>
       </trans-unit>
       <trans-unit id="Last week">
         <source>Last week</source>
         <target>Last week</target>
-        <note>No comment provided by engineer.</note>
+        <note>History tableview section header</note>
       </trans-unit>
       <trans-unit id="Mark as Read">
         <source>Mark as Read</source>
@@ -171,7 +172,7 @@
       <trans-unit id="OK">
         <source>OK</source>
         <target>OK</target>
-        <note>OK
+        <note>Alert OK Button
    OK button</note>
       </trans-unit>
       <trans-unit id="Opening %@">
@@ -208,7 +209,7 @@
         <source>Search</source>
         <target>Search</target>
         <note>Navigation title for search settings.
-   Settings</note>
+   Table row in settings to go to the Search settings</note>
       </trans-unit>
       <trans-unit id="Search Settings">
         <source>Search Settings</source>
@@ -223,17 +224,17 @@
       <trans-unit id="Secure connection">
         <source>Secure connection</source>
         <target>Secure connection</target>
-        <note>No comment provided by engineer.</note>
+        <note>Accessibility label for the lock icon, which is only present if the connection is secure</note>
       </trans-unit>
       <trans-unit id="Send To Device">
         <source>Send To Device</source>
         <target>Send To Device</target>
-        <note>No comment provided by engineer.</note>
+        <note>Title of the dialog that allows you to send a tab to a different device</note>
       </trans-unit>
-      <trans-unit id="Send to ">
-        <source>Send to </source>
-        <target>Send to </target>
-        <note>No comment provided by engineer.</note>
+      <trans-unit id="Send to %@">
+        <source>Send to %@</source>
+        <target>Send to %@</target>
+        <note>Text in a table view row that lets the user pick a device to which to send a tab to</note>
       </trans-unit>
       <trans-unit id="Settings">
         <source>Settings</source>
@@ -244,12 +245,13 @@
       <trans-unit id="Share">
         <source>Share</source>
         <target>Share</target>
-        <note>No comment provided by engineer.</note>
+        <note>Accessibility Label for the browser toolbar Bookmark button
+   Accessibility Label for the browser toolbar Share button</note>
       </trans-unit>
       <trans-unit id="Show Tabs">
         <source>Show Tabs</source>
         <target>Show Tabs</target>
-        <note>No comment provided by engineer.</note>
+        <note>Accessibility label for the tabs button in the (top) browser toolbar</note>
       </trans-unit>
       <trans-unit id="Show search suggestions">
         <source>Show search suggestions</source>
@@ -260,7 +262,7 @@
         <source>Sign in</source>
         <target>Sign in</target>
         <note>Button that leads to Sign in section of the Settings sheet.
-   Settings</note>
+   Text message / button in the settings table view</note>
       </trans-unit>
       <trans-unit id="Synced tabs">
         <source>Synced tabs</source>
@@ -280,7 +282,7 @@
       <trans-unit id="Today">
         <source>Today</source>
         <target>Today</target>
-        <note>No comment provided by engineer.</note>
+        <note>History tableview section header</note>
       </trans-unit>
       <trans-unit id="Top sites">
         <source>Top sites</source>
@@ -290,17 +292,22 @@
       <trans-unit id="URL">
         <source>URL</source>
         <target>URL</target>
-        <note>Accessibility label</note>
+        <note>Accessibility label for the URL location label</note>
       </trans-unit>
       <trans-unit id="Upgrade Firefox to connect.">
         <source>Upgrade Firefox to connect.</source>
         <target>Upgrade Firefox to connect.</target>
-        <note>Settings</note>
+        <note>Text message in the settings table view</note>
       </trans-unit>
       <trans-unit id="Verify your email address.">
         <source>Verify your email address.</source>
         <target>Verify your email address.</target>
-        <note>Settings</note>
+        <note>Text message in the settings table view</note>
+      </trans-unit>
+      <trans-unit id="Version %@ (%@)">
+        <source>Version %1$@ (%2$@)</source>
+        <target>Version %1$@ (%2$@)</target>
+        <note>Table row in settings that contains the application version and build</note>
       </trans-unit>
       <trans-unit id="Web content">
         <source>Web content</source>
@@ -310,7 +317,7 @@
       <trans-unit id="Yesterday">
         <source>Yesterday</source>
         <target>Yesterday</target>
-        <note>No comment provided by engineer.</note>
+        <note>History tableview section header</note>
       </trans-unit>
     </body>
   </file>
