@@ -59,6 +59,11 @@
         <target>%@ search</target>
         <note>Label for search engine buttons. The argument corresponds to the name of the search engine.</note>
       </trans-unit>
+      <trans-unit id="About">
+        <source>About</source>
+        <target>About</target>
+        <note>Title for about section.</note>
+      </trans-unit>
       <trans-unit id="Add to Bookmarks">
         <source>Add to Bookmarks</source>
         <target>Add to Bookmarks</target>
