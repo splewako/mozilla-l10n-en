@@ -119,6 +119,16 @@
         <target>Disconnect Firefox Account?</target>
         <note>Title of the 'disconnect firefox account' alert</note>
       </trans-unit>
+      <trans-unit id="Do you want to save the password for {username} on {hostname}?">
+        <source>Do you want to save the password for {username} on {hostname}?</source>
+        <target>Do you want to save the password for {username} on {hostname}?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Do you want to update the password for {username} on {hostname}?">
+        <source>Do you want to update the password for {username} on {hostname}?</source>
+        <target>Do you want to update the password for {username} on {hostname}?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Done">
         <source>Done</source>
         <target>Done</target>
