@@ -64,6 +64,11 @@
         <target>About</target>
         <note>Title for about section.</note>
       </trans-unit>
+      <trans-unit id="Add tab">
+        <source>Add tab</source>
+        <target>Add tab</target>
+        <note>Open the tabs tray</note>
+      </trans-unit>
       <trans-unit id="Add to Bookmarks">
         <source>Add to Bookmarks</source>
         <target>Add to Bookmarks</target>
@@ -83,6 +88,11 @@
         <source>Back</source>
         <target>Back</target>
         <note>Accessibility Label for the browser toolbar Back button</note>
+      </trans-unit>
+      <trans-unit id="Bookmark">
+        <source>Bookmark</source>
+        <target>Bookmark</target>
+        <note>Accessibility Label for the browser toolbar Bookmark button</note>
       </trans-unit>
       <trans-unit id="Bookmarks">
         <source>Bookmarks</source>
@@ -255,13 +265,13 @@
       <trans-unit id="Share">
         <source>Share</source>
         <target>Share</target>
-        <note>Accessibility Label for the browser toolbar Bookmark button
-   Accessibility Label for the browser toolbar Share button</note>
+        <note>Accessibility Label for the browser toolbar Share button</note>
       </trans-unit>
       <trans-unit id="Show Tabs">
         <source>Show Tabs</source>
         <target>Show Tabs</target>
-        <note>Accessibility label for the tabs button in the (top) browser toolbar</note>
+        <note>Accessibility label for the tabs button in the (top) browser toolbar
+   Accessibility Label for the urlbar tabs button</note>
       </trans-unit>
       <trans-unit id="Show search suggestions">
         <source>Show search suggestions</source>
