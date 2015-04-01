@@ -111,6 +111,11 @@
         <target>Could not connect to Firefox Accounts.</target>
         <note>Error message that is shown in settings when there was a problem connecting to Firefox Accounts</note>
       </trans-unit>
+      <trans-unit id="Dark">
+        <source>Dark</source>
+        <target>Dark</target>
+        <note>Dark theme setting in Reading View settings</note>
+      </trans-unit>
       <trans-unit id="Default Search Engine">
         <source>Default Search Engine</source>
         <target>Default Search Engine</target>
@@ -179,6 +184,11 @@
         <target>Last week</target>
         <note>History tableview section header</note>
       </trans-unit>
+      <trans-unit id="Light">
+        <source>Light</source>
+        <target>Light</target>
+        <note>Light theme setting in Reading View settings</note>
+      </trans-unit>
       <trans-unit id="Mark as Read">
         <source>Mark as Read</source>
         <target>Mark as Read</target>
@@ -225,6 +235,11 @@
         <target>Remove</target>
         <note>Title for the button that removes a reading list item</note>
       </trans-unit>
+      <trans-unit id="Sans-serif">
+        <source>Sans-serif</source>
+        <target>Sans-serif</target>
+        <note>Font type setting in the reading view settings</note>
+      </trans-unit>
       <trans-unit id="Search">
         <source>Search</source>
         <target>Search</target>
@@ -255,6 +270,16 @@
         <source>Send to %@</source>
         <target>Send to %@</target>
         <note>Text in a table view row that lets the user pick a device to which to send a tab to</note>
+      </trans-unit>
+      <trans-unit id="Sepia">
+        <source>Sepia</source>
+        <target>Sepia</target>
+        <note>Sepia theme setting in Reading View settings</note>
+      </trans-unit>
+      <trans-unit id="Serif">
+        <source>Serif</source>
+        <target>Serif</target>
+        <note>Font type setting in the reading view settings</note>
       </trans-unit>
       <trans-unit id="Settings">
         <source>Settings</source>
