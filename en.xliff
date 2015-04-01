@@ -64,6 +64,11 @@
         <target>About</target>
         <note>Title for about section.</note>
       </trans-unit>
+      <trans-unit id="Add">
+        <source>Add</source>
+        <target>Add</target>
+        <note>Add button in the share dialog</note>
+      </trans-unit>
       <trans-unit id="Add tab">
         <source>Add tab</source>
         <target>Add tab</target>
