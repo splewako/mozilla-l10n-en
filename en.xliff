@@ -224,6 +224,11 @@
         <target>Reader</target>
         <note>Browser function that presents simplified version of the page with bigger text.</note>
       </trans-unit>
+      <trans-unit id="Reader Mode">
+        <source>Reader Mode</source>
+        <target>Reader Mode</target>
+        <note>Accessibility label for the reader mode button</note>
+      </trans-unit>
       <trans-unit id="Reading list">
         <source>Reading list</source>
         <target>Reading list</target>
@@ -233,6 +238,11 @@
         <source>Recent Bookmarks</source>
         <target>Recent Bookmarks</target>
         <note>Header for bookmarks list</note>
+      </trans-unit>
+      <trans-unit id="Reload">
+        <source>Reload</source>
+        <target>Reload</target>
+        <note>Accessibility label for the reload button</note>
       </trans-unit>
       <trans-unit id="Remove">
         <source>Remove</source>
@@ -312,6 +322,11 @@
         <target>Sign in</target>
         <note>Button that leads to Sign in section of the Settings sheet.
    Text message / button in the settings table view</note>
+      </trans-unit>
+      <trans-unit id="Stop">
+        <source>Stop</source>
+        <target>Stop</target>
+        <note>Accessibility label for the stop button</note>
       </trans-unit>
       <trans-unit id="Synced tabs">
         <source>Synced tabs</source>
