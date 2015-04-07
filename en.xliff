@@ -242,7 +242,7 @@
       <trans-unit id="Reload">
         <source>Reload</source>
         <target>Reload</target>
-        <note>Accessibility label for the reload button</note>
+        <note>Accessibility Label for the browser toolbar Reload button</note>
       </trans-unit>
       <trans-unit id="Remove">
         <source>Remove</source>
@@ -323,11 +323,6 @@
         <note>Button that leads to Sign in section of the Settings sheet.
    Text message / button in the settings table view</note>
       </trans-unit>
-      <trans-unit id="Stop">
-        <source>Stop</source>
-        <target>Stop</target>
-        <note>Accessibility label for the stop button</note>
-      </trans-unit>
       <trans-unit id="Synced tabs">
         <source>Synced tabs</source>
         <target>Synced tabs</target>
@@ -337,6 +332,11 @@
         <source>Tabs Tray</source>
         <target>Tabs Tray</target>
         <note>Accessibility label for the Tabs Tray view.</note>
+      </trans-unit>
+      <trans-unit id="Tap to reload page">
+        <source>Tap to reload page</source>
+        <target>Tap to reload page</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="This will open in another application">
         <source>This will open in another application</source>
