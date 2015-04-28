@@ -195,6 +195,21 @@
         <target>Dark</target>
         <note>Dark theme setting in Reading View settings</note>
       </trans-unit>
+      <trans-unit id="Debug: forget Sync auth state">
+        <source>Debug: forget Sync auth state</source>
+        <target>Debug: forget Sync auth state</target>
+        <note>Debug option</note>
+      </trans-unit>
+      <trans-unit id="Debug: require password">
+        <source>Debug: require password</source>
+        <target>Debug: require password</target>
+        <note>Debug option</note>
+      </trans-unit>
+      <trans-unit id="Debug: require upgrade">
+        <source>Debug: require upgrade</source>
+        <target>Debug: require upgrade</target>
+        <note>Debug option</note>
+      </trans-unit>
       <trans-unit id="Default Search Engine">
         <source>Default Search Engine</source>
         <target>Default Search Engine</target>
