@@ -150,6 +150,11 @@
         <target>Bookmarks</target>
         <note>Panel accessibility label</note>
       </trans-unit>
+      <trans-unit id="Call">
+        <source>Call</source>
+        <target>Call</target>
+        <note>Alert Call Button</note>
+      </trans-unit>
       <trans-unit id="Cancel">
         <source>Cancel</source>
         <target>Cancel</target>
