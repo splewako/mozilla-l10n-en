@@ -80,6 +80,38 @@
       </trans-unit>
     </body>
   </file>
+  <file original="Client/Intro.strings" source-language="en" datatype="plaintext" target-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.3.2" build-num="6D2105"/>
+    </header>
+    <body>
+      <trans-unit id="Browse the web with multiple tabs just like you’re used to.">
+        <source>Browse the web with multiple tabs just like you’re used to.</source>
+        <target>Browse the web with multiple tabs just like you’re used to.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Connect to Firefox Accounts anywhere you want.">
+        <source>Connect to Firefox Accounts anywhere you want.</source>
+        <target>Connect to Firefox Accounts anywhere you want.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Personalize your Firefox just the way you’d like in the Settings area.">
+        <source>Personalize your Firefox just the way you’d like in the Settings area.</source>
+        <target>Personalize your Firefox just the way you’d like in the Settings area.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Sign in to Firefox">
+        <source>Sign in to Firefox</source>
+        <target>Sign in to Firefox</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Start Browsing">
+        <source>Start Browsing</source>
+        <target>Start Browsing</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
   <file original="Client/Localizable.strings" source-language="en" datatype="plaintext" target-language="en">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.3.2" build-num="6D2105"/>
@@ -326,14 +358,22 @@
       <trans-unit id="Mark as Read">
         <source>Mark as Read</source>
         <target>Mark as Read</target>
-        <note>Name for Mark as read button in reader mode
-   Title for the button that marks a reading list item as read</note>
+        <note>Title for the button that marks a reading list item as read</note>
       </trans-unit>
       <trans-unit id="Mark as Unread">
         <source>Mark as Unread</source>
         <target>Mark as Unread</target>
-        <note>Name for Mark as unread button in reader mode
-   Title for the button that marks a reading list item as unread</note>
+        <note>Title for the button that marks a reading list item as unread</note>
+      </trans-unit>
+      <trans-unit id="Mark as read">
+        <source>Mark as read</source>
+        <target>Mark as read</target>
+        <note>Name for Mark as read button in reader mode</note>
+      </trans-unit>
+      <trans-unit id="Mark as unread">
+        <source>Mark as unread</source>
+        <target>Mark as unread</target>
+        <note>Name for Mark as unread button in reader mode</note>
       </trans-unit>
       <trans-unit id="Missing error">
         <source>Missing error</source>
@@ -490,6 +530,11 @@
         <note>Accessibility label for the tabs button in the (top) browser toolbar
    Accessibility Label for the urlbar tabs button</note>
       </trans-unit>
+      <trans-unit id="Show introduction again">
+        <source>Show introduction again</source>
+        <target>Show introduction again</target>
+        <note>Show the on-boarding screen again from the settings</note>
+      </trans-unit>
       <trans-unit id="Show search suggestions">
         <source>Show search suggestions</source>
         <target>Show search suggestions</target>
@@ -505,6 +550,11 @@
         <source>Stop</source>
         <target>Stop</target>
         <note>Accessibility Label for the browser toolbar Stop button</note>
+      </trans-unit>
+      <trans-unit id="Support">
+        <source>Support</source>
+        <target>Support</target>
+        <note>Support section title</note>
       </trans-unit>
       <trans-unit id="Synced tabs">
         <source>Synced tabs</source>
