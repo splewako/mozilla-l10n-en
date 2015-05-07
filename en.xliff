@@ -358,22 +358,14 @@
       <trans-unit id="Mark as Read">
         <source>Mark as Read</source>
         <target>Mark as Read</target>
-        <note>Title for the button that marks a reading list item as read</note>
+        <note>Name for Mark as read button in reader mode
+   Title for the button that marks a reading list item as read</note>
       </trans-unit>
       <trans-unit id="Mark as Unread">
         <source>Mark as Unread</source>
         <target>Mark as Unread</target>
-        <note>Title for the button that marks a reading list item as unread</note>
-      </trans-unit>
-      <trans-unit id="Mark as read">
-        <source>Mark as read</source>
-        <target>Mark as read</target>
-        <note>Name for Mark as read button in reader mode</note>
-      </trans-unit>
-      <trans-unit id="Mark as unread">
-        <source>Mark as unread</source>
-        <target>Mark as unread</target>
-        <note>Name for Mark as unread button in reader mode</note>
+        <note>Name for Mark as unread button in reader mode
+   Title for the button that marks a reading list item as unread</note>
       </trans-unit>
       <trans-unit id="Missing error">
         <source>Missing error</source>
