@@ -773,7 +773,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Shared/Supporting Files/Sync.strings" source-language="en" datatype="plaintext" target-language="en">
+  <file original="Shared/Supporting Files/Shared.strings" source-language="en" datatype="plaintext" target-language="en">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.3.2" build-num="6D2105"/>
     </header>
