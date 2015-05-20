@@ -191,6 +191,11 @@
         <target>Back</target>
         <note>Accessibility Label for the browser toolbar Back button</note>
       </trans-unit>
+      <trans-unit id="Block pop-up windows">
+        <source>Block pop-up windows</source>
+        <target>Block pop-up windows</target>
+        <note>Block pop-up windows setting</note>
+      </trans-unit>
       <trans-unit id="Bookmark">
         <source>Bookmark</source>
         <target>Bookmark</target>
@@ -333,6 +338,11 @@
         <source>Forward</source>
         <target>Forward</target>
         <note>Accessibility Label for the browser toolbar Forward button</note>
+      </trans-unit>
+      <trans-unit id="General">
+        <source>General</source>
+        <target>General</target>
+        <note>General settings section title</note>
       </trans-unit>
       <trans-unit id="History">
         <source>History</source>
