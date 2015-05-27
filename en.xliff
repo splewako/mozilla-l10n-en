@@ -273,11 +273,6 @@
         <target>Could not connect to Firefox Accounts.</target>
         <note>Error message that is shown in settings when there was a problem connecting to Firefox Accounts</note>
       </trans-unit>
-      <trans-unit id="Customize">
-        <source>Customize</source>
-        <target>Customize</target>
-        <note>Customize section title in settings</note>
-      </trans-unit>
       <trans-unit id="Dark">
         <source>Dark</source>
         <target>Dark</target>
@@ -662,11 +657,6 @@
         <source>Upgrade Firefox to connect.</source>
         <target>Upgrade Firefox to connect.</target>
         <note>Text message in the settings table view</note>
-      </trans-unit>
-      <trans-unit id="Use Compact Tabs">
-        <source>Use Compact Tabs</source>
-        <target>Use Compact Tabs</target>
-        <note>Setting to enable compact tabs in the tab overview</note>
       </trans-unit>
       <trans-unit id="Username">
         <source>Username</source>
