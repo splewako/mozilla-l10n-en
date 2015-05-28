@@ -258,6 +258,16 @@
         <target>Copy Address</target>
         <note>Copy the URL from the location bar</note>
       </trans-unit>
+      <trans-unit id="Copy Image">
+        <source>Copy Image</source>
+        <target>Copy Image</target>
+        <note>Context menu item for copying an image to the clipboard</note>
+      </trans-unit>
+      <trans-unit id="Copy Link">
+        <source>Copy Link</source>
+        <target>Copy Link</target>
+        <note>Context menu item for copying a link URL to the clipboard</note>
+      </trans-unit>
       <trans-unit id="Could not connect to Firefox Accounts.">
         <source>Could not connect to Firefox Accounts.</source>
         <target>Could not connect to Firefox Accounts.</target>
@@ -430,6 +440,11 @@
    Label for OK button in the application update prompt
    OK button</note>
       </trans-unit>
+      <trans-unit id="Open In New Tab">
+        <source>Open In New Tab</source>
+        <target>Open In New Tab</target>
+        <note>Context menu item for opening a link in a new tab</note>
+      </trans-unit>
       <trans-unit id="Opening %@">
         <source>Opening %@</source>
         <target>Opening %@</target>
@@ -509,6 +524,11 @@
         <source>Save</source>
         <target>Save</target>
         <note>Button to save the user's password</note>
+      </trans-unit>
+      <trans-unit id="Save Image">
+        <source>Save Image</source>
+        <target>Save Image</target>
+        <note>Context menu item for saving an image</note>
       </trans-unit>
       <trans-unit id="Search">
         <source>Search</source>
