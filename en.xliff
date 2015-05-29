@@ -575,7 +575,8 @@
       <trans-unit id="Show Tabs">
         <source>Show Tabs</source>
         <target>Show Tabs</target>
-        <note>Accessibility Label for the tabs button in the browser toolbar</note>
+        <note>Accessibility label for the tabs button in the (top) browser toolbar
+   Accessibility Label for the tabs button in the browser toolbar</note>
       </trans-unit>
       <trans-unit id="Show introduction again">
         <source>Show introduction again</source>
