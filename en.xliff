@@ -403,10 +403,10 @@
         <target>Light</target>
         <note>Light theme setting in Reading View settings</note>
       </trans-unit>
-      <trans-unit id="Login">
-        <source>Login</source>
-        <target>Login</target>
-        <note>Authentication prompt login button</note>
+      <trans-unit id="Log in">
+        <source>Log in</source>
+        <target>Log in</target>
+        <note>Authentication prompt log in button</note>
       </trans-unit>
       <trans-unit id="Mark as Read">
         <source>Mark as Read</source>
