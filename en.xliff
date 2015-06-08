@@ -141,7 +141,8 @@
       <trans-unit id="Sign in to Firefox">
         <source>Sign in to Firefox</source>
         <target>Sign in to Firefox</target>
-        <note>Do not translate yet</note>
+        <note>Do not translate yet
+   See http://mzl.la/1Qtkf0j</note>
       </trans-unit>
       <trans-unit id="Start Browsing">
         <source>Start Browsing</source>
@@ -284,6 +285,11 @@
         <source>Could not connect to Firefox Accounts.</source>
         <target>Could not connect to Firefox Accounts.</target>
         <note>Error message that is shown in settings when there was a problem connecting to Firefox Accounts</note>
+      </trans-unit>
+      <trans-unit id="Create an account">
+        <source>Create an account</source>
+        <target>Create an account</target>
+        <note>See http://mzl.la/1Qtkf0j</note>
       </trans-unit>
       <trans-unit id="Customize">
         <source>Customize</source>
@@ -611,6 +617,11 @@
         <note>Button that leads to Sign in section of the Settings sheet.
    Text message / button in the settings table view</note>
       </trans-unit>
+      <trans-unit id="Sign in to sync your tabs, bookmarks, passwords, &amp; more.">
+        <source>Sign in to sync your tabs, bookmarks, passwords, &amp; more.</source>
+        <target>Sign in to sync your tabs, bookmarks, passwords, &amp; more.</target>
+        <note>See http://mzl.la/1Qtkf0j</note>
+      </trans-unit>
       <trans-unit id="Stop">
         <source>Stop</source>
         <target>Stop</target>
@@ -705,6 +716,11 @@
         <source>Web content</source>
         <target>Web content</target>
         <note>Accessibility label for the main web content view</note>
+      </trans-unit>
+      <trans-unit id="Welcome to Sync">
+        <source>Welcome to Sync</source>
+        <target>Welcome to Sync</target>
+        <note>See http://mzl.la/1Qtkf0j</note>
       </trans-unit>
       <trans-unit id="Welcome to your Reading List">
         <source>Welcome to your Reading List</source>
