@@ -141,8 +141,7 @@
       <trans-unit id="Sign in to Firefox">
         <source>Sign in to Firefox</source>
         <target>Sign in to Firefox</target>
-        <note>Do not translate yet
-   See http://mzl.la/1Qtkf0j</note>
+        <note>Do not translate yet</note>
       </trans-unit>
       <trans-unit id="Start Browsing">
         <source>Start Browsing</source>
@@ -615,12 +614,8 @@
         <source>Sign in</source>
         <target>Sign in</target>
         <note>Button that leads to Sign in section of the Settings sheet.
+   See http://mzl.la/1Qtkf0j
    Text message / button in the settings table view</note>
-      </trans-unit>
-      <trans-unit id="Sign in to sync your tabs, bookmarks, passwords, &amp; more.">
-        <source>Sign in to sync your tabs, bookmarks, passwords, &amp; more.</source>
-        <target>Sign in to sync your tabs, bookmarks, passwords, &amp; more.</target>
-        <note>See http://mzl.la/1Qtkf0j</note>
       </trans-unit>
       <trans-unit id="Stop">
         <source>Stop</source>
@@ -631,6 +626,11 @@
         <source>Support</source>
         <target>Support</target>
         <note>Support section title</note>
+      </trans-unit>
+      <trans-unit id="Sync your tabs, bookmarks, passwords and more.">
+        <source>Sync your tabs, bookmarks, passwords and more.</source>
+        <target>Sync your tabs, bookmarks, passwords and more.</target>
+        <note>See http://mzl.la/1Qtkf0j</note>
       </trans-unit>
       <trans-unit id="Synced tabs">
         <source>Synced tabs</source>
