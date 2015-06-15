@@ -577,6 +577,11 @@
         <target>Search or enter address</target>
         <note>The text shown in the URL bar on about:home</note>
       </trans-unit>
+      <trans-unit id="Searches for the suggestion">
+        <source>Searches for the suggestion</source>
+        <target>Searches for the suggestion</target>
+        <note>Accessibility hint describing the action performed when a search suggestion is clicked</note>
+      </trans-unit>
       <trans-unit id="Secure connection">
         <source>Secure connection</source>
         <target>Secure connection</target>
