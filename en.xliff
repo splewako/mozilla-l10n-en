@@ -208,7 +208,7 @@
       <trans-unit id="Add to Reading List">
         <source>Add to Reading List</source>
         <target>Add to Reading List</target>
-        <note>Name for button adding current article to reading list in reader mode</note>
+        <note>Add URL to the reading list - https://bugzilla.mozilla.org/attachment.cgi?id=8624438, https://bug1157303.bugzilla.mozilla.org/attachment.cgi?id=8624440</note>
       </trans-unit>
       <trans-unit id="Add to your Reading List by tapping the icon in the Reader View controls.">
         <source>Add to your Reading List by tapping the icon in the Reader View controls.</source>
@@ -238,7 +238,7 @@
       <trans-unit id="Bookmark">
         <source>Bookmark</source>
         <target>Bookmark</target>
-        <note>Accessibility Label for the browser toolbar Bookmark button</note>
+        <note>Bookmark a URL - https://bugzilla.mozilla.org/attachment.cgi?id=8624438, https://bug1157303.bugzilla.mozilla.org/attachment.cgi?id=8624440</note>
       </trans-unit>
       <trans-unit id="Bookmarks">
         <source>Bookmarks</source>
@@ -470,6 +470,11 @@
         <source>Missing message</source>
         <target>Missing message</target>
         <note>Error for a missing remote error message</note>
+      </trans-unit>
+      <trans-unit id="New tab: %@: %@">
+        <source>New tab: %1$@: %2$@</source>
+        <target>New tab: %1$@: %2$@</target>
+        <note>New tab [title] [url]</note>
       </trans-unit>
       <trans-unit id="New version available">
         <source>New version available</source>
@@ -752,6 +757,11 @@
         <source>Version %1$@ (%2$@)</source>
         <target>Version %1$@ (%2$@)</target>
         <note>Version number of Firefox shown in settings</note>
+      </trans-unit>
+      <trans-unit id="View">
+        <source>View</source>
+        <target>View</target>
+        <note>View a URL - https://bugzilla.mozilla.org/attachment.cgi?id=8624438, https://bug1157303.bugzilla.mozilla.org/attachment.cgi?id=8624440</note>
       </trans-unit>
       <trans-unit id="Web content">
         <source>Web content</source>
