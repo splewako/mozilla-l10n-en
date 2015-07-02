@@ -713,6 +713,11 @@
         <target>There is a new version available of Firefox Aurora. Tap OK to go to the download page.</target>
         <note>Prompt message for application update</note>
       </trans-unit>
+      <trans-unit id="There was a problem accessing tabs from your other devices. Try again in a few moments.">
+        <source>There was a problem accessing tabs from your other devices. Try again in a few moments.</source>
+        <target>There was a problem accessing tabs from your other devices. Try again in a few moments.</target>
+        <note>Error message in the remote tabs panel</note>
+      </trans-unit>
       <trans-unit id="There was an error converting the page">
         <source>There was an error converting the page</source>
         <target>There was an error converting the page</target>
@@ -787,6 +792,16 @@
         <source>Yesterday</source>
         <target>Yesterday</target>
         <note>History tableview section header</note>
+      </trans-unit>
+      <trans-unit id="You don't have any other devices connected to this Firefox Account available to sync.">
+        <source>You don't have any other devices connected to this Firefox Account available to sync.</source>
+        <target>You don't have any other devices connected to this Firefox Account available to sync.</target>
+        <note>Error message in the remote tabs panel</note>
+      </trans-unit>
+      <trans-unit id="You don't have any tabs open in Firefox on your other devices.">
+        <source>You don't have any tabs open in Firefox on your other devices.</source>
+        <target>You don't have any tabs open in Firefox on your other devices.</target>
+        <note>Error message in the remote tabs panel</note>
       </trans-unit>
       <trans-unit id="computer">
         <source>computer</source>
