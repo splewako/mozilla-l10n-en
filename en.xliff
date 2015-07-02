@@ -926,11 +926,6 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.4" build-num="6E35b"/>
     </header>
     <body>
-      <trans-unit id="&lt;Show me how&gt; to connect my other Firefox-enabled devices. This needs proper copy. Do not translate.">
-        <source>&lt;Show me how&gt; to connect my other Firefox-enabled devices. This needs proper copy. Do not translate.</source>
-        <target>&lt;Show me how&gt; to connect my other Firefox-enabled devices. This needs proper copy. Do not translate.</target>
-        <note>The part between brackets is highlighted in styled text as if it is a link.</note>
-      </trans-unit>
       <trans-unit id="&lt;Show me how&gt; to login to my Firefox Account.  This needs proper copy. Do not translate.">
         <source>&lt;Show me how&gt; to login to my Firefox Account.  This needs proper copy. Do not translate.</source>
         <target>&lt;Show me how&gt; to login to my Firefox Account.  This needs proper copy. Do not translate.</target>
@@ -961,10 +956,10 @@
         <target>You are not logged in to your Firefox Account. This needs proper copy. Do not translate.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="You currently don’t have any other devices currently connected to Firefox Sync. This needs proper copy. Do not translate.">
-        <source>You currently don’t have any other devices currently connected to Firefox Sync. This needs proper copy. Do not translate.</source>
-        <target>You currently don’t have any other devices currently connected to Firefox Sync. This needs proper copy. Do not translate.</target>
-        <note>No comment provided by engineer.</note>
+      <trans-unit id="You don't have any other devices connected to this Firefox Account available to sync.">
+        <source>You don't have any other devices connected to this Firefox Account available to sync.</source>
+        <target>You don't have any other devices connected to this Firefox Account available to sync.</target>
+        <note>Error message shown in the remote tabs panel</note>
       </trans-unit>
     </body>
   </file>
