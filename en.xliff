@@ -686,7 +686,7 @@
       <trans-unit id="Tap to reload the page">
         <source>Tap to reload the page</source>
         <target>Tap to reload the page</target>
-        <note>No comment provided by engineer.</note>
+        <note>Accessibility hint for the browser toolbar Reload button</note>
       </trans-unit>
       <trans-unit id="Tap to stop loading the page">
         <source>Tap to stop loading the page</source>
