@@ -131,37 +131,37 @@
       <trans-unit id="Browse multiple Web pages at the same time with tabs.">
         <source>Browse multiple Web pages at the same time with tabs.</source>
         <target>Browse multiple Web pages at the same time with tabs.</target>
-        <note>Do not translate yet.</note>
+        <note>See http://mzl.la/1T8gxwo</note>
       </trans-unit>
       <trans-unit id="Connect Firefox everywhere you use it.">
         <source>Connect Firefox everywhere you use it.</source>
         <target>Connect Firefox everywhere you use it.</target>
-        <note>Do not translate yet.</note>
+        <note>See http://mzl.la/1T8gxwo</note>
       </trans-unit>
       <trans-unit id="Customize">
         <source>Customize</source>
         <target>Customize</target>
-        <note>Do not translate yet.</note>
+        <note>See http://mzl.la/1T8gxwo</note>
       </trans-unit>
       <trans-unit id="Organize">
         <source>Organize</source>
         <target>Organize</target>
-        <note>Do not translate yet.</note>
+        <note>See http://mzl.la/1T8gxwo</note>
       </trans-unit>
       <trans-unit id="Personalize your Firefox just the way you like in Settings.">
         <source>Personalize your Firefox just the way you like in Settings.</source>
         <target>Personalize your Firefox just the way you like in Settings.</target>
-        <note>Do not translate yet.</note>
+        <note>See http://mzl.la/1T8gxwo</note>
       </trans-unit>
       <trans-unit id="Sign in to Firefox">
         <source>Sign in to Firefox</source>
         <target>Sign in to Firefox</target>
-        <note>Do not translate yet</note>
+        <note>See http://mzl.la/1T8gxwo</note>
       </trans-unit>
       <trans-unit id="Start Browsing">
         <source>Start Browsing</source>
         <target>Start Browsing</target>
-        <note>Do not translate yet</note>
+        <note>See http://mzl.la/1T8gxwo</note>
       </trans-unit>
     </body>
   </file>
@@ -209,11 +209,6 @@
         <source>Add to Reading List</source>
         <target>Add to Reading List</target>
         <note>Add URL to the reading list - https://bugzilla.mozilla.org/attachment.cgi?id=8624438, https://bug1157303.bugzilla.mozilla.org/attachment.cgi?id=8624440</note>
-      </trans-unit>
-      <trans-unit id="Add to your Reading List by tapping the icon in the Reader View controls.">
-        <source>Add to your Reading List by tapping the icon in the Reader View controls.</source>
-        <target>Add to your Reading List by tapping the icon in the Reader View controls.</target>
-        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Address and Search">
         <source>Address and Search</source>
@@ -503,10 +498,10 @@
         <target>Open In New Tab</target>
         <note>Context menu item for opening a link in a new tab</note>
       </trans-unit>
-      <trans-unit id="Open articles in reading view by tapping the icon when it appears in the title bar.">
-        <source>Open articles in reading view by tapping the icon when it appears in the title bar.</source>
-        <target>Open articles in reading view by tapping the icon when it appears in the title bar.</target>
-        <note>No comment provided by engineer.</note>
+      <trans-unit id="Open articles in Reader View by tapping the book icon when it appears in the title bar.">
+        <source>Open articles in Reader View by tapping the book icon when it appears in the title bar.</source>
+        <target>Open articles in Reader View by tapping the book icon when it appears in the title bar.</target>
+        <note>See http://mzl.la/1LXbDOL</note>
       </trans-unit>
       <trans-unit id="Opening %@">
         <source>Opening %@</source>
@@ -592,6 +587,11 @@
         <source>Save Image</source>
         <target>Save Image</target>
         <note>Context menu item for saving an image</note>
+      </trans-unit>
+      <trans-unit id="Save pages to your Reading List by tapping the book plus icon in the Reader View controls.">
+        <source>Save pages to your Reading List by tapping the book plus icon in the Reader View controls.</source>
+        <target>Save pages to your Reading List by tapping the book plus icon in the Reader View controls.</target>
+        <note>See http://mzl.la/1LXbDOL</note>
       </trans-unit>
       <trans-unit id="Search">
         <source>Search</source>
@@ -703,6 +703,11 @@
         <target>There is a new version available of Firefox Aurora. Tap OK to go to the download page.</target>
         <note>Prompt message for application update</note>
       </trans-unit>
+      <trans-unit id="There was a problem accessing tabs from your other devices. Try again in a few moments.">
+        <source>There was a problem accessing tabs from your other devices. Try again in a few moments.</source>
+        <target>There was a problem accessing tabs from your other devices. Try again in a few moments.</target>
+        <note>Error message in the remote tabs panel</note>
+      </trans-unit>
       <trans-unit id="There was an error converting the page">
         <source>There was an error converting the page</source>
         <target>There was an error converting the page</target>
@@ -771,12 +776,22 @@
       <trans-unit id="Welcome to your Reading List">
         <source>Welcome to your Reading List</source>
         <target>Welcome to your Reading List</target>
-        <note>No comment provided by engineer.</note>
+        <note>See http://mzl.la/1LXbDOL</note>
       </trans-unit>
       <trans-unit id="Yesterday">
         <source>Yesterday</source>
         <target>Yesterday</target>
         <note>History tableview section header</note>
+      </trans-unit>
+      <trans-unit id="You don't have any other devices connected to this Firefox Account available to sync.">
+        <source>You don't have any other devices connected to this Firefox Account available to sync.</source>
+        <target>You don't have any other devices connected to this Firefox Account available to sync.</target>
+        <note>Error message in the remote tabs panel</note>
+      </trans-unit>
+      <trans-unit id="You don't have any tabs open in Firefox on your other devices.">
+        <source>You don't have any tabs open in Firefox on your other devices.</source>
+        <target>You don't have any tabs open in Firefox on your other devices.</target>
+        <note>Error message in the remote tabs panel</note>
       </trans-unit>
       <trans-unit id="computer">
         <source>computer</source>
@@ -901,11 +916,6 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.4" build-num="6E35b"/>
     </header>
     <body>
-      <trans-unit id="&lt;Show me how&gt; to connect my other Firefox-enabled devices. This needs proper copy. Do not translate.">
-        <source>&lt;Show me how&gt; to connect my other Firefox-enabled devices. This needs proper copy. Do not translate.</source>
-        <target>&lt;Show me how&gt; to connect my other Firefox-enabled devices. This needs proper copy. Do not translate.</target>
-        <note>The part between brackets is highlighted in styled text as if it is a link.</note>
-      </trans-unit>
       <trans-unit id="&lt;Show me how&gt; to login to my Firefox Account.  This needs proper copy. Do not translate.">
         <source>&lt;Show me how&gt; to login to my Firefox Account.  This needs proper copy. Do not translate.</source>
         <target>&lt;Show me how&gt; to login to my Firefox Account.  This needs proper copy. Do not translate.</target>
@@ -936,10 +946,10 @@
         <target>You are not logged in to your Firefox Account. This needs proper copy. Do not translate.</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="You currently don’t have any other devices currently connected to Firefox Sync. This needs proper copy. Do not translate.">
-        <source>You currently don’t have any other devices currently connected to Firefox Sync. This needs proper copy. Do not translate.</source>
-        <target>You currently don’t have any other devices currently connected to Firefox Sync. This needs proper copy. Do not translate.</target>
-        <note>No comment provided by engineer.</note>
+      <trans-unit id="You don't have any other devices connected to this Firefox Account available to sync.">
+        <source>You don't have any other devices connected to this Firefox Account available to sync.</source>
+        <target>You don't have any other devices connected to this Firefox Account available to sync.</target>
+        <note>Error message shown in the remote tabs panel</note>
       </trans-unit>
     </body>
   </file>
