@@ -683,11 +683,6 @@
         <target>Tabs Tray</target>
         <note>Accessibility label for the Tabs Tray view.</note>
       </trans-unit>
-      <trans-unit id="Tap to reload page">
-        <source>Tap to reload page</source>
-        <target>Tap to reload page</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="Tap to reload the page">
         <source>Tap to reload the page</source>
         <target>Tap to reload the page</target>
