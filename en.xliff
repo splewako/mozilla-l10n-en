@@ -210,11 +210,6 @@
         <target>Add to Reading List</target>
         <note>Add URL to the reading list - https://bugzilla.mozilla.org/attachment.cgi?id=8624438, https://bug1157303.bugzilla.mozilla.org/attachment.cgi?id=8624440</note>
       </trans-unit>
-      <trans-unit id="Add to your Reading List by tapping the icon in the Reader View controls.">
-        <source>Add to your Reading List by tapping the icon in the Reader View controls.</source>
-        <target>Add to your Reading List by tapping the icon in the Reader View controls.</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="Address and Search">
         <source>Address and Search</source>
         <target>Address and Search</target>
@@ -508,10 +503,10 @@
         <target>Open In New Tab</target>
         <note>Context menu item for opening a link in a new tab</note>
       </trans-unit>
-      <trans-unit id="Open articles in reading view by tapping the icon when it appears in the title bar.">
-        <source>Open articles in reading view by tapping the icon when it appears in the title bar.</source>
-        <target>Open articles in reading view by tapping the icon when it appears in the title bar.</target>
-        <note>No comment provided by engineer.</note>
+      <trans-unit id="Open articles in Reader View by tapping the book icon when it appears in the title bar.">
+        <source>Open articles in Reader View by tapping the book icon when it appears in the title bar.</source>
+        <target>Open articles in Reader View by tapping the book icon when it appears in the title bar.</target>
+        <note>See http://mzl.la/1LXbDOL</note>
       </trans-unit>
       <trans-unit id="Opening %@">
         <source>Opening %@</source>
@@ -597,6 +592,11 @@
         <source>Save Image</source>
         <target>Save Image</target>
         <note>Context menu item for saving an image</note>
+      </trans-unit>
+      <trans-unit id="Save pages to your Reading List by tapping the book plus icon in the Reader View controls.">
+        <source>Save pages to your Reading List by tapping the book plus icon in the Reader View controls.</source>
+        <target>Save pages to your Reading List by tapping the book plus icon in the Reader View controls.</target>
+        <note>See http://mzl.la/1LXbDOL</note>
       </trans-unit>
       <trans-unit id="Search">
         <source>Search</source>
@@ -786,7 +786,7 @@
       <trans-unit id="Welcome to your Reading List">
         <source>Welcome to your Reading List</source>
         <target>Welcome to your Reading List</target>
-        <note>No comment provided by engineer.</note>
+        <note>See http://mzl.la/1LXbDOL</note>
       </trans-unit>
       <trans-unit id="Yesterday">
         <source>Yesterday</source>
