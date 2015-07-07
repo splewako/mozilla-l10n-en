@@ -421,11 +421,6 @@
         <target>Last week</target>
         <note>History tableview section header</note>
       </trans-unit>
-      <trans-unit id="Licenses &amp; Acknowledgements">
-        <source>Licenses &amp; Acknowledgements</source>
-        <target>Licenses &amp; Acknowledgements</target>
-        <note>Show the app's licenses from the About section in the settings. see http://mzl.la/1dmM8tZ</note>
-      </trans-unit>
       <trans-unit id="Light">
         <source>Light</source>
         <target>Light</target>
@@ -989,6 +984,25 @@
         <source>Add to Reading List</source>
         <target>Add to Reading List</target>
         <note>On/off toggle to select adding this url to your reading list</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Extensions/ViewLater/Info.plist" source-language="en" datatype="plaintext" target-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.4" build-num="6E35b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>View Later</source>
+        <target>View Later</target>
+      </trans-unit>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target>$(PRODUCT_NAME)</target>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+        <target>1.0</target>
       </trans-unit>
     </body>
   </file>
