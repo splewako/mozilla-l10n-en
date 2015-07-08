@@ -694,7 +694,7 @@
       <trans-unit id="Tap to stop loading the page">
         <source>Tap to stop loading the page</source>
         <target>Tap to stop loading the page</target>
-        <note>No comment provided by engineer.</note>
+        <note>Accessibility hint for the browser toolbar Stop button</note>
       </trans-unit>
       <trans-unit id="There is a new version available of Firefox Aurora. Tap OK to go to the download page.">
         <source>There is a new version available of Firefox Aurora. Tap OK to go to the download page.</source>
