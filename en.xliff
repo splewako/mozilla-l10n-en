@@ -426,10 +426,10 @@
         <target>Last week</target>
         <note>History tableview section header</note>
       </trans-unit>
-      <trans-unit id="Licenses &amp; Acknowledgements">
-        <source>Licenses &amp; Acknowledgements</source>
-        <target>Licenses &amp; Acknowledgements</target>
-        <note>Show the app's licenses from the About section in the settings. see http://mzl.la/1dmM8tZ</note>
+      <trans-unit id="Licenses">
+        <source>Licenses</source>
+        <target>Licenses</target>
+        <note>Settings item that opens a tab containing the licenses. See http://mzl.la/1NSAWCG</note>
       </trans-unit>
       <trans-unit id="Light">
         <source>Light</source>
@@ -719,7 +719,7 @@
       <trans-unit id="Tap to stop loading the page">
         <source>Tap to stop loading the page</source>
         <target>Tap to stop loading the page</target>
-        <note>No comment provided by engineer.</note>
+        <note>Accessibility hint for the browser toolbar Stop button</note>
       </trans-unit>
       <trans-unit id="There is a new version available of Firefox Aurora. Tap OK to go to the download page.">
         <source>There is a new version available of Firefox Aurora. Tap OK to go to the download page.</source>
@@ -750,6 +750,11 @@
         <source>Top sites</source>
         <target>Top sites</target>
         <note>Panel accessibility label</note>
+      </trans-unit>
+      <trans-unit id="URL bar">
+        <source>URL bar</source>
+        <target>URL bar</target>
+        <note>Accessibility label for the URL bar</note>
       </trans-unit>
       <trans-unit id="Update">
         <source>Update</source>
