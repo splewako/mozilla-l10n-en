@@ -278,6 +278,11 @@
         <target>Close</target>
         <note>Accessibility label for action denoting closing a tab in tab list (tray)</note>
       </trans-unit>
+      <trans-unit id="Closing tab">
+        <source>Closing tab</source>
+        <target>Closing tab</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Copy Address">
         <source>Copy Address</source>
         <target>Copy Address</target>
@@ -675,6 +680,11 @@
         <source>Support</source>
         <target>Support</target>
         <note>Support section title</note>
+      </trans-unit>
+      <trans-unit id="Swipe right or left with three fingers to close the tab.">
+        <source>Swipe right or left with three fingers to close the tab.</source>
+        <target>Swipe right or left with three fingers to close the tab.</target>
+        <note>Accessibility hint for tab tray's displayed tab.</note>
       </trans-unit>
       <trans-unit id="Sync your tabs, bookmarks, passwords and more.">
         <source>Sync your tabs, bookmarks, passwords and more.</source>
