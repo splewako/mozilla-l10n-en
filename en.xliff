@@ -726,6 +726,11 @@
         <target>Top sites</target>
         <note>Panel accessibility label</note>
       </trans-unit>
+      <trans-unit id="URL bar">
+        <source>URL bar</source>
+        <target>URL bar</target>
+        <note>Accessibility label for the URL bar</note>
+      </trans-unit>
       <trans-unit id="Update">
         <source>Update</source>
         <target>Update</target>
