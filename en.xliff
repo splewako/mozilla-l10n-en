@@ -278,11 +278,6 @@
         <target>Close</target>
         <note>Accessibility label for action denoting closing a tab in tab list (tray)</note>
       </trans-unit>
-      <trans-unit id="Closing tab">
-        <source>Closing tab</source>
-        <target>Closing tab</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="Copy Address">
         <source>Copy Address</source>
         <target>Copy Address</target>
@@ -386,6 +381,11 @@
         <target>Firefox will stop syncing with your account, but won’t delete any of your browsing data on this device.</target>
         <note>Text of the 'log out firefox account' alert</note>
       </trans-unit>
+      <trans-unit id="Firefox would like to access your Photos">
+        <source>Firefox would like to access your Photos</source>
+        <target>Firefox would like to access your Photos</target>
+        <note>See http://mzl.la/1G7uHo7</note>
+      </trans-unit>
       <trans-unit id="Forward">
         <source>Forward</source>
         <target>Forward</target>
@@ -452,11 +452,6 @@
         <target>Log in</target>
         <note>Authentication prompt log in button</note>
       </trans-unit>
-      <trans-unit id="Looks like Firefox crashed previously. Would you like to restore your tabs?">
-        <source>Looks like Firefox crashed previously. Would you like to restore your tabs?</source>
-        <target>Looks like Firefox crashed previously. Would you like to restore your tabs?</target>
-        <note>Restore Tabs Prompt Description</note>
-      </trans-unit>
       <trans-unit id="Mark as Read">
         <source>Mark as Read</source>
         <target>Mark as Read</target>
@@ -489,16 +484,6 @@
         <target>New version available</target>
         <note>Prompt title for application update</note>
       </trans-unit>
-      <trans-unit id="No">
-        <source>No</source>
-        <target>No</target>
-        <note>Restore Tabs Negative Action</note>
-      </trans-unit>
-      <trans-unit id="No tabs">
-        <source>No tabs</source>
-        <target>No tabs</target>
-        <note>Message spoken by VoiceOver to indicate that there are no tabs in the Tabs Tray</note>
-      </trans-unit>
       <trans-unit id="Not Now">
         <source>Not Now</source>
         <target>Not Now</target>
@@ -516,15 +501,15 @@
    Label for OK button in the application update prompt
    OK button</note>
       </trans-unit>
-      <trans-unit id="Okay">
-        <source>Okay</source>
-        <target>Okay</target>
-        <note>Restore Tabs Affirmative Action</note>
-      </trans-unit>
       <trans-unit id="Open In New Tab">
         <source>Open In New Tab</source>
         <target>Open In New Tab</target>
         <note>Context menu item for opening a link in a new tab</note>
+      </trans-unit>
+      <trans-unit id="Open Settings">
+        <source>Open Settings</source>
+        <target>Open Settings</target>
+        <note>See http://mzl.la/1G7uHo7</note>
       </trans-unit>
       <trans-unit id="Open articles in Reader View by tapping the book icon when it appears in the title bar.">
         <source>Open articles in Reader View by tapping the book icon when it appears in the title bar.</source>
@@ -696,11 +681,6 @@
         <target>Support</target>
         <note>Support section title</note>
       </trans-unit>
-      <trans-unit id="Swipe right or left with three fingers to close the tab.">
-        <source>Swipe right or left with three fingers to close the tab.</source>
-        <target>Swipe right or left with three fingers to close the tab.</target>
-        <note>Accessibility hint for tab tray's displayed tab.</note>
-      </trans-unit>
       <trans-unit id="Sync your tabs, bookmarks, passwords and more.">
         <source>Sync your tabs, bookmarks, passwords and more.</source>
         <target>Sync your tabs, bookmarks, passwords and more.</target>
@@ -710,16 +690,6 @@
         <source>Synced tabs</source>
         <target>Synced tabs</target>
         <note>Panel accessibility label</note>
-      </trans-unit>
-      <trans-unit id="Tab %@ of %@">
-        <source>Tab %1$@ of %2$@</source>
-        <target>Tab %1$@ of %2$@</target>
-        <note>Message spoken by VoiceOver saying the position of the single currently visible tab in Tabs Tray, along with the total number of tabs. E.g. \"Tab 2 of 5\" says that tab 2 is visible (and is the only visible tab), out of 5 tabs total.</note>
-      </trans-unit>
-      <trans-unit id="Tabs %@ to %@ of %@">
-        <source>Tabs %1$@ to %2$@ of %3$@</source>
-        <target>Tabs %1$@ to %2$@ of %3$@</target>
-        <note>Message spoken by VoiceOver saying the range of tabs that are currently visible in Tabs Tray, along with the total number of tabs. E.g. \"Tabs 8 to 10 of 15\" says tabs 8, 9 and 10 are visible, out of 15 tabs total.</note>
       </trans-unit>
       <trans-unit id="Tabs Tray">
         <source>Tabs Tray</source>
@@ -750,6 +720,11 @@
         <source>There was an error converting the page</source>
         <target>There was an error converting the page</target>
         <note>Error displayed when reader mode cannot be enabled</note>
+      </trans-unit>
+      <trans-unit id="This allows you to save the image to your Camera Roll.">
+        <source>This allows you to save the image to your Camera Roll.</source>
+        <target>This allows you to save the image to your Camera Roll.</target>
+        <note>See http://mzl.la/1G7uHo7</note>
       </trans-unit>
       <trans-unit id="This will open in another application">
         <source>This will open in another application</source>
@@ -820,11 +795,6 @@
         <source>Welcome to your Reading List</source>
         <target>Welcome to your Reading List</target>
         <note>See http://mzl.la/1LXbDOL</note>
-      </trans-unit>
-      <trans-unit id="Well, this is embarrassing.">
-        <source>Well, this is embarrassing.</source>
-        <target>Well, this is embarrassing.</target>
-        <note>Restore Tabs Prompt Title</note>
       </trans-unit>
       <trans-unit id="Yesterday">
         <source>Yesterday</source>
