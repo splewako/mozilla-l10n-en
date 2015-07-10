@@ -938,6 +938,11 @@
         <target>Search Settings</target>
         <note>Label for search settings button.</note>
       </trans-unit>
+      <trans-unit id="Search suggestions from %@">
+        <source>Search suggestions from %@</source>
+        <target>Search suggestions from %@</target>
+        <note>Accessibility label for image of default search engine displayed left to the actual search suggestions from the engine. The parameter substituted for \"%@\" is the name of the search engine. E.g.: Search suggestions from Google</note>
+      </trans-unit>
       <trans-unit id="Turn on search suggestions?">
         <source>Turn on search suggestions?</source>
         <target>Turn on search suggestions?</target>
