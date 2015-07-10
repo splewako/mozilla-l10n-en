@@ -766,16 +766,6 @@
         <target>Tabs Tray</target>
         <note>Accessibility label for the Tabs Tray view.</note>
       </trans-unit>
-      <trans-unit id="Tap to reload the page">
-        <source>Tap to reload the page</source>
-        <target>Tap to reload the page</target>
-        <note>Accessibility hint for the browser toolbar Reload button</note>
-      </trans-unit>
-      <trans-unit id="Tap to stop loading the page">
-        <source>Tap to stop loading the page</source>
-        <target>Tap to stop loading the page</target>
-        <note>Accessibility hint for the browser toolbar Stop button</note>
-      </trans-unit>
       <trans-unit id="There is a new version available of Firefox Aurora. Tap OK to go to the download page.">
         <source>There is a new version available of Firefox Aurora. Tap OK to go to the download page.</source>
         <target>There is a new version available of Firefox Aurora. Tap OK to go to the download page.</target>
@@ -957,6 +947,11 @@
         <source>Search Settings</source>
         <target>Search Settings</target>
         <note>Label for search settings button.</note>
+      </trans-unit>
+      <trans-unit id="Search suggestions from %@">
+        <source>Search suggestions from %@</source>
+        <target>Search suggestions from %@</target>
+        <note>Accessibility label for image of default search engine displayed left to the actual search suggestions from the engine. The parameter substituted for \"%@\" is the name of the search engine. E.g.: Search suggestions from Google</note>
       </trans-unit>
       <trans-unit id="Turn on search suggestions?">
         <source>Turn on search suggestions?</source>
