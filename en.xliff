@@ -631,11 +631,6 @@
         <target>Reading list</target>
         <note>Panel accessibility label</note>
       </trans-unit>
-      <trans-unit id="Recent Bookmarks">
-        <source>Recent Bookmarks</source>
-        <target>Recent Bookmarks</target>
-        <note>Header for bookmarks list</note>
-      </trans-unit>
       <trans-unit id="Reload">
         <source>Reload</source>
         <target>Reload</target>
