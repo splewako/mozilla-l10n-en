@@ -586,6 +586,11 @@
         <target>Opening %@</target>
         <note>Opening an external URL</note>
       </trans-unit>
+      <trans-unit id="Pages you have visited recently will show up here.">
+        <source>Pages you have visited recently will show up here.</source>
+        <target>Pages you have visited recently will show up here.</target>
+        <note>See http://mzl.la/1LXbDOL</note>
+      </trans-unit>
       <trans-unit id="Panel Chooser">
         <source>Panel Chooser</source>
         <target>Panel Chooser</target>
