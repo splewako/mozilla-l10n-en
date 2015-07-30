@@ -108,12 +108,12 @@
         <target>$(MOZ_BUNDLE_DISPLAY_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleName">
-        <source>$(PRODUCT_NAME)</source>
-        <target>$(PRODUCT_NAME)</target>
+        <source>$(MOZ_PRODUCT_NAME)</source>
+        <target>$(MOZ_PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>1.0</source>
-        <target>1.0</target>
+        <source>$(MOZ_VERSION)</source>
+        <target>$(MOZ_VERSION)</target>
       </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Websites you visit may request your location.</source>
