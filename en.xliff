@@ -702,6 +702,11 @@
         <target>Secure connection</target>
         <note>Accessibility label for the lock icon, which is only present if the connection is secure</note>
       </trans-unit>
+      <trans-unit id="Send Crash Reports">
+        <source>Send Crash Reports</source>
+        <target>Send Crash Reports</target>
+        <note>Setting to enable the sending of crash reports</note>
+      </trans-unit>
       <trans-unit id="Sepia">
         <source>Sepia</source>
         <target>Sepia</target>
