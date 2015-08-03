@@ -766,6 +766,11 @@
         <target>Swipe right or left with three fingers to close the tab.</target>
         <note>Accessibility hint for tab tray's displayed tab.</note>
       </trans-unit>
+      <trans-unit id="Sync Now">
+        <source>Sync Now</source>
+        <target>Sync Now</target>
+        <note>Sync Firefox Account</note>
+      </trans-unit>
       <trans-unit id="Sync your tabs, bookmarks, passwords and more.">
         <source>Sync your tabs, bookmarks, passwords and more.</source>
         <target>Sync your tabs, bookmarks, passwords and more.</target>
@@ -775,6 +780,11 @@
         <source>Synced tabs</source>
         <target>Synced tabs</target>
         <note>Panel accessibility label</note>
+      </trans-unit>
+      <trans-unit id="Syncing...">
+        <source>Syncing...</source>
+        <target>Syncing...</target>
+        <note>Syncing Firefox Account</note>
       </trans-unit>
       <trans-unit id="Tab %@ of %@">
         <source>Tab %1$@ of %2$@</source>
