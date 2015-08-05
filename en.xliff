@@ -333,9 +333,14 @@
         <target>Could not add page to Reading list</target>
         <note>Accessibility message e.g. spoken by VoiceOver after adding current webpage to the Reading List failed.</note>
       </trans-unit>
-      <trans-unit id="Could not load page.">
-        <source>Could not load page.</source>
-        <target>Could not load page.</target>
+      <trans-unit id="Could not connect to Firefox Accounts.">
+        <source>Could not connect to Firefox Accounts.</source>
+        <target>Could not connect to Firefox Accounts.</target>
+        <note>Error message that is shown in settings when there was a problem connecting to Firefox Accounts</note>
+      </trans-unit>
+      <trans-unit id="Could not load settings page.">
+        <source>Could not load settings page.</source>
+        <target>Could not load settings page.</target>
         <note>Error message that is shown in settings when there was a problem loading</note>
       </trans-unit>
       <trans-unit id="Create an account">
@@ -707,11 +712,6 @@
         <target>Send Crash Reports</target>
         <note>Setting to enable the sending of crash reports</note>
       </trans-unit>
-      <trans-unit id="Send Feedback">
-        <source>Send Feedback</source>
-        <target>Send Feedback</target>
-        <note>Show an input.mozilla.org page where people can submit feedback</note>
-      </trans-unit>
       <trans-unit id="Sepia">
         <source>Sepia</source>
         <target>Sepia</target>
@@ -806,9 +806,9 @@
         <target>Tabs Tray</target>
         <note>Accessibility label for the Tabs Tray view.</note>
       </trans-unit>
-      <trans-unit id="The page could not be displayed in Reading View.">
-        <source>The page could not be displayed in Reading View.</source>
-        <target>The page could not be displayed in Reading View.</target>
+      <trans-unit id="The page could not be displayed in Reader View.">
+        <source>The page could not be displayed in Reader View.</source>
+        <target>The page could not be displayed in Reader View.</target>
         <note>Message displayed when the reader mode page could not be loaded. This message will appear only when sharing to Firefox reader mode from another app.</note>
       </trans-unit>
       <trans-unit id="There is a new version available of Firefox Aurora. Tap OK to go to the download page.">
