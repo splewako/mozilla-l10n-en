@@ -338,6 +338,11 @@
         <target>Could not connect to Firefox Accounts.</target>
         <note>Error message that is shown in settings when there was a problem connecting to Firefox Accounts</note>
       </trans-unit>
+      <trans-unit id="Could not load settings page.">
+        <source>Could not load settings page.</source>
+        <target>Could not load settings page.</target>
+        <note>Error message that is shown in settings when there was a problem loading</note>
+      </trans-unit>
       <trans-unit id="Create an account">
         <source>Create an account</source>
         <target>Create an account</target>
@@ -625,6 +630,11 @@
         <source>Privacy</source>
         <target>Privacy</target>
         <note>Privacy section title</note>
+      </trans-unit>
+      <trans-unit id="Privacy Policy">
+        <source>Privacy Policy</source>
+        <target>Privacy Policy</target>
+        <note>Show Firefox Browser Privacy Policy page from the Privacy section in the settings. See https://www.mozilla.org/privacy/firefox/</note>
       </trans-unit>
       <trans-unit id="Quick-search Engines">
         <source>Quick-search Engines</source>
