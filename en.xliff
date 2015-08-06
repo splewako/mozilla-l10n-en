@@ -707,6 +707,11 @@
         <target>Send Crash Reports</target>
         <note>Setting to enable the sending of crash reports</note>
       </trans-unit>
+      <trans-unit id="Send Feedback">
+        <source>Send Feedback</source>
+        <target>Send Feedback</target>
+        <note>Show an input.mozilla.org page where people can submit feedback</note>
+      </trans-unit>
       <trans-unit id="Sepia">
         <source>Sepia</source>
         <target>Sepia</target>
