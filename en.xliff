@@ -916,6 +916,11 @@
         <target>You don't have any tabs open in Firefox on your other devices.</target>
         <note>Error message in the remote tabs panel</note>
       </trans-unit>
+      <trans-unit id="Your Rights">
+        <source>Your Rights</source>
+        <target>Your Rights</target>
+        <note>Your Rights settings section title</note>
+      </trans-unit>
       <trans-unit id="computer">
         <source>computer</source>
         <target>computer</target>
