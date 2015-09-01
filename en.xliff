@@ -276,12 +276,7 @@
       <trans-unit id="Cancel">
         <source>Cancel</source>
         <target>Cancel</target>
-        <note>Alert Cancel Button
-   Authentication prompt cancel button
-   Button label to cancel entering a URL or search query
-   Cancel alert view
-   Cancel button
-   Cancel button in the 'log out firefox account' alert</note>
+        <note>Cancel button title in share dialog</note>
       </trans-unit>
       <trans-unit id="Changes color theme.">
         <source>Changes color theme.</source>
@@ -404,7 +399,9 @@
         <source>Done</source>
         <target>Done</target>
         <note>Done button on left side of the Settings view controller title bar
-   Done editing button</note>
+   Done editing button
+   Done title for search settings table
+   Done title in back forward list screen</note>
       </trans-unit>
       <trans-unit id="Double tap and hold to open history">
         <source>Double tap and hold to open history</source>
