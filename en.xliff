@@ -398,10 +398,10 @@
       <trans-unit id="Done">
         <source>Done</source>
         <target>Done</target>
-        <note>Done button on left side of the Settings view controller title bar
-   Done editing button
-   Done title for search settings table
-   Done title in back forward list screen</note>
+        <note>Done button label for search settings table
+   Done button label on back forward list screen
+   Done button on left side of the Settings view controller title bar
+   Done editing button</note>
       </trans-unit>
       <trans-unit id="Double tap and hold to open history">
         <source>Double tap and hold to open history</source>
@@ -447,11 +447,6 @@
         <source>Increase text size</source>
         <target>Increase text size</target>
         <note>Accessibility label for button increasing font size in display settings of reader mode</note>
-      </trans-unit>
-      <trans-unit id="Intro Tour Carousel">
-        <source>Intro Tour Carousel</source>
-        <target>Intro Tour Carousel</target>
-        <note>Accessibility label for the introduction tour carousel</note>
       </trans-unit>
       <trans-unit id="Last month">
         <source>Last month</source>
