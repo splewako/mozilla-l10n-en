@@ -448,6 +448,11 @@
         <target>Increase text size</target>
         <note>Accessibility label for button increasing font size in display settings of reader mode</note>
       </trans-unit>
+      <trans-unit id="Intro Tour Carousel">
+        <source>Intro Tour Carousel</source>
+        <target>Intro Tour Carousel</target>
+        <note>Accessibility label for the introduction tour carousel</note>
+      </trans-unit>
       <trans-unit id="Last month">
         <source>Last month</source>
         <target>Last month</target>
