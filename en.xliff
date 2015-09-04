@@ -218,6 +218,11 @@
         <target>About</target>
         <note>About settings section title</note>
       </trans-unit>
+      <trans-unit id="Add Private Tab">
+        <source>Add Private Tab</source>
+        <target>Add Private Tab</target>
+        <note>Accessibility labe for the Add Private Tab button in the Tab Tray.</note>
+      </trans-unit>
       <trans-unit id="Add Tab">
         <source>Add Tab</source>
         <target>Add Tab</target>
