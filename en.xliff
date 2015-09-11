@@ -453,15 +453,11 @@
         <target>Last month</target>
         <note>History tableview section header</note>
       </trans-unit>
-      <trans-unit id="Last synced">
-        <source>Last synced</source>
-        <target>Last synced</target>
-        <note>Last synced prefix beside Sync Now setting option</note>
-      </trans-unit>
       <trans-unit id="Last synced: %@">
         <source>Last synced: %@</source>
         <target>Last synced: %@</target>
-        <note>Remote tabs last synced time. Argument is the relative date string.</note>
+        <note>Last synced time title beside Sync Now setting option. Argument is the relative date string.
+   Remote tabs last synced time. Argument is the relative date string.</note>
       </trans-unit>
       <trans-unit id="Last week">
         <source>Last week</source>
