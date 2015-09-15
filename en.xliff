@@ -40,11 +40,6 @@
         <target>Delete</target>
         <note>Action button for deleting bookmarks in the bookmarks panel.</note>
       </trans-unit>
-      <trans-unit id="Desktop Bookmarks">
-        <source>Desktop Bookmarks</source>
-        <target>Desktop Bookmarks</target>
-        <note>The folder name for the virtual folder that contains all desktop bookmarks.</note>
-      </trans-unit>
     </body>
   </file>
   <file original="Client/ClearPrivateData.strings" source-language="en" datatype="plaintext" target-language="en">
@@ -131,19 +126,19 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.4" build-num="6E35b"/>
     </header>
     <body>
-      <trans-unit id="Browse multiple Web pages at the same time with tabs.">
-        <source>Browse multiple Web pages at the same time with tabs.</source>
-        <target>Browse multiple Web pages at the same time with tabs.</target>
-        <note>See http://mzl.la/1T8gxwo</note>
-      </trans-unit>
       <trans-unit id="Connect Firefox everywhere you use it.">
         <source>Connect Firefox everywhere you use it.</source>
         <target>Connect Firefox everywhere you use it.</target>
-        <note>See http://mzl.la/1T8gxwo</note>
+        <note>ee http://mzl.la/1T8gxwo</note>
       </trans-unit>
       <trans-unit id="Customize">
         <source>Customize</source>
         <target>Customize</target>
+        <note>See http://mzl.la/1T8gxwo</note>
+      </trans-unit>
+      <trans-unit id="Easily switch between open pages with tabs.">
+        <source>Easily switch between open pages with tabs.</source>
+        <target>Easily switch between open pages with tabs.</target>
         <note>See http://mzl.la/1T8gxwo</note>
       </trans-unit>
       <trans-unit id="Firefox and the cloud">
@@ -156,15 +151,25 @@
         <target>Introductory slide %1$@ of %2$@</target>
         <note>String spoken by assistive technology (like VoiceOver) stating on which page of the intro wizard we currently are. E.g. Introductory slide 1 of 3</note>
       </trans-unit>
+      <trans-unit id="Make it your browser">
+        <source>Make it your browser</source>
+        <target>Make it your browser</target>
+        <note>See http://mzl.la/1if9ODp</note>
+      </trans-unit>
       <trans-unit id="Organize">
         <source>Organize</source>
         <target>Organize</target>
         <note>See http://mzl.la/1T8gxwo</note>
       </trans-unit>
-      <trans-unit id="Personalize your Firefox just the way you like in Settings.">
-        <source>Personalize your Firefox just the way you like in Settings.</source>
-        <target>Personalize your Firefox just the way you like in Settings.</target>
+      <trans-unit id="Personalize things like your default search engine in Settings.">
+        <source>Personalize things like your default search engine in Settings.</source>
+        <target>Personalize things like your default search engine in Settings.</target>
         <note>See http://mzl.la/1T8gxwo</note>
+      </trans-unit>
+      <trans-unit id="Send to Firefox">
+        <source>Send to Firefox</source>
+        <target>Send to Firefox</target>
+        <note>See http://mzl.la/1if9ODp</note>
       </trans-unit>
       <trans-unit id="Sign in to Firefox">
         <source>Sign in to Firefox</source>
@@ -176,6 +181,11 @@
         <target>Start Browsing</target>
         <note>See http://mzl.la/1T8gxwo</note>
       </trans-unit>
+      <trans-unit id="Tap, hold and move the Firefox icon into your dock for easy access.">
+        <source>Tap, hold and move the Firefox icon into your dock for easy access.</source>
+        <target>Tap, hold and move the Firefox icon into your dock for easy access.</target>
+        <note>See http://mzl.la/1if9ODp</note>
+      </trans-unit>
       <trans-unit id="The Settings button is at the beginning of the Tabs Tray.">
         <source>The Settings button is at the beginning of the Tabs Tray.</source>
         <target>The Settings button is at the beginning of the Tabs Tray.</target>
@@ -185,6 +195,11 @@
         <source>The Show Tabs button is next to the Address and Search text field and displays the current number of open tabs.</source>
         <target>The Show Tabs button is next to the Address and Search text field and displays the current number of open tabs.</target>
         <note>Accessibility label for an image. See http://mzl.la/1T8gxwo</note>
+      </trans-unit>
+      <trans-unit id="Use the share sheet to send links from other apps to Firefox.">
+        <source>Use the share sheet to send links from other apps to Firefox.</source>
+        <target>Use the share sheet to send links from other apps to Firefox.</target>
+        <note>See http://mzl.la/1if9ODp</note>
       </trans-unit>
     </body>
   </file>
@@ -716,11 +731,6 @@
         <target>Save Image</target>
         <note>Context menu item for saving an image</note>
       </trans-unit>
-      <trans-unit id="Save Logins">
-        <source>Save Logins</source>
-        <target>Save Logins</target>
-        <note>Setting to enable the built-in password manager</note>
-      </trans-unit>
       <trans-unit id="Save pages to your Reading List by tapping the book plus icon in the Reader View controls.">
         <source>Save pages to your Reading List by tapping the book plus icon in the Reader View controls.</source>
         <target>Save pages to your Reading List by tapping the book plus icon in the Reader View controls.</target>
@@ -783,11 +793,6 @@
         <target>Share</target>
         <note>Accessibility Label for the browser toolbar Share button</note>
       </trans-unit>
-      <trans-unit id="Show Search Suggestions">
-        <source>Show Search Suggestions</source>
-        <target>Show Search Suggestions</target>
-        <note>Label for show search suggestions setting.</note>
-      </trans-unit>
       <trans-unit id="Show Tabs">
         <source>Show Tabs</source>
         <target>Show Tabs</target>
@@ -799,16 +804,17 @@
         <target>Show Tour</target>
         <note>Show the on-boarding screen again from the settings</note>
       </trans-unit>
-      <trans-unit id="Sign In">
-        <source>Sign In</source>
-        <target>Sign In</target>
-        <note>Text message / button in the settings table view</note>
+      <trans-unit id="Show search suggestions">
+        <source>Show search suggestions</source>
+        <target>Show search suggestions</target>
+        <note>Label for show search suggestions setting.</note>
       </trans-unit>
       <trans-unit id="Sign in">
         <source>Sign in</source>
         <target>Sign in</target>
         <note>Button that leads to Sign in section of the Settings sheet.
-   See http://mzl.la/1Qtkf0j</note>
+   See http://mzl.la/1Qtkf0j
+   Text message / button in the settings table view</note>
       </trans-unit>
       <trans-unit id="Stop">
         <source>Stop</source>
