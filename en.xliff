@@ -778,6 +778,11 @@
         <target>Share</target>
         <note>Accessibility Label for the browser toolbar Share button</note>
       </trans-unit>
+      <trans-unit id="Show Search Suggestions">
+        <source>Show Search Suggestions</source>
+        <target>Show Search Suggestions</target>
+        <note>Label for show search suggestions setting.</note>
+      </trans-unit>
       <trans-unit id="Show Tabs">
         <source>Show Tabs</source>
         <target>Show Tabs</target>
@@ -789,17 +794,16 @@
         <target>Show Tour</target>
         <note>Show the on-boarding screen again from the settings</note>
       </trans-unit>
-      <trans-unit id="Show search suggestions">
-        <source>Show search suggestions</source>
-        <target>Show search suggestions</target>
-        <note>Label for show search suggestions setting.</note>
+      <trans-unit id="Sign In">
+        <source>Sign In</source>
+        <target>Sign In</target>
+        <note>Text message / button in the settings table view</note>
       </trans-unit>
       <trans-unit id="Sign in">
         <source>Sign in</source>
         <target>Sign in</target>
         <note>Button that leads to Sign in section of the Settings sheet.
-   See http://mzl.la/1Qtkf0j
-   Text message / button in the settings table view</note>
+   See http://mzl.la/1Qtkf0j</note>
       </trans-unit>
       <trans-unit id="Stop">
         <source>Stop</source>
