@@ -716,6 +716,11 @@
         <target>Save Image</target>
         <note>Context menu item for saving an image</note>
       </trans-unit>
+      <trans-unit id="Save Logins">
+        <source>Save Logins</source>
+        <target>Save Logins</target>
+        <note>Setting to enable the built-in password manager</note>
+      </trans-unit>
       <trans-unit id="Save pages to your Reading List by tapping the book plus icon in the Reader View controls.">
         <source>Save pages to your Reading List by tapping the book plus icon in the Reader View controls.</source>
         <target>Save pages to your Reading List by tapping the book plus icon in the Reader View controls.</target>
