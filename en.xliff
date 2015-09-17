@@ -131,10 +131,10 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.4" build-num="6E35b"/>
     </header>
     <body>
-      <trans-unit id="Connect Firefox everywhere you use it.">
-        <source>Connect Firefox everywhere you use it.</source>
-        <target>Connect Firefox everywhere you use it.</target>
-        <note>ee http://mzl.la/1T8gxwo</note>
+      <trans-unit id="Choose">
+        <source>Choose</source>
+        <target>Choose</target>
+        <note>See http://mzl.la/1if9ODp</note>
       </trans-unit>
       <trans-unit id="Customize">
         <source>Customize</source>
@@ -156,11 +156,6 @@
         <target>Introductory slide %1$@ of %2$@</target>
         <note>String spoken by assistive technology (like VoiceOver) stating on which page of the intro wizard we currently are. E.g. Introductory slide 1 of 3</note>
       </trans-unit>
-      <trans-unit id="Make it your browser">
-        <source>Make it your browser</source>
-        <target>Make it your browser</target>
-        <note>See http://mzl.la/1if9ODp</note>
-      </trans-unit>
       <trans-unit id="Organize">
         <source>Organize</source>
         <target>Organize</target>
@@ -171,9 +166,9 @@
         <target>Personalize things like your default search engine in Settings.</target>
         <note>See http://mzl.la/1T8gxwo</note>
       </trans-unit>
-      <trans-unit id="Send to Firefox">
-        <source>Send to Firefox</source>
-        <target>Send to Firefox</target>
+      <trans-unit id="Share">
+        <source>Share</source>
+        <target>Share</target>
         <note>See http://mzl.la/1if9ODp</note>
       </trans-unit>
       <trans-unit id="Sign in to Firefox">
@@ -185,6 +180,11 @@
         <source>Start Browsing</source>
         <target>Start Browsing</target>
         <note>See http://mzl.la/1T8gxwo</note>
+      </trans-unit>
+      <trans-unit id="Sync Your Devices.">
+        <source>Sync Your Devices.</source>
+        <target>Sync Your Devices.</target>
+        <note>ee http://mzl.la/1T8gxwo</note>
       </trans-unit>
       <trans-unit id="Tap, hold and move the Firefox icon into your dock for easy access.">
         <source>Tap, hold and move the Firefox icon into your dock for easy access.</source>
