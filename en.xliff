@@ -890,9 +890,9 @@
         <target>Today</target>
         <note>History tableview section header</note>
       </trans-unit>
-      <trans-unit id="Toggle Private Tab">
-        <source>Toggle Private Tab</source>
-        <target>Toggle Private Tab</target>
+      <trans-unit id="Toggle Private Mode">
+        <source>Toggle Private Mode</source>
+        <target>Toggle Private Mode</target>
         <note>Accessibility label for toggling on/off private mode</note>
       </trans-unit>
       <trans-unit id="Top sites">
