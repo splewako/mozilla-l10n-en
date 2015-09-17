@@ -890,11 +890,6 @@
         <target>Today</target>
         <note>History tableview section header</note>
       </trans-unit>
-      <trans-unit id="Toggle Private Mode">
-        <source>Toggle Private Mode</source>
-        <target>Toggle Private Mode</target>
-        <note>Accessibility label for toggling on/off private mode</note>
-      </trans-unit>
       <trans-unit id="Top sites">
         <source>Top sites</source>
         <target>Top sites</target>
@@ -1037,10 +1032,30 @@
         <target>Firefox won't remember any of your history or cookies, but new bookmarks will be saved.</target>
         <note>Description text displayed when there are no open tabs while in private mode</note>
       </trans-unit>
+      <trans-unit id="Off">
+        <source>Off</source>
+        <target>Off</target>
+        <note>Toggled OFF accessibility value</note>
+      </trans-unit>
+      <trans-unit id="On">
+        <source>On</source>
+        <target>On</target>
+        <note>Toggled ON accessibility value</note>
+      </trans-unit>
       <trans-unit id="Private Browsing">
         <source>Private Browsing</source>
         <target>Private Browsing</target>
         <note>Title displayed for when there are no open tabs while in private mode</note>
+      </trans-unit>
+      <trans-unit id="Private Mode">
+        <source>Private Mode</source>
+        <target>Private Mode</target>
+        <note>Accessibility label for toggling on/off private mode</note>
+      </trans-unit>
+      <trans-unit id="Turns private mode on or off">
+        <source>Turns private mode on or off</source>
+        <target>Turns private mode on or off</target>
+        <note>Accessiblity hint for toggling on/off private mode</note>
       </trans-unit>
     </body>
   </file>
