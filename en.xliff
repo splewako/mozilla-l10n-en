@@ -57,6 +57,16 @@
         <target>Are you sure you want to clear all of your data? This will also close all open tabs.</target>
         <note>Message shown in the dialog prompting users if they want to clear everything</note>
       </trans-unit>
+      <trans-unit id="Browsing History">
+        <source>Browsing History</source>
+        <target>Browsing History</target>
+        <note>Settings item for clearing browsing history</note>
+      </trans-unit>
+      <trans-unit id="Cache">
+        <source>Cache</source>
+        <target>Cache</target>
+        <note>Settings item for clearing the cache</note>
+      </trans-unit>
       <trans-unit id="Cancel">
         <source>Cancel</source>
         <target>Cancel</target>
@@ -71,6 +81,27 @@
         <source>Clear Everything</source>
         <target>Clear Everything</target>
         <note>Title of the Clear private data dialog.</note>
+      </trans-unit>
+      <trans-unit id="Clear Private Data">
+        <source>Clear Private Data</source>
+        <target>Clear Private Data</target>
+        <note>Button in settings that clears private data for the selected items.
+   Navigation title in settings.</note>
+      </trans-unit>
+      <trans-unit id="Cookies">
+        <source>Cookies</source>
+        <target>Cookies</target>
+        <note>Settings item for clearing cookies</note>
+      </trans-unit>
+      <trans-unit id="Offline Website Data">
+        <source>Offline Website Data</source>
+        <target>Offline Website Data</target>
+        <note>Settings item for clearing website data</note>
+      </trans-unit>
+      <trans-unit id="Saved Logins">
+        <source>Saved Logins</source>
+        <target>Saved Logins</target>
+        <note>Settings item for clearing passwords and login data</note>
       </trans-unit>
     </body>
   </file>
@@ -298,16 +329,6 @@
         <target>Brightness</target>
         <note>Accessibility label for brightness adjustment slider in Reader Mode display settings</note>
       </trans-unit>
-      <trans-unit id="Browsing History">
-        <source>Browsing History</source>
-        <target>Browsing History</target>
-        <note>Settings item for clearing browsing history</note>
-      </trans-unit>
-      <trans-unit id="Cache">
-        <source>Cache</source>
-        <target>Cache</target>
-        <note>Settings item for clearing the cache</note>
-      </trans-unit>
       <trans-unit id="Call">
         <source>Call</source>
         <target>Call</target>
@@ -331,9 +352,7 @@
       <trans-unit id="Clear Private Data">
         <source>Clear Private Data</source>
         <target>Clear Private Data</target>
-        <note>Button in settings that clears private data for the selected items.
-   Label used as an item in Settings. When touched it will open a dialog prompting the user to make sure they want to clear all of their private data.
-   Navigation title for clearing private data.</note>
+        <note>Label used as an item in Settings. When touched it will open a dialog prompting the user to make sure they want to clear all of their private data.</note>
       </trans-unit>
       <trans-unit id="Close">
         <source>Close</source>
@@ -344,11 +363,6 @@
         <source>Closing tab</source>
         <target>Closing tab</target>
         <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="Cookies">
-        <source>Cookies</source>
-        <target>Cookies</target>
-        <note>Settings item for clearing cookies</note>
       </trans-unit>
       <trans-unit id="Copy Address">
         <source>Copy Address</source>
@@ -621,11 +635,6 @@
    Label for OK button in the application update prompt
    OK button</note>
       </trans-unit>
-      <trans-unit id="Offline Website Data">
-        <source>Offline Website Data</source>
-        <target>Offline Website Data</target>
-        <note>Settings item for clearing website data</note>
-      </trans-unit>
       <trans-unit id="Okay">
         <source>Okay</source>
         <target>Okay</target>
@@ -745,11 +754,6 @@
         <source>Save pages to your Reading List by tapping the book plus icon in the Reader View controls.</source>
         <target>Save pages to your Reading List by tapping the book plus icon in the Reader View controls.</target>
         <note>See http://mzl.la/1LXbDOL</note>
-      </trans-unit>
-      <trans-unit id="Saved Logins">
-        <source>Saved Logins</source>
-        <target>Saved Logins</target>
-        <note>Settings item for clearing passwords and login data</note>
       </trans-unit>
       <trans-unit id="Search">
         <source>Search</source>
