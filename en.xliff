@@ -162,10 +162,20 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0" build-num="7A220"/>
     </header>
     <body>
+      <trans-unit id="Browse multiple Web pages at the same time with tabs.">
+        <source>Browse multiple Web pages at the same time with tabs.</source>
+        <target>Browse multiple Web pages at the same time with tabs.</target>
+        <note>See http://mzl.la/1T8gxwo</note>
+      </trans-unit>
       <trans-unit id="Choose">
         <source>Choose</source>
         <target>Choose</target>
         <note>See http://mzl.la/1if9ODp</note>
+      </trans-unit>
+      <trans-unit id="Connect Firefox everywhere you use it.">
+        <source>Connect Firefox everywhere you use it.</source>
+        <target>Connect Firefox everywhere you use it.</target>
+        <note>See http://mzl.la/1T8gxwo</note>
       </trans-unit>
       <trans-unit id="Customize">
         <source>Customize</source>
@@ -190,6 +200,11 @@
       <trans-unit id="Organize">
         <source>Organize</source>
         <target>Organize</target>
+        <note>See http://mzl.la/1T8gxwo</note>
+      </trans-unit>
+      <trans-unit id="Personalize your Firefox just the way you like in Settings.">
+        <source>Personalize your Firefox just the way you like in Settings.</source>
+        <target>Personalize your Firefox just the way you like in Settings.</target>
         <note>See http://mzl.la/1T8gxwo</note>
       </trans-unit>
       <trans-unit id="Personalize your default search engine and more in Settings.">
@@ -868,6 +883,11 @@
         <target>Show Tour</target>
         <note>Show the on-boarding screen again from the settings</note>
       </trans-unit>
+      <trans-unit id="Show search suggestions">
+        <source>Show search suggestions</source>
+        <target>Show search suggestions</target>
+        <note>Label for show search suggestions setting.</note>
+      </trans-unit>
       <trans-unit id="Sign In">
         <source>Sign In</source>
         <target>Sign In</target>
@@ -876,7 +896,7 @@
       <trans-unit id="Sign in">
         <source>Sign in</source>
         <target>Sign in</target>
-        <note>See http://mzl.la/1Qtkf0j</note>
+        <note>Text message / button in the settings table view</note>
       </trans-unit>
       <trans-unit id="Stop">
         <source>Stop</source>
