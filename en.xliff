@@ -192,9 +192,9 @@
         <target>Organize</target>
         <note>See http://mzl.la/1T8gxwo</note>
       </trans-unit>
-      <trans-unit id="Personalize things like your default search engine in Settings.">
-        <source>Personalize things like your default search engine in Settings.</source>
-        <target>Personalize things like your default search engine in Settings.</target>
+      <trans-unit id="Personalize your default search engine and more in Settings.">
+        <source>Personalize your default search engine and more in Settings.</source>
+        <target>Personalize your default search engine and more in Settings.</target>
         <note>See http://mzl.la/1T8gxwo</note>
       </trans-unit>
       <trans-unit id="Share">
