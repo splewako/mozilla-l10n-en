@@ -474,6 +474,11 @@
         <target>Enter your password to connect.</target>
         <note>Text message in the settings table view</note>
       </trans-unit>
+      <trans-unit id="Firefox Help and Support">
+        <source>Firefox Help and Support</source>
+        <target>Firefox Help and Support</target>
+        <note>Tile title for App Help</note>
+      </trans-unit>
       <trans-unit id="Firefox will stop syncing with your account, but won’t delete any of your browsing data on this device.">
         <source>Firefox will stop syncing with your account, but won’t delete any of your browsing data on this device.</source>
         <target>Firefox will stop syncing with your account, but won’t delete any of your browsing data on this device.</target>
@@ -882,6 +887,11 @@
         <source>Tabs Tray</source>
         <target>Tabs Tray</target>
         <note>Accessibility label for the Tabs Tray view.</note>
+      </trans-unit>
+      <trans-unit id="The Mozilla Project">
+        <source>The Mozilla Project</source>
+        <target>The Mozilla Project</target>
+        <note>Tile title for Mozilla</note>
       </trans-unit>
       <trans-unit id="The page could not be displayed in Reader View.">
         <source>The page could not be displayed in Reader View.</source>
