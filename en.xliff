@@ -529,6 +529,16 @@
         <target>Get your open tabs, bookmarks, and passwords from your other devices.</target>
         <note>A re-worded offer about Sync that emphasizes one-way data transfer, not syncing.</note>
       </trans-unit>
+      <trans-unit id="Go">
+        <source>Go</source>
+        <target>Go</target>
+        <note>Pending feature; currently unused string! Button to browse to URL on the clipboard when browser is opened</note>
+      </trans-unit>
+      <trans-unit id="Go to copied URL?">
+        <source>Go to copied URL?</source>
+        <target>Go to copied URL?</target>
+        <note>Pending feature; currently unused string! Prompt message shown when browser is opened with URL on the clipboard</note>
+      </trans-unit>
       <trans-unit id="Help">
         <source>Help</source>
         <target>Help</target>
@@ -1139,11 +1149,6 @@
         <source>Firefox won't remember any of your history or cookies, but new bookmarks will be saved.</source>
         <target>Firefox won't remember any of your history or cookies, but new bookmarks will be saved.</target>
         <note>Description text displayed when there are no open tabs while in private mode</note>
-      </trans-unit>
-      <trans-unit id="Learn More">
-        <source>Learn More</source>
-        <target>Learn More</target>
-        <note>Text button displayed when there are no tabs open while in private mode</note>
       </trans-unit>
       <trans-unit id="Off">
         <source>Off</source>
