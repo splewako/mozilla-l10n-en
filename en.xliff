@@ -1150,6 +1150,16 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0" build-num="7A220"/>
     </header>
     <body>
+      <trans-unit id="Automatically">
+        <source>Automatically</source>
+        <target>Automatically</target>
+        <note>Automatic option</note>
+      </trans-unit>
+      <trans-unit id="Close Private Tabs">
+        <source>Close Private Tabs</source>
+        <target>Close Private Tabs</target>
+        <note>Setting for closing private tabs</note>
+      </trans-unit>
       <trans-unit id="Firefox won't remember any of your history or cookies, but new bookmarks will be saved.">
         <source>Firefox won't remember any of your history or cookies, but new bookmarks will be saved.</source>
         <target>Firefox won't remember any of your history or cookies, but new bookmarks will be saved.</target>
@@ -1160,6 +1170,11 @@
         <target>Learn More</target>
         <note>Text button displayed when there are no tabs open while in private mode</note>
       </trans-unit>
+      <trans-unit id="Manually">
+        <source>Manually</source>
+        <target>Manually</target>
+        <note>Manual option</note>
+      </trans-unit>
       <trans-unit id="Off">
         <source>Off</source>
         <target>Off</target>
@@ -1169,6 +1184,11 @@
         <source>On</source>
         <target>On</target>
         <note>Toggled ON accessibility value</note>
+      </trans-unit>
+      <trans-unit id="Open In New Private Tab">
+        <source>Open In New Private Tab</source>
+        <target>Open In New Private Tab</target>
+        <note>Context menu option for opening a link in a new private tab</note>
       </trans-unit>
       <trans-unit id="Private Browsing">
         <source>Private Browsing</source>
@@ -1184,6 +1204,11 @@
         <source>Turns private mode on or off</source>
         <target>Turns private mode on or off</target>
         <note>Accessiblity hint for toggling on/off private mode</note>
+      </trans-unit>
+      <trans-unit id="When Leaving Private Browsing">
+        <source>When Leaving Private Browsing</source>
+        <target>When Leaving Private Browsing</target>
+        <note>Setting for when the user leaves private browsing mode</note>
       </trans-unit>
     </body>
   </file>
