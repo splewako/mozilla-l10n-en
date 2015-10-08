@@ -643,11 +643,6 @@
         <target>Navigation Toolbar</target>
         <note>Accessibility label for the navigation toolbar displayed at the bottom of the screen.</note>
       </trans-unit>
-      <trans-unit id="Never Send">
-        <source>Never Send</source>
-        <target>Never Send</target>
-        <note>Used as a button label for crash dialog prompt</note>
-      </trans-unit>
       <trans-unit id="New tab: %@: %@">
         <source>New tab: %1$@: %2$@</source>
         <target>New tab: %1$@: %2$@</target>
