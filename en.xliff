@@ -312,7 +312,7 @@
       <trans-unit id="Always Send">
         <source>Always Send</source>
         <target>Always Send</target>
-        <note>Pending feature; currently unused string! Used as a button label for crash dialog prompt</note>
+        <note>Used as a button label for crash dialog prompt</note>
       </trans-unit>
       <trans-unit id="Authentication required">
         <source>Authentication required</source>
@@ -485,7 +485,7 @@
       <trans-unit id="Don't Send">
         <source>Don't Send</source>
         <target>Don't Send</target>
-        <note>Pending feature; currently unused string! Used as a button label for crash dialog prompt</note>
+        <note>Used as a button label for crash dialog prompt</note>
       </trans-unit>
       <trans-unit id="Done">
         <source>Done</source>
@@ -649,11 +649,6 @@
         <target>Navigation Toolbar</target>
         <note>Accessibility label for the navigation toolbar displayed at the bottom of the screen.</note>
       </trans-unit>
-      <trans-unit id="Never Send">
-        <source>Never Send</source>
-        <target>Never Send</target>
-        <note>Pending feature; currently unused string! Used as a button label for crash dialog prompt</note>
-      </trans-unit>
       <trans-unit id="New tab: %@: %@">
         <source>New tab: %1$@: %2$@</source>
         <target>New tab: %1$@: %2$@</target>
@@ -699,7 +694,7 @@
       <trans-unit id="Oops! Firefox crashed">
         <source>Oops! Firefox crashed</source>
         <target>Oops! Firefox crashed</target>
-        <note>Pending feature; currently unused string! Title for prompt displayed to user after the app crashes</note>
+        <note>Title for prompt displayed to user after the app crashes</note>
       </trans-unit>
       <trans-unit id="Open In New Tab">
         <source>Open In New Tab</source>
@@ -865,12 +860,12 @@
       <trans-unit id="Send Report">
         <source>Send Report</source>
         <target>Send Report</target>
-        <note>Pending feature; currently unused string! Used as a button label for crash dialog prompt</note>
+        <note>Used as a button label for crash dialog prompt</note>
       </trans-unit>
       <trans-unit id="Send a crash report so Mozilla can fix the problem?">
         <source>Send a crash report so Mozilla can fix the problem?</source>
         <target>Send a crash report so Mozilla can fix the problem?</target>
-        <note>Pending feature; currently unused string! Message displayed in the crash dialog above the buttons used to select when sending reports</note>
+        <note>Message displayed in the crash dialog above the buttons used to select when sending reports</note>
       </trans-unit>
       <trans-unit id="Sepia">
         <source>Sepia</source>
