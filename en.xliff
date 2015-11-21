@@ -352,7 +352,8 @@
       <trans-unit id="Cancel">
         <source>Cancel</source>
         <target>Cancel</target>
-        <note>Alert Cancel Button
+        <note>Action Sheet Cancel Button
+   Alert Cancel Button
    Authentication prompt cancel button
    Button label to cancel entering a URL or search query
    Cancel alert view
@@ -617,11 +618,6 @@
         <target>Log in</target>
         <note>Authentication prompt log in button</note>
       </trans-unit>
-      <trans-unit id="Logins">
-        <source>Logins</source>
-        <target>Logins</target>
-        <note>Label used as an item in Settings. When touched, the user will be navigated to the Logins/Password manager.</note>
-      </trans-unit>
       <trans-unit id="Looks like Firefox crashed previously. Would you like to restore your tabs?">
         <source>Looks like Firefox crashed previously. Would you like to restore your tabs?</source>
         <target>Looks like Firefox crashed previously. Would you like to restore your tabs?</target>
@@ -799,12 +795,12 @@
       <trans-unit id="Request Desktop Site">
         <source>Request Desktop Site</source>
         <target>Request Desktop Site</target>
-        <note>Pending feature; currently unused string! Tooltip label triggered by long pressing the refresh button.</note>
+        <note>Action Sheet Button for Requesting the Desktop Site</note>
       </trans-unit>
       <trans-unit id="Request Mobile Site">
         <source>Request Mobile Site</source>
         <target>Request Mobile Site</target>
-        <note>Pending feature; currently unused string! Tooltip label triggered by long pressing the refresh button a second time.</note>
+        <note>Action Sheet Button for Requesting the Mobile Site</note>
       </trans-unit>
       <trans-unit id="Sans-serif">
         <source>Sans-serif</source>
