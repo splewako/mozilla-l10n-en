@@ -812,11 +812,6 @@
         <target>Sans-serif</target>
         <note>Font type setting in the reading view settings</note>
       </trans-unit>
-      <trans-unit id="Save">
-        <source>Save</source>
-        <target>Save</target>
-        <note>Button to save the user's password</note>
-      </trans-unit>
       <trans-unit id="Save Image">
         <source>Save Image</source>
         <target>Save Image</target>
@@ -1079,6 +1074,11 @@
         <source>Well, this is embarrassing.</source>
         <target>Well, this is embarrassing.</target>
         <note>Restore Tabs Prompt Title</note>
+      </trans-unit>
+      <trans-unit id="Yes">
+        <source>Yes</source>
+        <target>Yes</target>
+        <note>Button to save the user's password</note>
       </trans-unit>
       <trans-unit id="Yesterday">
         <source>Yesterday</source>
