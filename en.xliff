@@ -360,7 +360,8 @@
       <trans-unit id="Cancel">
         <source>Cancel</source>
         <target>Cancel</target>
-        <note>Alert Cancel Button
+        <note>Action Sheet Cancel Button
+   Alert Cancel Button
    Authentication prompt cancel button
    Button label to cancel entering a URL or search query
    Cancel alert view
@@ -807,22 +808,17 @@
       <trans-unit id="Request Desktop Site">
         <source>Request Desktop Site</source>
         <target>Request Desktop Site</target>
-        <note>Pending feature; currently unused string! Tooltip label triggered by long pressing the refresh button.</note>
+        <note>Action Sheet Button for Requesting the Desktop Site</note>
       </trans-unit>
       <trans-unit id="Request Mobile Site">
         <source>Request Mobile Site</source>
         <target>Request Mobile Site</target>
-        <note>Pending feature; currently unused string! Tooltip label triggered by long pressing the refresh button a second time.</note>
+        <note>Action Sheet Button for Requesting the Mobile Site</note>
       </trans-unit>
       <trans-unit id="Sans-serif">
         <source>Sans-serif</source>
         <target>Sans-serif</target>
         <note>Font type setting in the reading view settings</note>
-      </trans-unit>
-      <trans-unit id="Save">
-        <source>Save</source>
-        <target>Save</target>
-        <note>Button to save the user's password</note>
       </trans-unit>
       <trans-unit id="Save Image">
         <source>Save Image</source>
@@ -1086,6 +1082,11 @@
         <source>Well, this is embarrassing.</source>
         <target>Well, this is embarrassing.</target>
         <note>Restore Tabs Prompt Title</note>
+      </trans-unit>
+      <trans-unit id="Yes">
+        <source>Yes</source>
+        <target>Yes</target>
+        <note>Button to save the user's password</note>
       </trans-unit>
       <trans-unit id="Yesterday">
         <source>Yesterday</source>
