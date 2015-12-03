@@ -384,6 +384,11 @@
         <target>Clear Private Data</target>
         <note>Label used as an item in Settings. When touched it will open a dialog prompting the user to make sure they want to clear all of their private data.</note>
       </trans-unit>
+      <trans-unit id="Clear Search">
+        <source>Clear Search</source>
+        <target>Clear Search</target>
+        <note>Clears the search input field and exits out of input mode</note>
+      </trans-unit>
       <trans-unit id="Close">
         <source>Close</source>
         <target>Close</target>
@@ -508,6 +513,11 @@
         <source>Double tap and hold to open history</source>
         <target>Double tap and hold to open history</target>
         <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Enter Search Mode">
+        <source>Enter Search Mode</source>
+        <target>Enter Search Mode</target>
+        <note>Accessibility label for action denoting entering search mode for logins</note>
       </trans-unit>
       <trans-unit id="Enter your password to connect.">
         <source>Enter your password to connect.</source>
@@ -715,16 +725,6 @@
         <target>Open In New Tab</target>
         <note>Context menu item for opening a link in a new tab</note>
       </trans-unit>
-      <trans-unit id="Open Last Bookmark">
-        <source>Open Last Bookmark</source>
-        <target>Open Last Bookmark</target>
-        <note>String describing the action of opening the last added bookmark from the home screen Quick Actions via 3D Touch</note>
-      </trans-unit>
-      <trans-unit id="Open Last Tab">
-        <source>Open Last Tab</source>
-        <target>Open Last Tab</target>
-        <note>String describing the action of opening the last tab sent to Firefox from the home screen Quick Actions via 3D Touch</note>
-      </trans-unit>
       <trans-unit id="Open Settings">
         <source>Open Settings</source>
         <target>Open Settings</target>
@@ -849,7 +849,13 @@
         <source>Search</source>
         <target>Search</target>
         <note>Navigation title for search settings.
-   Open search section of settings</note>
+   Open search section of settings
+   Title for the search field at the top of the Logins list screen</note>
+      </trans-unit>
+      <trans-unit id="Search Input Field">
+        <source>Search Input Field</source>
+        <target>Search Input Field</target>
+        <note>Accessibility label for the search input field in the Logins list</note>
       </trans-unit>
       <trans-unit id="Search or enter address">
         <source>Search or enter address</source>
