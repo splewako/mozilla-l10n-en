@@ -277,11 +277,6 @@
         <target>-</target>
         <note>Button for smaller reader font size. Keep this extremely short! This is shown in the reader mode toolbar.</note>
       </trans-unit>
-      <trans-unit id="58 City">
-        <source>58 City</source>
-        <target>58 City</target>
-        <note>Tile title for 58 City</note>
-      </trans-unit>
       <trans-unit id="A username and password are being requested by %@.">
         <source>A username and password are being requested by %@.</source>
         <target>A username and password are being requested by %@.</target>
@@ -336,11 +331,6 @@
         <source>Back</source>
         <target>Back</target>
         <note>Accessibility Label for the browser toolbar Back button</note>
-      </trans-unit>
-      <trans-unit id="Baidu">
-        <source>Baidu</source>
-        <target>Baidu</target>
-        <note>Tile title for Baidu</note>
       </trans-unit>
       <trans-unit id="Block Pop-up Windows">
         <source>Block Pop-up Windows</source>
@@ -584,11 +574,6 @@
         <target>Intro Tour Carousel</target>
         <note>Accessibility label for the introduction tour carousel</note>
       </trans-unit>
-      <trans-unit id="JD.COM">
-        <source>JD.COM</source>
-        <target>JD.COM</target>
-        <note>Tile title for Jd</note>
-      </trans-unit>
       <trans-unit id="Last month">
         <source>Last month</source>
         <target>Last month</target>
@@ -785,11 +770,6 @@
         <target>Privacy Policy</target>
         <note>Show Firefox Browser Privacy Policy page from the Privacy section in the settings. See https://www.mozilla.org/privacy/firefox/</note>
       </trans-unit>
-      <trans-unit id="QQ">
-        <source>QQ</source>
-        <target>QQ</target>
-        <note>Tile title for QQ</note>
-      </trans-unit>
       <trans-unit id="Quick-search Engines">
         <source>Quick-search Engines</source>
         <target>Quick-search Engines</target>
@@ -948,11 +928,6 @@
         <target>Sign in</target>
         <note>Text message / button in the settings table view</note>
       </trans-unit>
-      <trans-unit id="Sina">
-        <source>Sina</source>
-        <target>Sina</target>
-        <note>Tile title for Sina</note>
-      </trans-unit>
       <trans-unit id="Stop">
         <source>Stop</source>
         <target>Stop</target>
@@ -1007,11 +982,6 @@
         <source>Tabs Tray</source>
         <target>Tabs Tray</target>
         <note>Accessibility label for the Tabs Tray view.</note>
-      </trans-unit>
-      <trans-unit id="Taobao">
-        <source>Taobao</source>
-        <target>Taobao</target>
-        <note>Tile title for Taobao</note>
       </trans-unit>
       <trans-unit id="The Mozilla Project">
         <source>The Mozilla Project</source>
