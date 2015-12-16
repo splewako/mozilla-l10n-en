@@ -725,6 +725,16 @@
         <target>Open In New Tab</target>
         <note>Context menu item for opening a link in a new tab</note>
       </trans-unit>
+      <trans-unit id="Open Last Bookmark">
+        <source>Open Last Bookmark</source>
+        <target>Open Last Bookmark</target>
+        <note>String describing the action of opening the last added bookmark from the home screen Quick Actions via 3D Touch</note>
+      </trans-unit>
+      <trans-unit id="Open Last Tab">
+        <source>Open Last Tab</source>
+        <target>Open Last Tab</target>
+        <note>String describing the action of opening the last tab sent to Firefox from the home screen Quick Actions via 3D Touch</note>
+      </trans-unit>
       <trans-unit id="Open Settings">
         <source>Open Settings</source>
         <target>Open Settings</target>
