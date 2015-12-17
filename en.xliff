@@ -47,33 +47,6 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Client/ClearHistoryConfirm.strings" source-language="en" datatype="plaintext" target-language="en">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
-    </header>
-    <body>
-      <trans-unit id="Cancel">
-        <source>Cancel</source>
-        <target>Cancel</target>
-        <note>The cancel button when confirming clear history.</note>
-      </trans-unit>
-      <trans-unit id="Clear">
-        <source>Clear</source>
-        <target>Clear</target>
-        <note>The button that clears history even when Sync is connected.</note>
-      </trans-unit>
-      <trans-unit id="History will be removed from all your connected devices. This cannot be undone.">
-        <source>History will be removed from all your connected devices. This cannot be undone.</source>
-        <target>History will be removed from all your connected devices. This cannot be undone.</target>
-        <note>Description of the confirmation dialog shown when a user tries to clear history that's synced to another device.</note>
-      </trans-unit>
-      <trans-unit id="Remove history from your Firefox Account?">
-        <source>Remove history from your Firefox Account?</source>
-        <target>Remove history from your Firefox Account?</target>
-        <note>Title of the confirmation dialog shown when a user tries to clear history that's synced to another device.</note>
-      </trans-unit>
-    </body>
-  </file>
   <file original="Client/ClearPrivateData.strings" source-language="en" datatype="plaintext" target-language="en">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
@@ -286,6 +259,78 @@
         <source>Use the share sheet to send links from other apps to Firefox.</source>
         <target>Use the share sheet to send links from other apps to Firefox.</target>
         <note>See http://mzl.la/1if9ODp</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Client/LightweightThemes.strings" source-language="en" datatype="plaintext" target-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+    </header>
+    <body>
+      <trans-unit id="Allow Firefox to use my Photos">
+        <source>Allow Firefox to use my Photos</source>
+        <target>Allow Firefox to use my Photos</target>
+        <note>Pending feature; currently unused string! Button shown when user wishes to view photos for theme but has not given Firefox permission to do so yet.</note>
+      </trans-unit>
+      <trans-unit id="Back to Themes">
+        <source>Back to Themes</source>
+        <target>Back to Themes</target>
+        <note>Pending feature; currently unused string! Accessibility label for back button to theme chooser</note>
+      </trans-unit>
+      <trans-unit id="Choose">
+        <source>Choose</source>
+        <target>Choose</target>
+        <note>Pending feature; currently unused string! Back button shown to return back to theme settings from photo picker</note>
+      </trans-unit>
+      <trans-unit id="Choose Theme">
+        <source>Choose Theme</source>
+        <target>Choose Theme</target>
+        <note>Pending feature; currently unused string! Accessibility label for settings row to enter theme settings</note>
+      </trans-unit>
+      <trans-unit id="Default Themes">
+        <source>Default Themes</source>
+        <target>Default Themes</target>
+        <note>Pending feature; currently unused string! Accessibility label for themes subheader</note>
+      </trans-unit>
+      <trans-unit id="My Photos">
+        <source>My Photos</source>
+        <target>My Photos</target>
+        <note>Pending feature; currently unused string! Accessibility label for photo viewer</note>
+      </trans-unit>
+      <trans-unit id="Photos">
+        <source>Photos</source>
+        <target>Photos</target>
+        <note>Pending feature; currently unused string! Sub header for photo options in theme chooser</note>
+      </trans-unit>
+      <trans-unit id="Preview">
+        <source>Preview</source>
+        <target>Preview</target>
+        <note>Pending feature; currently unused string! Button to show preview of selected theme</note>
+      </trans-unit>
+      <trans-unit id="Preview Theme">
+        <source>Preview Theme</source>
+        <target>Preview Theme</target>
+        <note>Pending feature; currently unused string! Accessibility label for theme preview button</note>
+      </trans-unit>
+      <trans-unit id="Set">
+        <source>Set</source>
+        <target>Set</target>
+        <note>Pending feature; currently unused string! Button to set selected theme as current theme</note>
+      </trans-unit>
+      <trans-unit id="Set Theme">
+        <source>Set Theme</source>
+        <target>Set Theme</target>
+        <note>Pending feature; currently unused string! Accessibility label for set theme button</note>
+      </trans-unit>
+      <trans-unit id="Theme">
+        <source>Theme</source>
+        <target>Theme</target>
+        <note>Pending feature; currently unused string! Settings row to enter theme settings</note>
+      </trans-unit>
+      <trans-unit id="Themes">
+        <source>Themes</source>
+        <target>Themes</target>
+        <note>Pending feature; currently unused string! sub header for theme options in theme chooser</note>
       </trans-unit>
     </body>
   </file>
