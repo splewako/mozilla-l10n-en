@@ -302,6 +302,11 @@
         <target>Add Tab</target>
         <note>Accessibility label for the Add Tab button in the Tab Tray.</note>
       </trans-unit>
+      <trans-unit id="Add to Bookmarks">
+        <source>Add to Bookmarks</source>
+        <target>Add to Bookmarks</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Add to Reading List">
         <source>Add to Reading List</source>
         <target>Add to Reading List</target>
@@ -394,6 +399,11 @@
         <target>Close</target>
         <note>Accessibility label for action denoting closing a tab in tab list (tray)</note>
       </trans-unit>
+      <trans-unit id="Close Tab">
+        <source>Close Tab</source>
+        <target>Close Tab</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Closing tab">
         <source>Closing tab</source>
         <target>Closing tab</target>
@@ -413,6 +423,11 @@
         <source>Copy Link</source>
         <target>Copy Link</target>
         <note>Context menu item for copying a link URL to the clipboard</note>
+      </trans-unit>
+      <trans-unit id="Copy URL">
+        <source>Copy URL</source>
+        <target>Copy URL</target>
+        <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Could not add page to Reading List. Maybe it's already there?">
         <source>Could not add page to Reading List. Maybe it's already there?</source>
@@ -902,6 +917,11 @@
         <target>Send a crash report so Mozilla can fix the problem?</target>
         <note>Message displayed in the crash dialog above the buttons used to select when sending reports</note>
       </trans-unit>
+      <trans-unit id="Send to Device">
+        <source>Send to Device</source>
+        <target>Send to Device</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Sepia">
         <source>Sepia</source>
         <target>Sepia</target>
@@ -1280,6 +1300,48 @@
       </trans-unit>
     </body>
   </file>
+  <file original="Client/SendTo.strings" source-language="en" datatype="plaintext" target-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+    </header>
+    <body>
+      <trans-unit id="Available devices:">
+        <source>Available devices:</source>
+        <target>Available devices:</target>
+        <note>Header for the list of devices table</note>
+      </trans-unit>
+      <trans-unit id="Close">
+        <source>Close</source>
+        <target>Close</target>
+        <note>Close button in top navigation bar</note>
+      </trans-unit>
+      <trans-unit id="Please open Firefox, go to Settings and sign in to continue.">
+        <source>Please open Firefox, go to Settings and sign in to continue.</source>
+        <target>Please open Firefox, go to Settings and sign in to continue.</target>
+        <note>See http://mzl.la/1ISlXnU</note>
+      </trans-unit>
+      <trans-unit id="Send">
+        <source>Send</source>
+        <target>Send</target>
+        <note>Navigation bar button to Send the current page to a device</note>
+      </trans-unit>
+      <trans-unit id="Send Tab">
+        <source>Send Tab</source>
+        <target>Send Tab</target>
+        <note>Title of the dialog that allows you to send a tab to a different device</note>
+      </trans-unit>
+      <trans-unit id="You are not signed in to your Firefox Account.">
+        <source>You are not signed in to your Firefox Account.</source>
+        <target>You are not signed in to your Firefox Account.</target>
+        <note>See http://mzl.la/1ISlXnU</note>
+      </trans-unit>
+      <trans-unit id="You don't have any other devices connected to this Firefox Account available to sync.">
+        <source>You don't have any other devices connected to this Firefox Account available to sync.</source>
+        <target>You don't have any other devices connected to this Firefox Account available to sync.</target>
+        <note>Error message shown in the remote tabs panel</note>
+      </trans-unit>
+    </body>
+  </file>
   <file original="ClientTests/Info.plist" source-language="en" datatype="plaintext" target-language="en">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
@@ -1326,48 +1388,6 @@
       <trans-unit id="CFBundleShortVersionString">
         <source>$(MOZ_VERSION)</source>
         <target>$(MOZ_VERSION)</target>
-      </trans-unit>
-    </body>
-  </file>
-  <file original="Extensions/SendTo/SendTo.strings" source-language="en" datatype="plaintext" target-language="en">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
-    </header>
-    <body>
-      <trans-unit id="Available devices:">
-        <source>Available devices:</source>
-        <target>Available devices:</target>
-        <note>Header for the list of devices table</note>
-      </trans-unit>
-      <trans-unit id="Close">
-        <source>Close</source>
-        <target>Close</target>
-        <note>Close button in top navigation bar</note>
-      </trans-unit>
-      <trans-unit id="Please open Firefox, go to Settings and sign in to continue.">
-        <source>Please open Firefox, go to Settings and sign in to continue.</source>
-        <target>Please open Firefox, go to Settings and sign in to continue.</target>
-        <note>See http://mzl.la/1ISlXnU</note>
-      </trans-unit>
-      <trans-unit id="Send">
-        <source>Send</source>
-        <target>Send</target>
-        <note>Navigation bar button to Send the current page to a device</note>
-      </trans-unit>
-      <trans-unit id="Send Tab">
-        <source>Send Tab</source>
-        <target>Send Tab</target>
-        <note>Title of the dialog that allows you to send a tab to a different device</note>
-      </trans-unit>
-      <trans-unit id="You are not signed in to your Firefox Account.">
-        <source>You are not signed in to your Firefox Account.</source>
-        <target>You are not signed in to your Firefox Account.</target>
-        <note>See http://mzl.la/1ISlXnU</note>
-      </trans-unit>
-      <trans-unit id="You don't have any other devices connected to this Firefox Account available to sync.">
-        <source>You don't have any other devices connected to this Firefox Account available to sync.</source>
-        <target>You don't have any other devices connected to this Firefox Account available to sync.</target>
-        <note>Error message shown in the remote tabs panel</note>
       </trans-unit>
     </body>
   </file>
