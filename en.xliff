@@ -795,6 +795,11 @@
         <target>Paste &amp; Go</target>
         <note>Paste the URL into the location bar and visit</note>
       </trans-unit>
+      <trans-unit id="Preview of (webView.accessibilityLabel)">
+        <source>Preview of (webView.accessibilityLabel)</source>
+        <target>Preview of (webView.accessibilityLabel)</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
       <trans-unit id="Privacy">
         <source>Privacy</source>
         <target>Privacy</target>
