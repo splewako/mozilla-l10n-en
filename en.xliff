@@ -725,11 +725,6 @@
         <target>Double tap and hold to open history</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
-      <trans-unit id="Enter Search Mode">
-        <source>Enter Search Mode</source>
-        <target>Enter Search Mode</target>
-        <note>Accessibility label for action denoting entering search mode for logins</note>
-      </trans-unit>
       <trans-unit id="Enter your password to connect.">
         <source>Enter your password to connect.</source>
         <target>Enter your password to connect.</target>
