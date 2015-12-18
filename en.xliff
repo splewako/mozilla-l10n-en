@@ -30,6 +30,118 @@
       </trans-unit>
     </body>
   </file>
+  <file original="Client/AuthenticationManager.strings" source-language="en" datatype="plaintext" target-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+    </header>
+    <body>
+      <trans-unit id="After 1 hour">
+        <source>After 1 hour</source>
+        <target>After 1 hour</target>
+        <note>'After 1 hour' interval item for selecting when to require passcode</note>
+      </trans-unit>
+      <trans-unit id="After 1 minute">
+        <source>After 1 minute</source>
+        <target>After 1 minute</target>
+        <note>'After 1 minute' interval item for selecting when to require passcode</note>
+      </trans-unit>
+      <trans-unit id="After 5 minutes">
+        <source>After 5 minutes</source>
+        <target>After 5 minutes</target>
+        <note>'After 5 minutes' interval item for selecting when to require passcode</note>
+      </trans-unit>
+      <trans-unit id="After 10 minutes">
+        <source>After 10 minutes</source>
+        <target>After 10 minutes</target>
+        <note>'After 10 minutes' interval item for selecting when to require passcode</note>
+      </trans-unit>
+      <trans-unit id="After 15 minutes">
+        <source>After 15 minutes</source>
+        <target>After 15 minutes</target>
+        <note>'After 15 minutes' interval item for selecting when to require passcode</note>
+      </trans-unit>
+      <trans-unit id="Change Passcode">
+        <source>Change Passcode</source>
+        <target>Change Passcode</target>
+        <note>Title for setting to change passcode</note>
+      </trans-unit>
+      <trans-unit id="Enter a passcode">
+        <source>Enter a passcode</source>
+        <target>Enter a passcode</target>
+        <note>Title for entering a passcode</note>
+      </trans-unit>
+      <trans-unit id="Immediately">
+        <source>Immediately</source>
+        <target>Immediately</target>
+        <note>'Immediately' interval item for selecting when to require passcode</note>
+      </trans-unit>
+      <trans-unit id="Logins">
+        <source>Logins</source>
+        <target>Logins</target>
+        <note>List item for Logins</note>
+      </trans-unit>
+      <trans-unit id="Passcode">
+        <source>Passcode</source>
+        <target>Passcode</target>
+        <note>List section title for passcode settings</note>
+      </trans-unit>
+      <trans-unit id="Private Browsing">
+        <source>Private Browsing</source>
+        <target>Private Browsing</target>
+        <note>List item for Private Browsing</note>
+      </trans-unit>
+      <trans-unit id="Re-enter passcode">
+        <source>Re-enter passcode</source>
+        <target>Re-enter passcode</target>
+        <note>Title for re-entering a passcode</note>
+      </trans-unit>
+      <trans-unit id="Require Passcode">
+        <source>Require Passcode</source>
+        <target>Require Passcode</target>
+        <note>Title for setting to require a passcode</note>
+      </trans-unit>
+      <trans-unit id="Set Passcode">
+        <source>Set Passcode</source>
+        <target>Set Passcode</target>
+        <note>Screen title for Set Passcode</note>
+      </trans-unit>
+      <trans-unit id="Touch ID &amp; Passcode">
+        <source>Touch ID &amp; Passcode</source>
+        <target>Touch ID &amp; Passcode</target>
+        <note>Title for Touch ID/Passcode settings option</note>
+      </trans-unit>
+      <trans-unit id="Turn Passcode Off">
+        <source>Turn Passcode Off</source>
+        <target>Turn Passcode Off</target>
+        <note>Title for setting to turn off passcode</note>
+      </trans-unit>
+      <trans-unit id="Turn Passcode On">
+        <source>Turn Passcode On</source>
+        <target>Turn Passcode On</target>
+        <note>Title for setting to turn on passcode</note>
+      </trans-unit>
+      <trans-unit id="Turn off your passcode.">
+        <source>Turn off your passcode.</source>
+        <target>Turn off your passcode.</target>
+        <note>Touch ID prompt subtitle when turning off passcode</note>
+      </trans-unit>
+      <trans-unit id="Use Touch ID for">
+        <source>Use Touch ID for</source>
+        <target>Use Touch ID for</target>
+        <note>List section title for when to use Touch ID</note>
+      </trans-unit>
+      <trans-unit id="Use your fingerprint to access Logins now.">
+        <source>Use your fingerprint to access Logins now.</source>
+        <target>Use your fingerprint to access Logins now.</target>
+        <note>Touch ID prompt subtitle when accessing logins</note>
+      </trans-unit>
+      <trans-unit id="Use your fingerprint to access Private Browsing now.">
+        <source>Use your fingerprint to access Private Browsing now.</source>
+        <target>Use your fingerprint to access Private Browsing now.</target>
+        <note>Touch ID prompt subtitle when accessing private browsing</note>
+      </trans-unit>
+    </body>
+  </file>
   <file original="Client/BookmarkPanel.strings" source-language="en" datatype="plaintext" target-language="en">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
