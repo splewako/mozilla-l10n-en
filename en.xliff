@@ -850,7 +850,8 @@
       <trans-unit id="Logins">
         <source>Logins</source>
         <target>Logins</target>
-        <note>Label used as an item in Settings. When touched, the user will be navigated to the Logins/Password manager.</note>
+        <note>Label used as an item in Settings. When touched, the user will be navigated to the Logins/Password manager.
+   Title for Logins List View screen</note>
       </trans-unit>
       <trans-unit id="Looks like Firefox crashed previously. Would you like to restore your tabs?">
         <source>Looks like Firefox crashed previously. Would you like to restore your tabs?</source>
