@@ -65,9 +65,9 @@
         <target>Open Last Tab</target>
         <note>String describing the action of opening the last tab sent to Firefox from the home screen Quick Actions via 3D Touch</note>
       </trans-unit>
-      <trans-unit id="Preview of (tab.webView?.accessibilityLabel)">
-        <source>Preview of (tab.webView?.accessibilityLabel)</source>
-        <target>Preview of (tab.webView?.accessibilityLabel)</target>
+      <trans-unit id="Preview of (tab?.webView?.accessibilityLabel)">
+        <source>Preview of (tab?.webView?.accessibilityLabel)</source>
+        <target>Preview of (tab?.webView?.accessibilityLabel)</target>
         <note>Accessibility Label for preview in Tab Tray of current tab</note>
       </trans-unit>
       <trans-unit id="Send to Device">
