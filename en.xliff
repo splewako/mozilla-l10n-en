@@ -1467,6 +1467,11 @@
         <target>Clear Search</target>
         <note>Clears the search input field and exits out of input mode</note>
       </trans-unit>
+      <trans-unit id="Copy">
+        <source>Copy</source>
+        <target>Copy</target>
+        <note>Copy password text selection menu item</note>
+      </trans-unit>
       <trans-unit id="Delete">
         <source>Delete</source>
         <target>Delete</target>
@@ -1481,6 +1486,11 @@
         <source>Enter Search Mode</source>
         <target>Enter Search Mode</target>
         <note>Accessibility label for entering search mode for logins</note>
+      </trans-unit>
+      <trans-unit id="Hide">
+        <source>Hide</source>
+        <target>Hide</target>
+        <note>Hide password text selection menu item</note>
       </trans-unit>
       <trans-unit id="Last modified %@">
         <source>Last modified %@</source>
