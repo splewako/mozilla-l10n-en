@@ -321,7 +321,7 @@
       <trans-unit id="Find in Page">
         <source>Find in Page</source>
         <target>Find in Page</target>
-        <note>Pending feature; currently unused string! Title for share action item and selection menu item.</note>
+        <note>Share action title</note>
       </trans-unit>
       <trans-unit id="Next in-page result">
         <source>Next in-page result</source>
