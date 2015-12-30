@@ -316,7 +316,7 @@
       <trans-unit id="Done">
         <source>Done</source>
         <target>Done</target>
-        <note>Pending feature; currently unused string! Done button in Find in Page Toolbar.</note>
+        <note>Done button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="Find in Page">
         <source>Find in Page</source>
@@ -326,12 +326,12 @@
       <trans-unit id="Next in-page result">
         <source>Next in-page result</source>
         <target>Next in-page result</target>
-        <note>Pending feature; currently unused string! Accessibility label for next result button in Find in Page Toolbar.</note>
+        <note>Accessibility label for next result button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="Previous in-page result">
         <source>Previous in-page result</source>
         <target>Previous in-page result</target>
-        <note>Pending feature; currently unused string! Accessibility label for previous result button in Find in Page Toolbar.</note>
+        <note>Accessibility label for previous result button in Find in Page Toolbar.</note>
       </trans-unit>
     </body>
   </file>
