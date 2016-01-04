@@ -65,9 +65,9 @@
         <target>Open Last Tab</target>
         <note>String describing the action of opening the last tab sent to Firefox from the home screen Quick Actions via 3D Touch</note>
       </trans-unit>
-      <trans-unit id="Preview of %@">
-        <source>Preview of %@</source>
-        <target>Preview of %@</target>
+      <trans-unit id="Preview of (tab?.webView?.accessibilityLabel)">
+        <source>Preview of (tab?.webView?.accessibilityLabel)</source>
+        <target>Preview of (tab?.webView?.accessibilityLabel)</target>
         <note>Accessibility Label for preview in Tab Tray of current tab</note>
       </trans-unit>
       <trans-unit id="Send to Device">
@@ -122,10 +122,20 @@
         <target>Immediately</target>
         <note>'Immediately' interval item for selecting when to require passcode</note>
       </trans-unit>
+      <trans-unit id="Logins">
+        <source>Logins</source>
+        <target>Logins</target>
+        <note>List item for Logins</note>
+      </trans-unit>
       <trans-unit id="Passcode">
         <source>Passcode</source>
         <target>Passcode</target>
         <note>List section title for passcode settings</note>
+      </trans-unit>
+      <trans-unit id="Private Browsing">
+        <source>Private Browsing</source>
+        <target>Private Browsing</target>
+        <note>List item for Private Browsing</note>
       </trans-unit>
       <trans-unit id="Re-enter passcode">
         <source>Re-enter passcode</source>
@@ -162,9 +172,9 @@
         <target>Turn off your passcode.</target>
         <note>Touch ID prompt subtitle when turning off passcode</note>
       </trans-unit>
-      <trans-unit id="Use Touch ID">
-        <source>Use Touch ID</source>
-        <target>Use Touch ID</target>
+      <trans-unit id="Use Touch ID for">
+        <source>Use Touch ID for</source>
+        <target>Use Touch ID for</target>
         <note>List section title for when to use Touch ID</note>
       </trans-unit>
       <trans-unit id="Use your fingerprint to access Logins now.">
@@ -193,33 +203,6 @@
         <source>Desktop Bookmarks</source>
         <target>Desktop Bookmarks</target>
         <note>The folder name for the virtual folder that contains all desktop bookmarks.</note>
-      </trans-unit>
-    </body>
-  </file>
-  <file original="Client/BookmarkPanelDeleteConfirm.strings" source-language="en" datatype="plaintext" target-language="en">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
-    </header>
-    <body>
-      <trans-unit id="Are you sure you want to delete it and its contents?">
-        <source>Are you sure you want to delete it and its contents?</source>
-        <target>Are you sure you want to delete it and its contents?</target>
-        <note>Main body of the confirmation alert when the user tries to delete a folder that still contains bookmarks and/or folders.</note>
-      </trans-unit>
-      <trans-unit id="Cancel">
-        <source>Cancel</source>
-        <target>Cancel</target>
-        <note>Button label to cancel deletion when the user tried to delete a non-empty folder.</note>
-      </trans-unit>
-      <trans-unit id="Delete">
-        <source>Delete</source>
-        <target>Delete</target>
-        <note>Button label for the button that deletes a folder and all of its children.</note>
-      </trans-unit>
-      <trans-unit id="This folder isn't empty.">
-        <source>This folder isn't empty.</source>
-        <target>This folder isn't empty.</target>
-        <note>Title of the confirmation alert when the user tries to delete a folder that still contains bookmarks and/or folders.</note>
       </trans-unit>
     </body>
   </file>
@@ -333,22 +316,22 @@
       <trans-unit id="Done">
         <source>Done</source>
         <target>Done</target>
-        <note>Done button in Find in Page Toolbar.</note>
+        <note>Pending feature; currently unused string! Done button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="Find in Page">
         <source>Find in Page</source>
         <target>Find in Page</target>
-        <note>Text selection menu item</note>
+        <note>Pending feature; currently unused string! Title for share action item and selection menu item.</note>
       </trans-unit>
       <trans-unit id="Next in-page result">
         <source>Next in-page result</source>
         <target>Next in-page result</target>
-        <note>Accessibility label for next result button in Find in Page Toolbar.</note>
+        <note>Pending feature; currently unused string! Accessibility label for next result button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="Previous in-page result">
         <source>Previous in-page result</source>
         <target>Previous in-page result</target>
-        <note>Accessibility label for previous result button in Find in Page Toolbar.</note>
+        <note>Pending feature; currently unused string! Accessibility label for previous result button in Find in Page Toolbar.</note>
       </trans-unit>
     </body>
   </file>
@@ -884,7 +867,8 @@
       <trans-unit id="Last synced: %@">
         <source>Last synced: %@</source>
         <target>Last synced: %@</target>
-        <note>Remote tabs last synced time. Argument is the relative date string.</note>
+        <note>Last synced time label beside Sync Now setting option. Argument is the relative date string.
+   Remote tabs last synced time. Argument is the relative date string.</note>
       </trans-unit>
       <trans-unit id="Last week">
         <source>Last week</source>
@@ -1200,11 +1184,6 @@
         <target>Share</target>
         <note>Accessibility Label for the browser toolbar Share button</note>
       </trans-unit>
-      <trans-unit id="Share Link">
-        <source>Share Link</source>
-        <target>Share Link</target>
-        <note>Context menu item for sharing a link URL</note>
-      </trans-unit>
       <trans-unit id="Show Search Suggestions">
         <source>Show Search Suggestions</source>
         <target>Show Search Suggestions</target>
@@ -1234,8 +1213,7 @@
       <trans-unit id="Sign in">
         <source>Sign in</source>
         <target>Sign in</target>
-        <note>See http://mzl.la/1Qtkf0j
-   Text message / button in the settings table view</note>
+        <note>Text message / button in the settings table view</note>
       </trans-unit>
       <trans-unit id="Stop">
         <source>Stop</source>
@@ -1479,20 +1457,10 @@
         <target>Are you sure?</target>
         <note>Prompt title when deleting logins</note>
       </trans-unit>
-      <trans-unit id="Cancel">
-        <source>Cancel</source>
-        <target>Cancel</target>
-        <note>Prompt option for cancelling out of deletion</note>
-      </trans-unit>
       <trans-unit id="Clear Search">
         <source>Clear Search</source>
         <target>Clear Search</target>
-        <note>Accessibility message e.g. spoken by VoiceOver after the user taps the close button in the search field to clear the search and exit search mode</note>
-      </trans-unit>
-      <trans-unit id="Copy">
-        <source>Copy</source>
-        <target>Copy</target>
-        <note>Copy password text selection menu item</note>
+        <note>Clears the search input field and exits out of input mode</note>
       </trans-unit>
       <trans-unit id="Delete">
         <source>Delete</source>
@@ -1508,11 +1476,6 @@
         <source>Enter Search Mode</source>
         <target>Enter Search Mode</target>
         <note>Accessibility label for entering search mode for logins</note>
-      </trans-unit>
-      <trans-unit id="Hide">
-        <source>Hide</source>
-        <target>Hide</target>
-        <note>Hide password text selection menu item</note>
       </trans-unit>
       <trans-unit id="Last modified %@">
         <source>Last modified %@</source>
@@ -1722,23 +1685,6 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Client/SendAnonymousUsageData.strings" source-language="en" datatype="plaintext" target-language="en">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
-    </header>
-    <body>
-      <trans-unit id="More Info…">
-        <source>More Info…</source>
-        <target>More Info…</target>
-        <note>See http://bit.ly/1SmEXU1</note>
-      </trans-unit>
-      <trans-unit id="Send Anonymous Usage Data">
-        <source>Send Anonymous Usage Data</source>
-        <target>Send Anonymous Usage Data</target>
-        <note>See http://bit.ly/1SmEXU1</note>
-      </trans-unit>
-    </body>
-  </file>
   <file original="Client/SendTo.strings" source-language="en" datatype="plaintext" target-language="en">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
@@ -1782,21 +1728,6 @@
     </body>
   </file>
   <file original="ClientTests/Info.plist" source-language="en" datatype="plaintext" target-language="en">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
-    </header>
-    <body>
-      <trans-unit id="CFBundleName">
-        <source>$(PRODUCT_NAME)</source>
-        <target>$(PRODUCT_NAME)</target>
-      </trans-unit>
-      <trans-unit id="CFBundleShortVersionString">
-        <source>1.0</source>
-        <target>1.0</target>
-      </trans-unit>
-    </body>
-  </file>
-  <file original="ClientUITests/Info.plist" source-language="en" datatype="plaintext" target-language="en">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
     </header>
@@ -1887,6 +1818,36 @@
       <trans-unit id="CFBundleShortVersionString">
         <source>$(MOZ_VERSION)</source>
         <target>$(MOZ_VERSION)</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="L10nSnapshotTests/Info.plist" source-language="en" datatype="plaintext" target-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target>$(PRODUCT_NAME)</target>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+        <target>1.0</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="MarketingUITests/Info.plist" source-language="en" datatype="plaintext" target-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target>$(PRODUCT_NAME)</target>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+        <target>1.0</target>
       </trans-unit>
     </body>
   </file>
