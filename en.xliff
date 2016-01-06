@@ -1489,6 +1489,11 @@
         <target>Are you sure?</target>
         <note>Prompt title when deleting logins</note>
       </trans-unit>
+      <trans-unit id="Cancel">
+        <source>Cancel</source>
+        <target>Cancel</target>
+        <note>Prompt option for cancelling out of deletion</note>
+      </trans-unit>
       <trans-unit id="Clear Search">
         <source>Clear Search</source>
         <target>Clear Search</target>
