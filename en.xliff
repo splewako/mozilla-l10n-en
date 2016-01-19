@@ -65,9 +65,9 @@
         <target>Open Last Tab</target>
         <note>String describing the action of opening the last tab sent to Firefox from the home screen Quick Actions via 3D Touch</note>
       </trans-unit>
-      <trans-unit id="Preview of (tab?.webView?.accessibilityLabel)">
-        <source>Preview of (tab?.webView?.accessibilityLabel)</source>
-        <target>Preview of (tab?.webView?.accessibilityLabel)</target>
+      <trans-unit id="Preview of %@">
+        <source>Preview of %@</source>
+        <target>Preview of %@</target>
         <note>Accessibility Label for preview in Tab Tray of current tab</note>
       </trans-unit>
       <trans-unit id="Send to Device">
@@ -206,6 +206,33 @@
       </trans-unit>
     </body>
   </file>
+  <file original="Client/BookmarkPanelDeleteConfirm.strings" source-language="en" datatype="plaintext" target-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+    </header>
+    <body>
+      <trans-unit id="Are you sure you want to delete it and its contents?">
+        <source>Are you sure you want to delete it and its contents?</source>
+        <target>Are you sure you want to delete it and its contents?</target>
+        <note>Main body of the confirmation alert when the user tries to delete a folder that still contains bookmarks and/or folders.</note>
+      </trans-unit>
+      <trans-unit id="Cancel">
+        <source>Cancel</source>
+        <target>Cancel</target>
+        <note>Button label to cancel deletion when the user tried to delete a non-empty folder.</note>
+      </trans-unit>
+      <trans-unit id="Delete">
+        <source>Delete</source>
+        <target>Delete</target>
+        <note>Button label for the button that deletes a folder and all of its children.</note>
+      </trans-unit>
+      <trans-unit id="This folder isn't empty.">
+        <source>This folder isn't empty.</source>
+        <target>This folder isn't empty.</target>
+        <note>Title of the confirmation alert when the user tries to delete a folder that still contains bookmarks and/or folders.</note>
+      </trans-unit>
+    </body>
+  </file>
   <file original="Client/ClearHistoryConfirm.strings" source-language="en" datatype="plaintext" target-language="en">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
@@ -316,22 +343,22 @@
       <trans-unit id="Done">
         <source>Done</source>
         <target>Done</target>
-        <note>Pending feature; currently unused string! Done button in Find in Page Toolbar.</note>
+        <note>Done button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="Find in Page">
         <source>Find in Page</source>
         <target>Find in Page</target>
-        <note>Pending feature; currently unused string! Title for share action item and selection menu item.</note>
+        <note>Text selection menu item</note>
       </trans-unit>
       <trans-unit id="Next in-page result">
         <source>Next in-page result</source>
         <target>Next in-page result</target>
-        <note>Pending feature; currently unused string! Accessibility label for next result button in Find in Page Toolbar.</note>
+        <note>Accessibility label for next result button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="Previous in-page result">
         <source>Previous in-page result</source>
         <target>Previous in-page result</target>
-        <note>Pending feature; currently unused string! Accessibility label for previous result button in Find in Page Toolbar.</note>
+        <note>Accessibility label for previous result button in Find in Page Toolbar.</note>
       </trans-unit>
     </body>
   </file>
@@ -867,8 +894,7 @@
       <trans-unit id="Last synced: %@">
         <source>Last synced: %@</source>
         <target>Last synced: %@</target>
-        <note>Last synced time label beside Sync Now setting option. Argument is the relative date string.
-   Remote tabs last synced time. Argument is the relative date string.</note>
+        <note>Remote tabs last synced time. Argument is the relative date string.</note>
       </trans-unit>
       <trans-unit id="Last week">
         <source>Last week</source>
@@ -1218,7 +1244,8 @@
       <trans-unit id="Sign in">
         <source>Sign in</source>
         <target>Sign in</target>
-        <note>Text message / button in the settings table view</note>
+        <note>See http://mzl.la/1Qtkf0j
+   Text message / button in the settings table view</note>
       </trans-unit>
       <trans-unit id="Stop">
         <source>Stop</source>
@@ -1462,6 +1489,11 @@
         <target>Are you sure?</target>
         <note>Prompt title when deleting logins</note>
       </trans-unit>
+      <trans-unit id="Cancel">
+        <source>Cancel</source>
+        <target>Cancel</target>
+        <note>Prompt option for cancelling out of deletion</note>
+      </trans-unit>
       <trans-unit id="Clear Search">
         <source>Clear Search</source>
         <target>Clear Search</target>
@@ -1697,6 +1729,23 @@
         <source>Yes</source>
         <target>Yes</target>
         <note>For search suggestions prompt. This string should be short so it fits nicely on the prompt row.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Client/SendAnonymousUsageData.strings" source-language="en" datatype="plaintext" target-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+    </header>
+    <body>
+      <trans-unit id="More Info…">
+        <source>More Info…</source>
+        <target>More Info…</target>
+        <note>See http://bit.ly/1SmEXU1</note>
+      </trans-unit>
+      <trans-unit id="Send Anonymous Usage Data">
+        <source>Send Anonymous Usage Data</source>
+        <target>Send Anonymous Usage Data</target>
+        <note>See http://bit.ly/1SmEXU1</note>
       </trans-unit>
     </body>
   </file>
