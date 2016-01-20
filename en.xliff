@@ -122,20 +122,10 @@
         <target>Immediately</target>
         <note>'Immediately' interval item for selecting when to require passcode</note>
       </trans-unit>
-      <trans-unit id="Logins">
-        <source>Logins</source>
-        <target>Logins</target>
-        <note>List item for Logins</note>
-      </trans-unit>
       <trans-unit id="Passcode">
         <source>Passcode</source>
         <target>Passcode</target>
         <note>List section title for passcode settings</note>
-      </trans-unit>
-      <trans-unit id="Private Browsing">
-        <source>Private Browsing</source>
-        <target>Private Browsing</target>
-        <note>List item for Private Browsing</note>
       </trans-unit>
       <trans-unit id="Re-enter passcode">
         <source>Re-enter passcode</source>
@@ -172,9 +162,9 @@
         <target>Turn off your passcode.</target>
         <note>Touch ID prompt subtitle when turning off passcode</note>
       </trans-unit>
-      <trans-unit id="Use Touch ID for">
-        <source>Use Touch ID for</source>
-        <target>Use Touch ID for</target>
+      <trans-unit id="Use Touch ID">
+        <source>Use Touch ID</source>
+        <target>Use Touch ID</target>
         <note>List section title for when to use Touch ID</note>
       </trans-unit>
       <trans-unit id="Use your fingerprint to access Logins now.">
