@@ -1581,53 +1581,6 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Client/OnePasswordExtension.strings" source-language="en" datatype="plaintext" target-language="en">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
-    </header>
-    <body>
-      <trans-unit id="1Password Extension was cancelled by the user">
-        <source>1Password Extension was cancelled by the user</source>
-        <target>1Password Extension was cancelled by the user</target>
-        <note>1Password Extension Error Message</note>
-      </trans-unit>
-      <trans-unit id="App Extension API is not available in this version of iOS">
-        <source>App Extension API is not available in this version of iOS</source>
-        <target>App Extension API is not available in this version of iOS</target>
-        <note>1Password Extension Error Message</note>
-      </trans-unit>
-      <trans-unit id="Failed to contact the 1Password Extension">
-        <source>Failed to contact the 1Password Extension</source>
-        <target>Failed to contact the 1Password Extension</target>
-        <note>1Password Extension Error Message</note>
-      </trans-unit>
-      <trans-unit id="Failed to execute script that collects web page information">
-        <source>Failed to execute script that collects web page information</source>
-        <target>Failed to execute script that collects web page information</target>
-        <note>1Password Extension Error Message</note>
-      </trans-unit>
-      <trans-unit id="Failed to fill web page because script could not be evaluated">
-        <source>Failed to fill web page because script could not be evaluated</source>
-        <target>Failed to fill web page because script could not be evaluated</target>
-        <note>1Password Extension Error Message</note>
-      </trans-unit>
-      <trans-unit id="Failed to fill web page because script is missing">
-        <source>Failed to fill web page because script is missing</source>
-        <target>Failed to fill web page because script is missing</target>
-        <note>1Password Extension Error Message</note>
-      </trans-unit>
-      <trans-unit id="Failed to obtain URL String from web view. The web view must be loaded completely when calling the 1Password Extension">
-        <source>Failed to obtain URL String from web view. The web view must be loaded completely when calling the 1Password Extension</source>
-        <target>Failed to obtain URL String from web view. The web view must be loaded completely when calling the 1Password Extension</target>
-        <note>1Password Extension Error Message</note>
-      </trans-unit>
-      <trans-unit id="Failed to parse information returned by 1Password Extension">
-        <source>Failed to parse information returned by 1Password Extension</source>
-        <target>Failed to parse information returned by 1Password Extension</target>
-        <note>1Password Extension Error Message</note>
-      </trans-unit>
-    </body>
-  </file>
   <file original="Client/PrivateBrowsing.strings" source-language="en" datatype="plaintext" target-language="en">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
