@@ -6,8 +6,8 @@
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
-        <source>Focus</source>
-        <target>Focus</target>
+        <source>Klar</source>
+        <target>Klar</target>
       </trans-unit>
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
