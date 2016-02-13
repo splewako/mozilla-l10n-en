@@ -5,10 +5,6 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
     </header>
     <body>
-      <trans-unit id="CFBundleDisplayName">
-        <source>Klar</source>
-        <target>Klar</target>
-      </trans-unit>
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
         <target>$(PRODUCT_NAME)</target>
@@ -207,10 +203,6 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
     </header>
     <body>
-      <trans-unit id="CFBundleDisplayName">
-        <source>ContentBlocker</source>
-        <target>ContentBlocker</target>
-      </trans-unit>
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
         <target>$(PRODUCT_NAME)</target>
