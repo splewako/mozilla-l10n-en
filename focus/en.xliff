@@ -15,11 +15,46 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Blockzilla/Localizable.strings" source-language="en" datatype="plaintext" target-language="en">
+  <file original="Blockzilla/en.lproj/Localizable.strings" source-language="en" datatype="plaintext" target-language="en">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
     </header>
     <body>
+      <trans-unit id="%@ helps you improve the privacy and performance of your mobile browsing experience. You control what types of page content are allowed.">
+        <source>%@ helps you improve the privacy and performance of your mobile browsing experience. You control what types of page content are allowed.</source>
+        <target>%@ helps you improve the privacy and performance of your mobile browsing experience. You control what types of page content are allowed.</target>
+        <note>Description text shown on the welcome slide of the tour</note>
+      </trans-unit>
+      <trans-unit id="%@ improves privacy and may boost page load speed and lower your mobile data usage.">
+        <source>%@ improves privacy and may boost page load speed and lower your mobile data usage.</source>
+        <target>%@ improves privacy and may boost page load speed and lower your mobile data usage.</target>
+        <note>Label displayed above toggles</note>
+      </trans-unit>
+      <trans-unit id="%@ is enabled!">
+        <source>%@ is enabled!</source>
+        <target>%@ is enabled!</target>
+        <note>Text displayed at the final step of the intro screen</note>
+      </trans-unit>
+      <trans-unit id="%@ is not enabled.">
+        <source>%@ is not enabled.</source>
+        <target>%@ is not enabled.</target>
+        <note>Error label when the blocker is not enabled, shown in the intro and main app when disabled</note>
+      </trans-unit>
+      <trans-unit id="%@ is produced by Mozilla, the people behind the Firefox Web browser.">
+        <source>%@ is produced by Mozilla, the people behind the Firefox Web browser.</source>
+        <target>%@ is produced by Mozilla, the people behind the Firefox Web browser.</target>
+        <note>About copy on the about page</note>
+      </trans-unit>
+      <trans-unit id="%@ must be enabled in Settings to work.">
+        <source>%@ must be enabled in Settings to work.</source>
+        <target>%@ must be enabled in Settings to work.</target>
+        <note>Notice label show on second introduction screen</note>
+      </trans-unit>
+      <trans-unit id="%@ puts you in control and brings added privacy and performance to your mobile browsing experience.">
+        <source>%@ puts you in control and brings added privacy and performance to your mobile browsing experience.</source>
+        <target>%@ puts you in control and brings added privacy and performance to your mobile browsing experience.</target>
+        <note>About copy on the about page</note>
+      </trans-unit>
       <trans-unit id="About">
         <source>About</source>
         <target>About</target>
@@ -66,50 +101,15 @@
         <target>Done</target>
         <note>Button at top of app that goes to the About screen</note>
       </trans-unit>
-      <trans-unit id="Enable Focus">
-        <source>Enable Focus</source>
-        <target>Enable Focus</target>
+      <trans-unit id="Enable %@">
+        <source>Enable %@</source>
+        <target>Enable %@</target>
         <note>Label for instructions to enable shown on the second introduction screen</note>
       </trans-unit>
-      <trans-unit id="Enable Focus in">
-        <source>Enable Focus in</source>
-        <target>Enable Focus in</target>
-        <note>Instructions shown in main app when Focus is disabled in system settings</note>
-      </trans-unit>
-      <trans-unit id="Focus helps you improve the privacy and performance of your mobile browsing experience. You control what types of page content are allowed.">
-        <source>Focus helps you improve the privacy and performance of your mobile browsing experience. You control what types of page content are allowed.</source>
-        <target>Focus helps you improve the privacy and performance of your mobile browsing experience. You control what types of page content are allowed.</target>
-        <note>Description text shown on the welcome slide of the tour</note>
-      </trans-unit>
-      <trans-unit id="Focus improves privacy and may boost page load speed and lower your mobile data usage.">
-        <source>Focus improves privacy and may boost page load speed and lower your mobile data usage.</source>
-        <target>Focus improves privacy and may boost page load speed and lower your mobile data usage.</target>
-        <note>Label displayed above toggles</note>
-      </trans-unit>
-      <trans-unit id="Focus is enabled!">
-        <source>Focus is enabled!</source>
-        <target>Focus is enabled!</target>
-        <note>Text displayed at the final step of the intro screen</note>
-      </trans-unit>
-      <trans-unit id="Focus is not enabled.">
-        <source>Focus is not enabled.</source>
-        <target>Focus is not enabled.</target>
-        <note>Error label when Focus is not enabled, shown in the intro and main app when Focus is disabled</note>
-      </trans-unit>
-      <trans-unit id="Focus is produced by Mozilla, the people behind the Firefox Web browser.">
-        <source>Focus is produced by Mozilla, the people behind the Firefox Web browser.</source>
-        <target>Focus is produced by Mozilla, the people behind the Firefox Web browser.</target>
-        <note>About copy on the about page</note>
-      </trans-unit>
-      <trans-unit id="Focus must be enabled in Settings to work.">
-        <source>Focus must be enabled in Settings to work.</source>
-        <target>Focus must be enabled in Settings to work.</target>
-        <note>Notice label show on second introduction screen</note>
-      </trans-unit>
-      <trans-unit id="Focus puts you in control and brings added privacy and performance to your mobile browsing experience.">
-        <source>Focus puts you in control and brings added privacy and performance to your mobile browsing experience.</source>
-        <target>Focus puts you in control and brings added privacy and performance to your mobile browsing experience.</target>
-        <note>About copy on the about page</note>
+      <trans-unit id="Enable %@ in">
+        <source>Enable %@ in</source>
+        <target>Enable %@ in</target>
+        <note>Instructions shown in main app when disabled in system settings</note>
       </trans-unit>
       <trans-unit id="Get Started">
         <source>Get Started</source>
@@ -139,7 +139,7 @@
       <trans-unit id="Open Settings">
         <source>Open Settings</source>
         <target>Open Settings</target>
-        <note>Button to open the system Settings, shown in the intro and main app when Focus is disabled</note>
+        <note>Button to open the system Settings, shown in the intro and main app when disabled</note>
       </trans-unit>
       <trans-unit id="Open Settings App">
         <source>Open Settings App</source>
@@ -169,7 +169,7 @@
       <trans-unit id="Settings → Safari → Content Blockers">
         <source>Settings → Safari → Content Blockers</source>
         <target>Settings → Safari → Content Blockers</target>
-        <note>Instructions shown in main app when Focus is disabled in system settings</note>
+        <note>Instructions shown in main app when disabled in system settings</note>
       </trans-unit>
       <trans-unit id="Setup Instructions">
         <source>Setup Instructions</source>
@@ -179,7 +179,7 @@
       <trans-unit id="Skip">
         <source>Skip</source>
         <target>Skip</target>
-        <note>Button at top of the last intro screen when Focus is not enabled</note>
+        <note>Button at top of the last intro screen when the app is not enabled</note>
       </trans-unit>
       <trans-unit id="Tap Safari, then select Content Blockers">
         <source>Tap Safari, then select Content Blockers</source>
@@ -189,7 +189,7 @@
       <trans-unit id="Welcome">
         <source>Welcome</source>
         <target>Welcome</target>
-        <note>Text displayed above Focus description when first launching the app</note>
+        <note>Text displayed under the wave on the first intro slide at launch</note>
       </trans-unit>
       <trans-unit id="Your Rights">
         <source>Your Rights</source>
