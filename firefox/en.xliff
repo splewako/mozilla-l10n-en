@@ -624,6 +624,11 @@
         <target>Always Send</target>
         <note>Used as a button label for crash dialog prompt</note>
       </trans-unit>
+      <trans-unit id="Amazon">
+        <source>Amazon</source>
+        <target>Amazon</target>
+        <note>Tile title for Amazon</note>
+      </trans-unit>
       <trans-unit id="Authentication required">
         <source>Authentication required</source>
         <target>Authentication required</target>
@@ -816,10 +821,10 @@
         <target>Enter your password to connect.</target>
         <note>Text message in the settings table view</note>
       </trans-unit>
-      <trans-unit id="Firefox Help and Support">
-        <source>Firefox Help and Support</source>
-        <target>Firefox Help and Support</target>
-        <note>Tile title for App Help</note>
+      <trans-unit id="Facebook">
+        <source>Facebook</source>
+        <target>Facebook</target>
+        <note>Tile title for Facebook</note>
       </trans-unit>
       <trans-unit id="Firefox will stop syncing with your account, but won’t delete any of your browsing data on this device.">
         <source>Firefox will stop syncing with your account, but won’t delete any of your browsing data on this device.</source>
@@ -1297,11 +1302,6 @@
         <target>Tabs Tray</target>
         <note>Accessibility label for the Tabs Tray view.</note>
       </trans-unit>
-      <trans-unit id="The Mozilla Project">
-        <source>The Mozilla Project</source>
-        <target>The Mozilla Project</target>
-        <note>Tile title for Mozilla</note>
-      </trans-unit>
       <trans-unit id="The page could not be displayed in Reader View.">
         <source>The page could not be displayed in Reader View.</source>
         <target>The page could not be displayed in Reader View.</target>
@@ -1341,6 +1341,11 @@
         <source>Top sites</source>
         <target>Top sites</target>
         <note>Panel accessibility label</note>
+      </trans-unit>
+      <trans-unit id="Twitter">
+        <source>Twitter</source>
+        <target>Twitter</target>
+        <note>Tile title for Twitter</note>
       </trans-unit>
       <trans-unit id="Update">
         <source>Update</source>
@@ -1397,6 +1402,11 @@
         <target>Well, this is embarrassing.</target>
         <note>Restore Tabs Prompt Title</note>
       </trans-unit>
+      <trans-unit id="Wikipedia">
+        <source>Wikipedia</source>
+        <target>Wikipedia</target>
+        <note>Tile title for Wikipedia</note>
+      </trans-unit>
       <trans-unit id="Yes">
         <source>Yes</source>
         <target>Yes</target>
@@ -1416,6 +1426,11 @@
         <source>You don't have any tabs open in Firefox on your other devices.</source>
         <target>You don't have any tabs open in Firefox on your other devices.</target>
         <note>Error message in the remote tabs panel</note>
+      </trans-unit>
+      <trans-unit id="YouTube">
+        <source>YouTube</source>
+        <target>YouTube</target>
+        <note>Tile title for YouTube</note>
       </trans-unit>
       <trans-unit id="Your Rights">
         <source>Your Rights</source>
