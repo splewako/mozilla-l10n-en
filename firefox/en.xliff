@@ -110,7 +110,12 @@
       <trans-unit id="Change Passcode">
         <source>Change Passcode</source>
         <target>Change Passcode</target>
-        <note>Title for setting to change passcode</note>
+        <note>Title for screen when changing your passcode</note>
+      </trans-unit>
+      <trans-unit id="Enter a new passcode">
+        <source>Enter a new passcode</source>
+        <target>Enter a new passcode</target>
+        <note>Title for screen when updating your existin passcode</note>
       </trans-unit>
       <trans-unit id="Enter a passcode">
         <source>Enter a passcode</source>
