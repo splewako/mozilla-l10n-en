@@ -664,6 +664,11 @@
         <target>Bookmarks</target>
         <note>Panel accessibility label</note>
       </trans-unit>
+      <trans-unit id="Bookmarks you save will show up here.">
+        <source>Bookmarks you save will show up here.</source>
+        <target>Bookmarks you save will show up here.</target>
+        <note>Status label for the empty Bookmarks state.</note>
+      </trans-unit>
       <trans-unit id="Brightness">
         <source>Brightness</source>
         <target>Brightness</target>
