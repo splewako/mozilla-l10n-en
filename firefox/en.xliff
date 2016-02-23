@@ -137,10 +137,35 @@
         <target>Immediately</target>
         <note>'Immediately' interval item for selecting when to require passcode</note>
       </trans-unit>
+      <trans-unit id="Incorrect passcode. Try again (Attempts remaining: %d).">
+        <source>Incorrect passcode. Try again (Attempts remaining: %d).</source>
+        <target>Incorrect passcode. Try again (Attempts remaining: %d).</target>
+        <note>Error message displayed when user enters incorrect passcode when trying to enter a protected section of the app with attempts remaining</note>
+      </trans-unit>
+      <trans-unit id="Incorrect passcode. Try again.">
+        <source>Incorrect passcode. Try again.</source>
+        <target>Incorrect passcode. Try again.</target>
+        <note>Error message displayed when user enters incorrect passcode when trying to enter a protected section of the app</note>
+      </trans-unit>
+      <trans-unit id="Maximum attempts reached. Please try again in an hour.">
+        <source>Maximum attempts reached. Please try again in an hour.</source>
+        <target>Maximum attempts reached. Please try again in an hour.</target>
+        <note>Error message displayed when user enters incorrect passcode and has reached the maximum number of attempts.</note>
+      </trans-unit>
+      <trans-unit id="New passcode must be different than existing code.">
+        <source>New passcode must be different than existing code.</source>
+        <target>New passcode must be different than existing code.</target>
+        <note>Error message displayed when user tries to enter the same passcode as their existing code when changing it.</note>
+      </trans-unit>
       <trans-unit id="Passcode">
         <source>Passcode</source>
         <target>Passcode</target>
         <note>List section title for passcode settings</note>
+      </trans-unit>
+      <trans-unit id="Passcodes didn't match. Try again.">
+        <source>Passcodes didn't match. Try again.</source>
+        <target>Passcodes didn't match. Try again.</target>
+        <note>Error message displayed to user when their confirming passcode doesn't match the first code.</note>
       </trans-unit>
       <trans-unit id="Re-enter passcode">
         <source>Re-enter passcode</source>
