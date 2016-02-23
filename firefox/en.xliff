@@ -112,6 +112,11 @@
         <target>Change Passcode</target>
         <note>Title for screen when changing your passcode</note>
       </trans-unit>
+      <trans-unit id="Enter Passcode">
+        <source>Enter Passcode</source>
+        <target>Enter Passcode</target>
+        <note>Screen title for entering a passcode</note>
+      </trans-unit>
       <trans-unit id="Enter a new passcode">
         <source>Enter a new passcode</source>
         <target>Enter a new passcode</target>
@@ -120,7 +125,12 @@
       <trans-unit id="Enter a passcode">
         <source>Enter a passcode</source>
         <target>Enter a passcode</target>
-        <note>Title for entering a passcode</note>
+        <note>Title above input for entering a passcode</note>
+      </trans-unit>
+      <trans-unit id="Enter passcode">
+        <source>Enter passcode</source>
+        <target>Enter passcode</target>
+        <note>Title above input for entering passcode while removing/changing</note>
       </trans-unit>
       <trans-unit id="Immediately">
         <source>Immediately</source>
