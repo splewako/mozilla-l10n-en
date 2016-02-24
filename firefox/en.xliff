@@ -288,6 +288,11 @@
         <target>Remove history from your Firefox Account?</target>
         <note>Title of the confirmation dialog shown when a user tries to clear history that's synced to another device.</note>
       </trans-unit>
+      <trans-unit id="This action will clear all of your private data, including history from all your synced devices. It cannot be undone.">
+        <source>This action will clear all of your private data, including history from all your synced devices. It cannot be undone.</source>
+        <target>This action will clear all of your private data, including history from all your synced devices. It cannot be undone.</target>
+        <note>Description of the confirmation dialog shown when a user tries to clear history that's synced to another device.</note>
+      </trans-unit>
     </body>
   </file>
   <file original="Client/ClearPrivateData.strings" source-language="en" datatype="plaintext" target-language="en">
@@ -345,6 +350,33 @@
         <source>Saved Logins</source>
         <target>Saved Logins</target>
         <note>Settings item for clearing passwords and login data</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Client/ClearPrivateDataConfirm.strings" source-language="en" datatype="plaintext" target-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
+    </header>
+    <body>
+      <trans-unit id="Cancel">
+        <source>Cancel</source>
+        <target>Cancel</target>
+        <note>The cancel button when confirming clear private data.</note>
+      </trans-unit>
+      <trans-unit id="Clear">
+        <source>Clear</source>
+        <target>Clear</target>
+        <note>The button that clears private data.</note>
+      </trans-unit>
+      <trans-unit id="Clear Private Data">
+        <source>Clear Private Data</source>
+        <target>Clear Private Data</target>
+        <note>Title of the confirmation dialog shown when a user tries to clear private data.</note>
+      </trans-unit>
+      <trans-unit id="This action will clear all of your private data. It cannot be undone.">
+        <source>This action will clear all of your private data. It cannot be undone.</source>
+        <target>This action will clear all of your private data. It cannot be undone.</target>
+        <note>Description of the confirmation dialog shown when a user tries to clear their private data.</note>
       </trans-unit>
     </body>
   </file>
