@@ -283,14 +283,19 @@
         <target>History will be removed from all your connected devices. This cannot be undone.</target>
         <note>Description of the confirmation dialog shown when a user tries to clear history that's synced to another device.</note>
       </trans-unit>
+      <trans-unit id="OK">
+        <source>OK</source>
+        <target>OK</target>
+        <note>The confirmation button that clears history even when Sync is connected.</note>
+      </trans-unit>
       <trans-unit id="Remove history from your Firefox Account?">
         <source>Remove history from your Firefox Account?</source>
         <target>Remove history from your Firefox Account?</target>
         <note>Title of the confirmation dialog shown when a user tries to clear history that's synced to another device.</note>
       </trans-unit>
-      <trans-unit id="This action will clear all of your private data, including history from all your synced devices. It cannot be undone.">
-        <source>This action will clear all of your private data, including history from all your synced devices. It cannot be undone.</source>
-        <target>This action will clear all of your private data, including history from all your synced devices. It cannot be undone.</target>
+      <trans-unit id="This action will clear all of your private data, including history from your synced devices.">
+        <source>This action will clear all of your private data, including history from your synced devices.</source>
+        <target>This action will clear all of your private data, including history from your synced devices.</target>
         <note>Description of the confirmation dialog shown when a user tries to clear history that's synced to another device.</note>
       </trans-unit>
     </body>
@@ -363,15 +368,10 @@
         <target>Cancel</target>
         <note>The cancel button when confirming clear private data.</note>
       </trans-unit>
-      <trans-unit id="Clear">
-        <source>Clear</source>
-        <target>Clear</target>
+      <trans-unit id="OK">
+        <source>OK</source>
+        <target>OK</target>
         <note>The button that clears private data.</note>
-      </trans-unit>
-      <trans-unit id="Clear Private Data">
-        <source>Clear Private Data</source>
-        <target>Clear Private Data</target>
-        <note>Title of the confirmation dialog shown when a user tries to clear private data.</note>
       </trans-unit>
       <trans-unit id="This action will clear all of your private data. It cannot be undone.">
         <source>This action will clear all of your private data. It cannot be undone.</source>
