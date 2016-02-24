@@ -152,6 +152,11 @@
         <target>Maximum attempts reached. Please try again in an hour.</target>
         <note>Error message displayed when user enters incorrect passcode and has reached the maximum number of attempts.</note>
       </trans-unit>
+      <trans-unit id="Maximum attempts reached. Please try again later.">
+        <source>Maximum attempts reached. Please try again later.</source>
+        <target>Maximum attempts reached. Please try again later.</target>
+        <note>Error message displayed when user enters incorrect passcode and has reached the maximum number of attempts.</note>
+      </trans-unit>
       <trans-unit id="New passcode must be different than existing code.">
         <source>New passcode must be different than existing code.</source>
         <target>New passcode must be different than existing code.</target>
@@ -283,20 +288,10 @@
         <target>History will be removed from all your connected devices. This cannot be undone.</target>
         <note>Description of the confirmation dialog shown when a user tries to clear history that's synced to another device.</note>
       </trans-unit>
-      <trans-unit id="OK">
-        <source>OK</source>
-        <target>OK</target>
-        <note>The confirmation button that clears history even when Sync is connected.</note>
-      </trans-unit>
       <trans-unit id="Remove history from your Firefox Account?">
         <source>Remove history from your Firefox Account?</source>
         <target>Remove history from your Firefox Account?</target>
         <note>Title of the confirmation dialog shown when a user tries to clear history that's synced to another device.</note>
-      </trans-unit>
-      <trans-unit id="This action will clear all of your private data, including history from your synced devices.">
-        <source>This action will clear all of your private data, including history from your synced devices.</source>
-        <target>This action will clear all of your private data, including history from your synced devices.</target>
-        <note>Description of the confirmation dialog shown when a user tries to clear history that's synced to another device.</note>
       </trans-unit>
     </body>
   </file>
@@ -355,28 +350,6 @@
         <source>Saved Logins</source>
         <target>Saved Logins</target>
         <note>Settings item for clearing passwords and login data</note>
-      </trans-unit>
-    </body>
-  </file>
-  <file original="Client/ClearPrivateDataConfirm.strings" source-language="en" datatype="plaintext" target-language="en">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
-    </header>
-    <body>
-      <trans-unit id="Cancel">
-        <source>Cancel</source>
-        <target>Cancel</target>
-        <note>The cancel button when confirming clear private data.</note>
-      </trans-unit>
-      <trans-unit id="OK">
-        <source>OK</source>
-        <target>OK</target>
-        <note>The button that clears private data.</note>
-      </trans-unit>
-      <trans-unit id="This action will clear all of your private data. It cannot be undone.">
-        <source>This action will clear all of your private data. It cannot be undone.</source>
-        <target>This action will clear all of your private data. It cannot be undone.</target>
-        <note>Description of the confirmation dialog shown when a user tries to clear their private data.</note>
       </trans-unit>
     </body>
   </file>
