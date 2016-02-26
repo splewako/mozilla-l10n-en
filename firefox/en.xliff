@@ -152,11 +152,6 @@
         <target>Maximum attempts reached. Please try again in an hour.</target>
         <note>Error message displayed when user enters incorrect passcode and has reached the maximum number of attempts.</note>
       </trans-unit>
-      <trans-unit id="Maximum attempts reached. Please try again later.">
-        <source>Maximum attempts reached. Please try again later.</source>
-        <target>Maximum attempts reached. Please try again later.</target>
-        <note>Error message displayed when user enters incorrect passcode and has reached the maximum number of attempts.</note>
-      </trans-unit>
       <trans-unit id="New passcode must be different than existing code.">
         <source>New passcode must be different than existing code.</source>
         <target>New passcode must be different than existing code.</target>
@@ -1094,8 +1089,7 @@
       <trans-unit id="OK">
         <source>OK</source>
         <target>OK</target>
-        <note>Alert OK Button
-   Label for OK button in the application update prompt
+        <note>Label for OK button in the application update prompt
    OK button</note>
       </trans-unit>
       <trans-unit id="Okay">
@@ -1127,11 +1121,6 @@
         <source>Open in…</source>
         <target>Open in…</target>
         <note>String indicating that the file can be opened in another application on the device</note>
-      </trans-unit>
-      <trans-unit id="Opening %@">
-        <source>Opening %@</source>
-        <target>Opening %@</target>
-        <note>Opening an external URL</note>
       </trans-unit>
       <trans-unit id="Pages you have visited recently will show up here.">
         <source>Pages you have visited recently will show up here.</source>
@@ -1418,11 +1407,6 @@
         <source>This allows you to save the image to your Camera Roll.</source>
         <target>This allows you to save the image to your Camera Roll.</target>
         <note>See http://mzl.la/1G7uHo7</note>
-      </trans-unit>
-      <trans-unit id="This will open in another application">
-        <source>This will open in another application</source>
-        <target>This will open in another application</target>
-        <note>Opening an external app</note>
       </trans-unit>
       <trans-unit id="Today">
         <source>Today</source>
