@@ -1558,6 +1558,16 @@
         <target>today at %@</target>
         <note>Relative date for date older than a minute.</note>
       </trans-unit>
+      <trans-unit id="topsites.emptystate.description">
+        <source>Your most visited sites will show up here.</source>
+        <target>Your most visited sites will show up here.</target>
+        <note>Description label for the empty Top Sites state.</note>
+      </trans-unit>
+      <trans-unit id="topsites.emptystate.title">
+        <source>Welcome to Top Sites</source>
+        <target>Welcome to Top Sites</target>
+        <note>The title for the empty Top Sites state</note>
+      </trans-unit>
       <trans-unit id="unread">
         <source>unread</source>
         <target>unread</target>
