@@ -1285,6 +1285,11 @@
         <target>Send a crash report so Mozilla can fix the problem?</target>
         <note>Message displayed in the crash dialog above the buttons used to select when sending reports</note>
       </trans-unit>
+      <trans-unit id="SendTo.Cancel.Button">
+        <source>Cancel</source>
+        <target>Cancel</target>
+        <note>Button title for cancelling SendTo screen</note>
+      </trans-unit>
       <trans-unit id="Sepia">
         <source>Sepia</source>
         <target>Sepia</target>
@@ -1310,6 +1315,11 @@
         <source>Share Link</source>
         <target>Share Link</target>
         <note>Context menu item for sharing a link URL</note>
+      </trans-unit>
+      <trans-unit id="ShareTo.Cancel.Button">
+        <source>Cancel</source>
+        <target>Cancel</target>
+        <note>Button title for cancelling Share screen</note>
       </trans-unit>
       <trans-unit id="Show Search Suggestions">
         <source>Show Search Suggestions</source>
