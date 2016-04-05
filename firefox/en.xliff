@@ -1375,6 +1375,16 @@
         <target>Top sites</target>
         <note>Panel accessibility label</note>
       </trans-unit>
+      <trans-unit id="TopSites.EmptyState.Description">
+        <source>Your most visited sites will show up here.</source>
+        <target>Your most visited sites will show up here.</target>
+        <note>Description label for the empty Top Sites state.</note>
+      </trans-unit>
+      <trans-unit id="TopSites.EmptyState.Title">
+        <source>Welcome to Top Sites</source>
+        <target>Welcome to Top Sites</target>
+        <note>The title for the empty Top Sites state</note>
+      </trans-unit>
       <trans-unit id="Twitter">
         <source>Twitter</source>
         <target>Twitter</target>
@@ -1509,16 +1519,6 @@
         <source>today at %@</source>
         <target>today at %@</target>
         <note>Relative date for date older than a minute.</note>
-      </trans-unit>
-      <trans-unit id="topsites.emptystate.description">
-        <source>Your most visited sites will show up here.</source>
-        <target>Your most visited sites will show up here.</target>
-        <note>Description label for the empty Top Sites state.</note>
-      </trans-unit>
-      <trans-unit id="topsites.emptystate.title">
-        <source>Welcome to Top Sites</source>
-        <target>Welcome to Top Sites</target>
-        <note>The title for the empty Top Sites state</note>
       </trans-unit>
       <trans-unit id="unread">
         <source>unread</source>
