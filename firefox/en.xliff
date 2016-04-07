@@ -938,11 +938,6 @@
         <target>Go Back</target>
         <note>Label for button to go back from the error page</note>
       </trans-unit>
-      <trans-unit id="ErrorPages.VisitAlways.Button">
-        <source>Visit site anyway and remember my choice</source>
-        <target>Visit site anyway and remember my choice</target>
-        <note>Button label to permanently continue to the site from the certificate error page</note>
-      </trans-unit>
       <trans-unit id="ErrorPages.VisitOnce.Button">
         <source>Visit site anyway</source>
         <target>Visit site anyway</target>
