@@ -1306,6 +1306,21 @@
         <note>Accessibility label for the Settings button in the Tab Tray.
    Settings</note>
       </trans-unit>
+      <trans-unit id="Settings.ClearPrivateData.Clear.Button">
+        <source>Clear Private Data</source>
+        <target>Clear Private Data</target>
+        <note>Button in settings that clears private data for the selected items.</note>
+      </trans-unit>
+      <trans-unit id="Settings.ClearPrivateData.SectionName">
+        <source>Clear Private Data</source>
+        <target>Clear Private Data</target>
+        <note>Label used as an item in Settings. When touched it will open a dialog prompting the user to make sure they want to clear all of their private data.</note>
+      </trans-unit>
+      <trans-unit id="Settings.ClearPrivateData.Title">
+        <source>Clear Private Data</source>
+        <target>Clear Private Data</target>
+        <note>Title displayed in header of the setting panel.</note>
+      </trans-unit>
       <trans-unit id="Share">
         <source>Share</source>
         <target>Share</target>
