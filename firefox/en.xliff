@@ -222,6 +222,16 @@
         <target>Use your fingerprint to access Private Browsing now.</target>
         <note>Touch ID prompt subtitle when accessing private browsing</note>
       </trans-unit>
+      <trans-unit id="touchid.disable.reason.label">
+        <source>Use your fingerprint to disable Touch ID.</source>
+        <target>Use your fingerprint to disable Touch ID.</target>
+        <note>Touch ID prompt subtitle when disabling Touch ID</note>
+      </trans-unit>
+      <trans-unit id="touchid.require.passcode.reason.label">
+        <source>Use your fingerprint to access configuring your required passcode interval.</source>
+        <target>Use your fingerprint to access configuring your required passcode interval.</target>
+        <note>Touch ID prompt subtitle when accessing  the require passcode setting</note>
+      </trans-unit>
     </body>
   </file>
   <file original="Client/BookmarkPanel.strings" source-language="en" datatype="plaintext" target-language="en">
