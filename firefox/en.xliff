@@ -1121,16 +1121,6 @@
         <target>Navigation Toolbar</target>
         <note>Accessibility label for the navigation toolbar displayed at the bottom of the screen.</note>
       </trans-unit>
-      <trans-unit id="New Private Tab">
-        <source>New Private Tab</source>
-        <target>New Private Tab</target>
-        <note>New Private Tab button label</note>
-      </trans-unit>
-      <trans-unit id="New Tab">
-        <source>New Tab</source>
-        <target>New Tab</target>
-        <note>New Tab button label</note>
-      </trans-unit>
       <trans-unit id="New tab: %@: %@">
         <source>New tab: %1$@: %2$@</source>
         <target>New tab: %1$@: %2$@</target>
@@ -1181,11 +1171,6 @@
         <source>Open Settings</source>
         <target>Open Settings</target>
         <note>See http://mzl.la/1G7uHo7</note>
-      </trans-unit>
-      <trans-unit id="Open URL from Clipboard">
-        <source>Open URL from Clipboard</source>
-        <target>Open URL from Clipboard</target>
-        <note>Open URL from clipboard label</note>
       </trans-unit>
       <trans-unit id="Open articles in Reader View by tapping the book icon when it appears in the title bar.">
         <source>Open articles in Reader View by tapping the book icon when it appears in the title bar.</source>
@@ -2031,6 +2016,28 @@
       <trans-unit id="CFBundleShortVersionString">
         <source>5.0.0</source>
         <target>5.0.0</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Extensions/Today/Today.strings" source-language="en" datatype="plaintext" target-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3" build-num="7D175"/>
+    </header>
+    <body>
+      <trans-unit id="Go to copied link">
+        <source>Go to copied link</source>
+        <target>Go to copied link</target>
+        <note>Go to link on clipboard</note>
+      </trans-unit>
+      <trans-unit id="New Private Tab">
+        <source>New Private Tab</source>
+        <target>New Private Tab</target>
+        <note>New Private Tab button label</note>
+      </trans-unit>
+      <trans-unit id="New Tab">
+        <source>New Tab</source>
+        <target>New Tab</target>
+        <note>New Tab button label</note>
       </trans-unit>
     </body>
   </file>
