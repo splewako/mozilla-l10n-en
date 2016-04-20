@@ -1807,6 +1807,78 @@
       </trans-unit>
     </body>
   </file>
+  <file original="Client/Menu.strings" source-language="en" datatype="plaintext" target-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3" build-num="7D175"/>
+    </header>
+    <body>
+      <trans-unit id="Add Bookmark">
+        <source>Add Bookmark</source>
+        <target>Add Bookmark</target>
+        <note>String describing the action of adding the current site as a bookmark from the menu</note>
+      </trans-unit>
+      <trans-unit id="Bookmarks">
+        <source>Bookmarks</source>
+        <target>Bookmarks</target>
+        <note>String describing the action of opening the bookmarks home panel from the menu</note>
+      </trans-unit>
+      <trans-unit id="Close All Tabs">
+        <source>Close All Tabs</source>
+        <target>Close All Tabs</target>
+        <note>String describing the action of closing all tabs in the tab tray at once from the menu</note>
+      </trans-unit>
+      <trans-unit id="Find In Page">
+        <source>Find In Page</source>
+        <target>Find In Page</target>
+        <note>String describing the action of opening the toolbar that allows users to search for items within a webpage from the menu</note>
+      </trans-unit>
+      <trans-unit id="History">
+        <source>History</source>
+        <target>History</target>
+        <note>String describing the action of opening the history home panel from the menu</note>
+      </trans-unit>
+      <trans-unit id="New Private Tab">
+        <source>New Private Tab</source>
+        <target>New Private Tab</target>
+        <note>String describing the action of creating a new private tab from the menu</note>
+      </trans-unit>
+      <trans-unit id="New Tab">
+        <source>New Tab</source>
+        <target>New Tab</target>
+        <note>String describing the action of creating a new tab from the menu</note>
+      </trans-unit>
+      <trans-unit id="Reading List">
+        <source>Reading List</source>
+        <target>Reading List</target>
+        <note>String describing the action of opening the reading list home panel from the menu</note>
+      </trans-unit>
+      <trans-unit id="Remove Bookmark">
+        <source>Remove Bookmark</source>
+        <target>Remove Bookmark</target>
+        <note>String describing the action of remove the current site as a bookmark from the menu</note>
+      </trans-unit>
+      <trans-unit id="Settings">
+        <source>Settings</source>
+        <target>Settings</target>
+        <note>String describing the action of opening the settings menu from the menu</note>
+      </trans-unit>
+      <trans-unit id="Top Sites">
+        <source>Top Sites</source>
+        <target>Top Sites</target>
+        <note>String describing the action of opening the Top Sites home panel from the menu</note>
+      </trans-unit>
+      <trans-unit id="View Desktop Site">
+        <source>View Desktop Site</source>
+        <target>View Desktop Site</target>
+        <note>String describing the action of switching a website from a mobile optimized view to a desktop view from the menu</note>
+      </trans-unit>
+      <trans-unit id="View Mobile Site">
+        <source>View Mobile Site</source>
+        <target>View Mobile Site</target>
+        <note>String describing the action of switching a website from a desktop view to a mobile optimized view from the menu</note>
+      </trans-unit>
+    </body>
+  </file>
   <file original="Client/PrivateBrowsing.strings" source-language="en" datatype="plaintext" target-language="en">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.3" build-num="7D175"/>
