@@ -1827,6 +1827,11 @@
         <target>Close All Tabs</target>
         <note>String describing the action of closing all tabs in the tab tray at once from the menu</note>
       </trans-unit>
+      <trans-unit id="Close Menu">
+        <source>Close Menu</source>
+        <target>Close Menu</target>
+        <note>Accessibility Label attached to the button for closing the menu</note>
+      </trans-unit>
       <trans-unit id="Find In Page">
         <source>Find In Page</source>
         <target>Find In Page</target>
