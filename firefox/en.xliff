@@ -1197,6 +1197,11 @@
         <target>Open In New Tab</target>
         <note>Context menu item for opening a link in a new tab</note>
       </trans-unit>
+      <trans-unit id="Open Menu">
+        <source>Open Menu</source>
+        <target>Open Menu</target>
+        <note>Accessibility label for opening the Menu button in the Tab Tray.</note>
+      </trans-unit>
       <trans-unit id="Open Settings">
         <source>Open Settings</source>
         <target>Open Settings</target>
