@@ -729,7 +729,7 @@
       <trans-unit id="Back">
         <source>Back</source>
         <target>Back</target>
-        <note>Accessibility Label for the browser toolbar Back button</note>
+        <note>Accessibility Label for the tab toolbar Back button</note>
       </trans-unit>
       <trans-unit id="Block Pop-up Windows">
         <source>Block Pop-up Windows</source>
@@ -976,7 +976,7 @@
       <trans-unit id="Forward">
         <source>Forward</source>
         <target>Forward</target>
-        <note>Accessibility Label for the browser toolbar Forward button</note>
+        <note>Accessibility Label for the tab toolbar Forward button</note>
       </trans-unit>
       <trans-unit id="General">
         <source>General</source>
@@ -1129,7 +1129,7 @@
       <trans-unit id="Menu">
         <source>Menu</source>
         <target>Menu</target>
-        <note>Accessibility Label for the browser toolbar Menu button</note>
+        <note>Accessibility Label for the tab toolbar Menu button</note>
       </trans-unit>
       <trans-unit id="Missing error">
         <source>Missing error</source>
@@ -1270,7 +1270,7 @@
       <trans-unit id="Reload">
         <source>Reload</source>
         <target>Reload</target>
-        <note>Accessibility Label for the browser toolbar Reload button</note>
+        <note>Accessibility Label for the tab toolbar Reload button</note>
       </trans-unit>
       <trans-unit id="Remove">
         <source>Remove</source>
@@ -1399,7 +1399,7 @@
       <trans-unit id="Share">
         <source>Share</source>
         <target>Share</target>
-        <note>Accessibility Label for the browser toolbar Share button</note>
+        <note>Accessibility Label for the tab toolbar Share button</note>
       </trans-unit>
       <trans-unit id="Share Link">
         <source>Share Link</source>
@@ -1419,8 +1419,8 @@
       <trans-unit id="Show Tabs">
         <source>Show Tabs</source>
         <target>Show Tabs</target>
-        <note>Accessibility label for the tabs button in the (top) browser toolbar
-   Accessibility Label for the tabs button in the browser toolbar</note>
+        <note>Accessibility label for the tabs button in the (top) tab toolbar
+   Accessibility Label for the tabs button in the tab toolbar</note>
       </trans-unit>
       <trans-unit id="Show Tour">
         <source>Show Tour</source>
@@ -1451,7 +1451,7 @@
       <trans-unit id="Stop">
         <source>Stop</source>
         <target>Stop</target>
-        <note>Accessibility Label for the browser toolbar Stop button</note>
+        <note>Accessibility Label for the tab toolbar Stop button</note>
       </trans-unit>
       <trans-unit id="Support">
         <source>Support</source>
