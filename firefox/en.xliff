@@ -1879,14 +1879,14 @@
         <note>String describing the action of remove the current site as a bookmark from the menu</note>
       </trans-unit>
       <trans-unit id="Menu.ViewDekstopSiteAction.Title">
-        <source>View Desktop Site</source>
-        <target>View Desktop Site</target>
-        <note>String describing the action of switching a website from a mobile optimized view to a desktop view from the menu</note>
+        <source>Request Desktop Site</source>
+        <target>Request Desktop Site</target>
+        <note>String describing the action of requesting a website switch from a mobile optimized view to a desktop view from the menu. The site may not have a desktop version so the request may be denied.</note>
       </trans-unit>
       <trans-unit id="Menu.ViewMobileSiteAction.Title">
-        <source>View Mobile Site</source>
-        <target>View Mobile Site</target>
-        <note>String describing the action of switching a website from a desktop view to a mobile optimized view from the menu</note>
+        <source>Request Mobile Site</source>
+        <target>Request Mobile Site</target>
+        <note>String describing the action of request a website switch from a desktop view to a mobile optimized view from the menu. The site may not have a mobile version so the request may be denied.</note>
       </trans-unit>
     </body>
   </file>
