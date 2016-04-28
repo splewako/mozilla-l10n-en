@@ -1554,6 +1554,11 @@
         <target>Welcome to Top Sites</target>
         <note>The title for the empty Top Sites state</note>
       </trans-unit>
+      <trans-unit id="TopSites.RemovePage.Button">
+        <source>Remove page - %@</source>
+        <target>Remove page - %@</target>
+        <note>Button shown in editing mode to remove this site from the top sites panel.</note>
+      </trans-unit>
       <trans-unit id="Twitter">
         <source>Twitter</source>
         <target>Twitter</target>
