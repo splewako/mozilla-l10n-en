@@ -1008,6 +1008,41 @@
         <target>History</target>
         <note>Panel accessibility label</note>
       </trans-unit>
+      <trans-unit id="HistoryPanel.EmptyState.Title">
+        <source>Websites you've visited recently will show up here.</source>
+        <target>Websites you've visited recently will show up here.</target>
+        <note>Title for the History Panel empty state.</note>
+      </trans-unit>
+      <trans-unit id="HistoryPanel.EmptySyncedTabsNullState.Description">
+        <source>Your tabs from other devices show up here.</source>
+        <target>Your tabs from other devices show up here.</target>
+        <note>Description for the empty synced tabs null state in the History Panel</note>
+      </trans-unit>
+      <trans-unit id="HistoryPanel.EmptySyncedTabsState.Description">
+        <source>Sign in to view open tabs on your other devices.</source>
+        <target>Sign in to view open tabs on your other devices.</target>
+        <note>Description for the empty synced tabs state in the History Panel</note>
+      </trans-unit>
+      <trans-unit id="HistoryPanel.EmptySyncedTabsState.Title">
+        <source>Firefox Sync</source>
+        <target>Firefox Sync</target>
+        <note>Title for the empty synced tabs state in the History Panel</note>
+      </trans-unit>
+      <trans-unit id="HistoryPanel.HistoryBackButton.Title">
+        <source>History</source>
+        <target>History</target>
+        <note>Title for the Back to History button in the History Panel</note>
+      </trans-unit>
+      <trans-unit id="HistoryPanel.SyncedTabsCell.Description">
+        <source>devices connected</source>
+        <target>devices connected</target>
+        <note>Description that corresponds with a number of devices connected for the Synced Tabs Cell in the History Panel</note>
+      </trans-unit>
+      <trans-unit id="HistoryPanel.SyncedTabsCell.Title">
+        <source>Synced devices</source>
+        <target>Synced devices</target>
+        <note>Title for the Synced Tabs Cell in the History Panel</note>
+      </trans-unit>
       <trans-unit id="Increase text size">
         <source>Increase text size</source>
         <target>Increase text size</target>
@@ -1217,11 +1252,6 @@
         <source>Opening %@</source>
         <target>Opening %@</target>
         <note>Opening an external URL</note>
-      </trans-unit>
-      <trans-unit id="Pages you have visited recently will show up here.">
-        <source>Pages you have visited recently will show up here.</source>
-        <target>Pages you have visited recently will show up here.</target>
-        <note>See http://bit.ly/1I7Do4b</note>
       </trans-unit>
       <trans-unit id="Panel Chooser">
         <source>Panel Chooser</source>
@@ -1479,11 +1509,6 @@
         <target>Sync your tabs, passwords and more.</target>
         <note>Sync tabs and passwords empty state instructions.</note>
       </trans-unit>
-      <trans-unit id="Synced tabs">
-        <source>Synced tabs</source>
-        <target>Synced tabs</target>
-        <note>Panel accessibility label</note>
-      </trans-unit>
       <trans-unit id="Syncing…">
         <source>Syncing…</source>
         <target>Syncing…</target>
@@ -1604,11 +1629,6 @@
         <target>Web content</target>
         <note>Accessibility label for the main web content view</note>
       </trans-unit>
-      <trans-unit id="Welcome to Sync">
-        <source>Welcome to Sync</source>
-        <target>Welcome to Sync</target>
-        <note>See http://mzl.la/1Qtkf0j</note>
-      </trans-unit>
       <trans-unit id="Welcome to your Reading List">
         <source>Welcome to your Reading List</source>
         <target>Welcome to your Reading List</target>
@@ -1633,11 +1653,6 @@
         <source>Yesterday</source>
         <target>Yesterday</target>
         <note>History tableview section header</note>
-      </trans-unit>
-      <trans-unit id="You don't have any other devices connected to this Firefox Account available to sync.">
-        <source>You don't have any other devices connected to this Firefox Account available to sync.</source>
-        <target>You don't have any other devices connected to this Firefox Account available to sync.</target>
-        <note>Error message in the remote tabs panel</note>
       </trans-unit>
       <trans-unit id="You don't have any tabs open in Firefox on your other devices.">
         <source>You don't have any tabs open in Firefox on your other devices.</source>
