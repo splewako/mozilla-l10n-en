@@ -1537,6 +1537,11 @@
         <target>Use Default</target>
         <note>Button in settings to use the default home page. If no default is set, then this button isn't shown.</note>
       </trans-unit>
+      <trans-unit id="Settings.TroubleShootSync.Title">
+        <source>Troubleshoot</source>
+        <target>Troubleshoot</target>
+        <note>Title of link to help page to find out how to solve sync issues</note>
+      </trans-unit>
       <trans-unit id="Share">
         <source>Share</source>
         <target>Share</target>
@@ -1635,18 +1640,18 @@
         <note>Message displayed when the user's account is syncing with ellipsis at the end</note>
       </trans-unit>
       <trans-unit id="SyncState.Bookmark.Title">
-        <source>Bookmarks</source>
-        <target>Bookmarks</target>
+        <source>Bookmark</source>
+        <target>Bookmark</target>
         <note>The Bookmark sync component</note>
       </trans-unit>
       <trans-unit id="SyncState.Clients.Title">
-        <source>Remote Clients</source>
-        <target>Remote Clients</target>
+        <source>Remote Client</source>
+        <target>Remote Client</target>
         <note>The Remote Clients sync component</note>
       </trans-unit>
       <trans-unit id="SyncState.Failed.Title">
-        <source>Firefox Sync failed</source>
-        <target>Firefox Sync failed</target>
+        <source>Sync failed</source>
+        <target>Sync failed</target>
         <note>Title sync status message when sync was unable to succeed</note>
       </trans-unit>
       <trans-unit id="SyncState.History.Title">
@@ -1655,28 +1660,28 @@
         <note>The History sync component</note>
       </trans-unit>
       <trans-unit id="SyncState.Logins.Title">
-        <source>Logins</source>
-        <target>Logins</target>
+        <source>Login</source>
+        <target>Login</target>
         <note>The Logins sync component</note>
       </trans-unit>
       <trans-unit id="SyncState.NotStarted.Title">
-        <source>Firefox Sync is experiencing issues</source>
-        <target>Firefox Sync is experiencing issues</target>
+        <source>Sync is unavailable</source>
+        <target>Sync is unavailable</target>
         <note>Title sync status message when sync failed to start.</note>
       </trans-unit>
       <trans-unit id="SyncState.Offline.Title">
-        <source>Firefox Sync is unavailable</source>
-        <target>Firefox Sync is unavailable</target>
+        <source>Sync is offline</source>
+        <target>Sync is offline</target>
         <note>Title sync status message when sync failed due to being offline</note>
       </trans-unit>
       <trans-unit id="SyncState.Partial.Title">
-        <source>%s Sync is experiencing issues</source>
-        <target>%s Sync is experiencing issues</target>
-        <note>Title sync status message when a components of a sync failed to complete, where %s represents the name of the component.</note>
+        <source>%@ Sync is experiencing issues</source>
+        <target>%@ Sync is experiencing issues</target>
+        <note>Title sync status message when a components of a sync failed to complete, where %@ represents the name of the component.</note>
       </trans-unit>
       <trans-unit id="SyncState.Tabs.Title">
-        <source>Tabs</source>
-        <target>Tabs</target>
+        <source>Tab</source>
+        <target>Tab</target>
         <note>The Tabs sync component</note>
       </trans-unit>
       <trans-unit id="Tab %@ of %@">
