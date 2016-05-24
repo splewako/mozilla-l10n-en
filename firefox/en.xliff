@@ -904,8 +904,7 @@
       <trans-unit id="Done">
         <source>Done</source>
         <target>Done</target>
-        <note>Done button label for search settings table
-   Done button label on back forward list screen
+        <note>Done button label on back forward list screen
    Done button on left side of the Settings view controller title bar
    Done editing button</note>
       </trans-unit>
@@ -1571,6 +1570,16 @@
         <source>Use Default</source>
         <target>Use Default</target>
         <note>Button in settings to use the default home page. If no default is set, then this button isn't shown.</note>
+      </trans-unit>
+      <trans-unit id="Settings.Search.Done.Button">
+        <source>Done</source>
+        <target>Done</target>
+        <note>Button displayed at the top of the search settings.</note>
+      </trans-unit>
+      <trans-unit id="Settings.Search.Edit.Button">
+        <source>Edit</source>
+        <target>Edit</target>
+        <note>Button displayed at the top of the search settings.</note>
       </trans-unit>
       <trans-unit id="Settings.TroubleShootSync.Title">
         <source>Troubleshoot</source>
