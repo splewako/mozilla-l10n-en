@@ -943,6 +943,11 @@
         <target>Double tap and hold to open history</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Downloads.Error.Message">
+        <source>Downloads aren't supported in Firefox yet.</source>
+        <target>Downloads aren't supported in Firefox yet.</target>
+        <note>The message displayed to a user when they try and perform the download of an asset that Firefox cannot currently handle.</note>
+      </trans-unit>
       <trans-unit id="Enter your password to connect.">
         <source>Enter your password to connect.</source>
         <target>Enter your password to connect.</target>
