@@ -1609,7 +1609,7 @@
       <trans-unit id="Settings.TroubleShootSync.Title">
         <source>Troubleshoot</source>
         <target>Troubleshoot</target>
-        <note>Title of link to help page to find out how to solve sync issues</note>
+        <note>Title of link to help page to find out how to solve Sync issues</note>
       </trans-unit>
       <trans-unit id="Share">
         <source>Share</source>
@@ -1709,19 +1709,19 @@
         <note>Message displayed when the user's account is syncing with ellipsis at the end</note>
       </trans-unit>
       <trans-unit id="SyncState.Bookmark.Title">
-        <source>Bookmark</source>
-        <target>Bookmark</target>
+        <source>Bookmarks</source>
+        <target>Bookmarks</target>
         <note>The Bookmark sync component</note>
       </trans-unit>
       <trans-unit id="SyncState.Clients.Title">
-        <source>Remote Client</source>
-        <target>Remote Client</target>
+        <source>Remote Clients</source>
+        <target>Remote Clients</target>
         <note>The Remote Clients sync component</note>
       </trans-unit>
       <trans-unit id="SyncState.Failed.Title">
-        <source>Sync failed</source>
-        <target>Sync failed</target>
-        <note>Title sync status message when sync was unable to succeed</note>
+        <source>Sync has failed to complete</source>
+        <target>Sync has failed to complete</target>
+        <note>Title Sync status message when Sync was unable to succeed</note>
       </trans-unit>
       <trans-unit id="SyncState.History.Title">
         <source>History</source>
@@ -1729,28 +1729,28 @@
         <note>The History sync component</note>
       </trans-unit>
       <trans-unit id="SyncState.Logins.Title">
-        <source>Login</source>
-        <target>Login</target>
+        <source>Logins</source>
+        <target>Logins</target>
         <note>The Logins sync component</note>
       </trans-unit>
       <trans-unit id="SyncState.NotStarted.Title">
         <source>Sync is unavailable</source>
         <target>Sync is unavailable</target>
-        <note>Title sync status message when sync failed to start.</note>
+        <note>Title Sync status message when Sync failed to start.</note>
       </trans-unit>
       <trans-unit id="SyncState.Offline.Title">
         <source>Sync is offline</source>
         <target>Sync is offline</target>
-        <note>Title sync status message when sync failed due to being offline</note>
+        <note>Title Sync status message when Sync failed due to being offline</note>
       </trans-unit>
       <trans-unit id="SyncState.Partial.Title">
-        <source>%@ Sync is experiencing issues</source>
-        <target>%@ Sync is experiencing issues</target>
-        <note>Title sync status message when a components of a sync failed to complete, where %@ represents the name of the component.</note>
+        <source>Sync is experiencing issues syncing %@</source>
+        <target>Sync is experiencing issues syncing %@</target>
+        <note>Title Sync status message when a component of Sync failed to complete, where %@ represents the name of the component.</note>
       </trans-unit>
       <trans-unit id="SyncState.Tabs.Title">
-        <source>Tab</source>
-        <target>Tab</target>
+        <source>Tabs</source>
+        <target>Tabs</target>
         <note>The Tabs sync component</note>
       </trans-unit>
       <trans-unit id="Tab %@ of %@">
