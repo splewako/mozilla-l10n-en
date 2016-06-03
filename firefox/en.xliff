@@ -697,6 +697,21 @@
         <target>Add to Reading List</target>
         <note>Add URL to the reading list - https://bugzilla.mozilla.org/attachment.cgi?id=8624438, https://bug1157303.bugzilla.mozilla.org/attachment.cgi?id=8624440</note>
       </trans-unit>
+      <trans-unit id="AddPass.Error.Dismiss">
+        <source>OK</source>
+        <target>OK</target>
+        <note>Button to dismiss the 'Add Pass Failed' alert</note>
+      </trans-unit>
+      <trans-unit id="AddPass.Error.Message">
+        <source>An error occured while adding the pass to Passbook. Please try again later.</source>
+        <target>An error occured while adding the pass to Passbook. Please try again later.</target>
+        <note>Text of the 'Add Pass Failed' alert</note>
+      </trans-unit>
+      <trans-unit id="AddPass.Error.Title">
+        <source>Failed to Add Pass</source>
+        <target>Failed to Add Pass</target>
+        <note>Title of the 'Add Pass Failed' alert</note>
+      </trans-unit>
       <trans-unit id="Added page to Reading List">
         <source>Added page to Reading List</source>
         <target>Added page to Reading List</target>
