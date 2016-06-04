@@ -795,14 +795,7 @@
       <trans-unit id="Cancel">
         <source>Cancel</source>
         <target>Cancel</target>
-        <note>Action Sheet Cancel Button
-   Alert Cancel Button
-   Authentication prompt cancel button
-   Button label to cancel entering a URL or search query
-   Cancel alert view
-   Cancel button
-   Cancel button in the 'log out firefox account' alert
-   Cancel title from search engine picker</note>
+        <note>Label for Cancel button</note>
       </trans-unit>
       <trans-unit id="Changes color theme.">
         <source>Changes color theme.</source>
@@ -1599,12 +1592,12 @@
       <trans-unit id="Settings.HomePage.UI.Toggle.Subtitle">
         <source>Otherwise show in the toolbar</source>
         <target>Otherwise show in the toolbar</target>
-        <note>Toggle setting to show home page button in menu, or on toolbar.</note>
+        <note>Label displayed under the 'Show Homepage Icon In Menu' option. It describes the effect of this setting when disabled.</note>
       </trans-unit>
       <trans-unit id="Settings.HomePage.UI.Toggle.Title">
         <source>Show Homepage Icon In Menu</source>
         <target>Show Homepage Icon In Menu</target>
-        <note>Toggle setting to show home page button in menu, or on toolbar.</note>
+        <note>Label used as an item in Settings. User can toggle this setting to show the home page button in menu, or on toolbar.</note>
       </trans-unit>
       <trans-unit id="Settings.HomePage.URL.Placeholder">
         <source>Enter a webpage</source>
@@ -2043,13 +2036,12 @@
       <trans-unit id="Delete">
         <source>Delete</source>
         <target>Delete</target>
-        <note>Button in login detail screen that deletes the current login
-   Label for the button used to delete an existing login.</note>
+        <note>Label for the button used to delete the current login.</note>
       </trans-unit>
       <trans-unit id="Deselect All">
         <source>Deselect All</source>
         <target>Deselect All</target>
-        <note>Title for deselecting all selected logins</note>
+        <note>Label for the button used to deselect all logins.</note>
       </trans-unit>
       <trans-unit id="Enter Search Mode">
         <source>Enter Search Mode</source>
@@ -2064,12 +2056,12 @@
       <trans-unit id="Last modified %@">
         <source>Last modified %@</source>
         <target>Last modified %@</target>
-        <note>Footer label describing when the login was last modified with the timestamp as the parameter</note>
+        <note>Footer label describing when the current login was last modified with the timestamp as the parameter.</note>
       </trans-unit>
       <trans-unit id="Logins">
         <source>Logins</source>
         <target>Logins</target>
-        <note>Title for Logins List View screen</note>
+        <note>Title for Logins List View screen.</note>
       </trans-unit>
       <trans-unit id="Logins will be permanently removed.">
         <source>Logins will be permanently removed.</source>
@@ -2084,7 +2076,7 @@
       <trans-unit id="No logins found">
         <source>No logins found</source>
         <target>No logins found</target>
-        <note>Title displayed when no logins are found after searching</note>
+        <note>Label displayed when no logins are found after searching.</note>
       </trans-unit>
       <trans-unit id="Open &amp; Fill">
         <source>Open &amp; Fill</source>
@@ -2109,22 +2101,22 @@
       <trans-unit id="Select All">
         <source>Select All</source>
         <target>Select All</target>
-        <note>Title for selecting all logins</note>
+        <note>Label for the button used to select all logins.</note>
       </trans-unit>
       <trans-unit id="password">
         <source>password</source>
         <target>password</target>
-        <note>Title for password row in Login Detail View</note>
+        <note>Label displayed above the password row in Login Detail View.</note>
       </trans-unit>
       <trans-unit id="username">
         <source>username</source>
         <target>username</target>
-        <note>Title for username row in Login Detail View</note>
+        <note>Label displayed above the username row in Login Detail View.</note>
       </trans-unit>
       <trans-unit id="website">
         <source>website</source>
         <target>website</target>
-        <note>Title for website row in Login Detail View</note>
+        <note>Label displayed above the website row in Login Detail View.</note>
       </trans-unit>
     </body>
   </file>
