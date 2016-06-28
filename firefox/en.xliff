@@ -1343,6 +1343,11 @@
         <target>Navigation Toolbar</target>
         <note>Accessibility label for the navigation toolbar displayed at the bottom of the screen.</note>
       </trans-unit>
+      <trans-unit id="New Tab">
+        <source>New Tab</source>
+        <target>New Tab</target>
+        <note>Accessibility label for the New Tab button in the tab toolbar.</note>
+      </trans-unit>
       <trans-unit id="New tab: %@: %@">
         <source>New tab: %1$@: %2$@</source>
         <target>New tab: %1$@: %2$@</target>
@@ -1443,6 +1448,11 @@
         <source>Privacy Policy</source>
         <target>Privacy Policy</target>
         <note>Show Firefox Browser Privacy Policy page from the Privacy section in the settings. See https://www.mozilla.org/privacy/firefox/</note>
+      </trans-unit>
+      <trans-unit id="Private Tab">
+        <source>Private Tab</source>
+        <target>Private Tab</target>
+        <note>Accessibility label for the Private Tab button in the tab toolbar.</note>
       </trans-unit>
       <trans-unit id="Quick-search Engines">
         <source>Quick-search Engines</source>
