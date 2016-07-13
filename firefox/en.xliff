@@ -1414,6 +1414,16 @@
         <target>Open in…</target>
         <note>String indicating that the file can be opened in another application on the device</note>
       </trans-unit>
+      <trans-unit id="OpenURL.Error.Message">
+        <source>Firefox cannot open the page because it has an invalid address.</source>
+        <target>Firefox cannot open the page because it has an invalid address.</target>
+        <note>The message displayed to a user when they try to open a URL that cannot be handled by Firefox, or any external app.</note>
+      </trans-unit>
+      <trans-unit id="OpenURL.Error.Title">
+        <source>Cannot Open Page</source>
+        <target>Cannot Open Page</target>
+        <note>Title of the message shown when the user attempts to navigate to an invalid link.</note>
+      </trans-unit>
       <trans-unit id="Opening %@">
         <source>Opening %@</source>
         <target>Opening %@</target>
