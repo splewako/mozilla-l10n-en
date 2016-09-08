@@ -1482,7 +1482,8 @@
       <trans-unit id="Remove">
         <source>Remove</source>
         <target>Remove</target>
-        <note>Title for the button that removes a reading list item</note>
+        <note>Label for Remove button
+   Title for the button that removes a reading list item</note>
       </trans-unit>
       <trans-unit id="Remove from Reading List">
         <source>Remove from Reading List</source>
