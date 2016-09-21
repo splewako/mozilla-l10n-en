@@ -677,6 +677,21 @@
         <target>A username and password are being requested by %1$@. The site says: %2$@</target>
         <note>Authentication prompt message with a realm. First parameter is the hostname. Second is the realm string</note>
       </trans-unit>
+      <trans-unit id="AS.Cancel.Button">
+        <source>Cancel</source>
+        <target>Cancel</target>
+        <note>Button shown to cancel editing of top site.</note>
+      </trans-unit>
+      <trans-unit id="AS.Delete.Button">
+        <source>Delete</source>
+        <target>Delete</target>
+        <note>Button shown in editing mode to remove this site from the top sites panel.</note>
+      </trans-unit>
+      <trans-unit id="AS.PageControl.Button">
+        <source>AS.PageControl.Button</source>
+        <target>AS.PageControl.Button</target>
+        <note>The page control button that lets you switch between pages in top sites</note>
+      </trans-unit>
       <trans-unit id="Aa">
         <source>Aa</source>
         <target>Aa</target>
@@ -1477,8 +1492,7 @@
       <trans-unit id="Remove">
         <source>Remove</source>
         <target>Remove</target>
-        <note>Label for Remove button
-   Title for the button that removes a reading list item</note>
+        <note>Title for the button that removes a reading list item</note>
       </trans-unit>
       <trans-unit id="Remove from Reading List">
         <source>Remove from Reading List</source>
