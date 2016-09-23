@@ -687,6 +687,11 @@
         <target>Delete</target>
         <note>Button shown in editing mode to remove this site from the top sites panel.</note>
       </trans-unit>
+      <trans-unit id="AS.Highlights.SectionTitle">
+        <source>Highlights</source>
+        <target>Highlights</target>
+        <note>Section title label for Highlights</note>
+      </trans-unit>
       <trans-unit id="AS.PageControl.Button">
         <source>AS.PageControl.Button</source>
         <target>AS.PageControl.Button</target>
