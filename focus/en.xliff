@@ -106,11 +106,6 @@
         <target>Enable %@</target>
         <note>Label for instructions to enable shown on the second introduction screen</note>
       </trans-unit>
-      <trans-unit id="Enable %@ in">
-        <source>Enable %@ in</source>
-        <target>Enable %@ in</target>
-        <note>Instructions shown in main app when disabled in system settings</note>
-      </trans-unit>
       <trans-unit id="Get Started">
         <source>Get Started</source>
         <target>Get Started</target>
@@ -139,7 +134,8 @@
       <trans-unit id="Open Settings">
         <source>Open Settings</source>
         <target>Open Settings</target>
-        <note>Button to open the system Settings, shown in the intro and main app when disabled</note>
+        <note>Button label to open settings screen
+   Button to open the system Settings, shown in the intro and main app when disabled</note>
       </trans-unit>
       <trans-unit id="Open Settings App">
         <source>Open Settings App</source>
@@ -165,11 +161,6 @@
         <source>Read more.</source>
         <target>Read more.</target>
         <note>Button on the about page</note>
-      </trans-unit>
-      <trans-unit id="Settings → Safari → Content Blockers">
-        <source>Settings → Safari → Content Blockers</source>
-        <target>Settings → Safari → Content Blockers</target>
-        <note>Instructions shown in main app when disabled in system settings</note>
       </trans-unit>
       <trans-unit id="Setup Instructions">
         <source>Setup Instructions</source>
