@@ -177,6 +177,11 @@
         <target>Tap Safari, then select Content Blockers</target>
         <note>Label for instructions to enable shown on the second introduction screen</note>
       </trans-unit>
+      <trans-unit id="URL.cancelLabel">
+        <source>Cancel</source>
+        <target>Cancel</target>
+        <note>Label for cancel button shown when entering a URL or search</note>
+      </trans-unit>
       <trans-unit id="URL.placeholderText">
         <source>Search or enter address</source>
         <target>Search or enter address</target>
