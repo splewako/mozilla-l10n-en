@@ -177,6 +177,11 @@
         <target>Tap Safari, then select Content Blockers</target>
         <note>Label for instructions to enable shown on the second introduction screen</note>
       </trans-unit>
+      <trans-unit id="URL.placeholderText">
+        <source>Search or enter address</source>
+        <target>Search or enter address</target>
+        <note>Placeholder text shown in the URL bar before the user navigates to a page</note>
+      </trans-unit>
       <trans-unit id="Welcome">
         <source>Welcome</source>
         <target>Welcome</target>
