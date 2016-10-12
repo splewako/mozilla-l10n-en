@@ -1494,9 +1494,9 @@
         <target>Privacy Policy</target>
         <note>Show Firefox Browser Privacy Policy page from the Privacy section in the settings. See https://www.mozilla.org/privacy/firefox/</note>
       </trans-unit>
-      <trans-unit id="Quick-search Engines">
-        <source>Quick-search Engines</source>
-        <target>Quick-search Engines</target>
+      <trans-unit id="Quick-Search Engines">
+        <source>Quick-Search Engines</source>
+        <target>Quick-Search Engines</target>
         <note>Title for quick-search engines settings section.</note>
       </trans-unit>
       <trans-unit id="Reader View">
