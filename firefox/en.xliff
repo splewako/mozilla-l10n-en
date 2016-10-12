@@ -1073,7 +1073,7 @@
       <trans-unit id="Firefox will stop syncing with your account, but won’t delete any of your browsing data on this device.">
         <source>Firefox will stop syncing with your account, but won’t delete any of your browsing data on this device.</source>
         <target>Firefox will stop syncing with your account, but won’t delete any of your browsing data on this device.</target>
-        <note>Text of the 'log out firefox account' alert</note>
+        <note>Text of the 'sign out firefox account' alert</note>
       </trans-unit>
       <trans-unit id="Firefox would like to access your Photos">
         <source>Firefox would like to access your Photos</source>
@@ -1269,17 +1269,6 @@
         <source>Loading content…</source>
         <target>Loading content…</target>
         <note>Message displayed when the reader mode page is loading. This message will appear only when sharing to Firefox reader mode from another app.</note>
-      </trans-unit>
-      <trans-unit id="Log Out">
-        <source>Log Out</source>
-        <target>Log Out</target>
-        <note>Button in settings screen to disconnect from your account
-   Disconnect button in the 'log out firefox account' alert</note>
-      </trans-unit>
-      <trans-unit id="Log Out?">
-        <source>Log Out?</source>
-        <target>Log Out?</target>
-        <note>Title of the 'log out firefox account' alert</note>
       </trans-unit>
       <trans-unit id="Log in">
         <source>Log in</source>
@@ -1838,6 +1827,17 @@
         <source>Sign In to Firefox</source>
         <target>Sign In to Firefox</target>
         <note>Text message / button in the settings table view</note>
+      </trans-unit>
+      <trans-unit id="Sign Out">
+        <source>Sign Out</source>
+        <target>Sign Out</target>
+        <note>Button in settings screen to disconnect from your account
+   Disconnect button in the 'sign out firefox account' alert</note>
+      </trans-unit>
+      <trans-unit id="Sign Out?">
+        <source>Sign Out?</source>
+        <target>Sign Out?</target>
+        <note>Title of the 'sign out firefox account' alert</note>
       </trans-unit>
       <trans-unit id="Sign in">
         <source>Sign in</source>
