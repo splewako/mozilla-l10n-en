@@ -81,6 +81,21 @@
         <target>Blocking other content trackers may break some videos and Web pages.</target>
         <note>Alert message shown when toggling the Content blocker</note>
       </trans-unit>
+      <trans-unit id="Delete.alertCancel">
+        <source>Cancel</source>
+        <target>Cancel</target>
+        <note>Button label for cancelling the delete alert</note>
+      </trans-unit>
+      <trans-unit id="Delete.alertDelete">
+        <source>Delete</source>
+        <target>Delete</target>
+        <note>Button label for deleting the session from the alert</note>
+      </trans-unit>
+      <trans-unit id="Delete.alertMessage">
+        <source>Delete your browsing history and data?</source>
+        <target>Delete your browsing history and data?</target>
+        <note>Message for the alert shown after pressing Delete</note>
+      </trans-unit>
       <trans-unit id="Enable %@">
         <source>Enable %@</source>
         <target>Enable %@</target>
