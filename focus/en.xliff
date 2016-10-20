@@ -101,6 +101,11 @@
         <target>Enable %@</target>
         <note>Label for instructions to enable shown on the second introduction screen</note>
       </trans-unit>
+      <trans-unit id="Go to Settings">
+        <source>Go to Settings</source>
+        <target>Go to Settings</target>
+        <note>Button to open the system Settings, shown on the home screen and after tapping the URL bar</note>
+      </trans-unit>
       <trans-unit id="Help">
         <source>Help</source>
         <target>Help</target>
@@ -124,8 +129,7 @@
       <trans-unit id="Open Settings">
         <source>Open Settings</source>
         <target>Open Settings</target>
-        <note>Button label to open settings screen
-   Button to open the system Settings, shown in the intro and main app when disabled</note>
+        <note>Button label to open settings screen</note>
       </trans-unit>
       <trans-unit id="Open Settings App">
         <source>Open Settings App</source>
@@ -151,6 +155,11 @@
         <source>Read more.</source>
         <target>Read more.</target>
         <note>Button on the about page</note>
+      </trans-unit>
+      <trans-unit id="Search for %@">
+        <source>Search for %@</source>
+        <target>Search for %@</target>
+        <note>Label displayed for search button when typing in the URL bar</note>
       </trans-unit>
       <trans-unit id="Settings.sectionIntegration">
         <source>INTEGRATION</source>
