@@ -1270,6 +1270,17 @@
         <target>Loading content…</target>
         <note>Message displayed when the reader mode page is loading. This message will appear only when sharing to Firefox reader mode from another app.</note>
       </trans-unit>
+      <trans-unit id="Log Out">
+        <source>Log Out</source>
+        <target>Log Out</target>
+        <note>Button in settings screen to disconnect from your account
+   Disconnect button in the 'log out firefox account' alert</note>
+      </trans-unit>
+      <trans-unit id="Log Out?">
+        <source>Log Out?</source>
+        <target>Log Out?</target>
+        <note>Title of the 'log out firefox account' alert</note>
+      </trans-unit>
       <trans-unit id="Log in">
         <source>Log in</source>
         <target>Log in</target>
@@ -1782,6 +1793,21 @@
         <target>Edit</target>
         <note>Button displayed at the top of the search settings.</note>
       </trans-unit>
+      <trans-unit id="Settings.SignOut.Button">
+        <source>Sign Out</source>
+        <target>Sign Out</target>
+        <note>Button displayed at the bottom of settings page allowing users to Sign Out of FxA</note>
+      </trans-unit>
+      <trans-unit id="Settings.SignOut.DestructiveButton">
+        <source>Sign Out</source>
+        <target>Sign Out</target>
+        <note>Destructive action button in alert when user is prompted for signing out</note>
+      </trans-unit>
+      <trans-unit id="Settings.SignOut.Title">
+        <source>Sign Out?</source>
+        <target>Sign Out?</target>
+        <note>Title of the alert when prompting the user asking to sign out.</note>
+      </trans-unit>
       <trans-unit id="Settings.TroubleShootSync.Title">
         <source>Troubleshoot</source>
         <target>Troubleshoot</target>
@@ -1827,17 +1853,6 @@
         <source>Sign In to Firefox</source>
         <target>Sign In to Firefox</target>
         <note>Text message / button in the settings table view</note>
-      </trans-unit>
-      <trans-unit id="Sign Out">
-        <source>Sign Out</source>
-        <target>Sign Out</target>
-        <note>Button in settings screen to disconnect from your account
-   Disconnect button in the 'sign out firefox account' alert</note>
-      </trans-unit>
-      <trans-unit id="Sign Out?">
-        <source>Sign Out?</source>
-        <target>Sign Out?</target>
-        <note>Title of the 'sign out firefox account' alert</note>
       </trans-unit>
       <trans-unit id="Sign in">
         <source>Sign in</source>
