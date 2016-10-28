@@ -86,6 +86,11 @@
         <target>Enable %@</target>
         <note>Label for instructions to enable shown on the second introduction screen</note>
       </trans-unit>
+      <trans-unit id="Error.tryAgainButton">
+        <source>Try again</source>
+        <target>Try again</target>
+        <note>Button label to reload the error page</note>
+      </trans-unit>
       <trans-unit id="Go to Settings">
         <source>Go to Settings</source>
         <target>Go to Settings</target>
