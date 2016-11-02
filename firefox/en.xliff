@@ -685,26 +685,6 @@
         <target>A username and password are being requested by %1$@. The site says: %2$@</target>
         <note>Authentication prompt message with a realm. First parameter is the hostname. Second is the realm string</note>
       </trans-unit>
-      <trans-unit id="AS.Cancel.Button">
-        <source>Cancel</source>
-        <target>Cancel</target>
-        <note>Button shown to cancel editing of top site.</note>
-      </trans-unit>
-      <trans-unit id="AS.Delete.Button">
-        <source>Delete</source>
-        <target>Delete</target>
-        <note>Button shown in editing mode to remove this site from the top sites panel.</note>
-      </trans-unit>
-      <trans-unit id="AS.Highlights.SectionTitle">
-        <source>Highlights</source>
-        <target>Highlights</target>
-        <note>Section title label for Highlights</note>
-      </trans-unit>
-      <trans-unit id="AS.PageControl.Button">
-        <source>Next Page</source>
-        <target>Next Page</target>
-        <note>The page control button that lets you switch between pages in top sites</note>
-      </trans-unit>
       <trans-unit id="Aa">
         <source>Aa</source>
         <target>Aa</target>
@@ -728,17 +708,37 @@
       <trans-unit id="ActivityStream.ContextMenu.Dismiss">
         <source>Dismiss</source>
         <target>Dismiss</target>
-        <note>The title for the Dismiss context menu action for Activity Stream</note>
+        <note>The title for the Dismiss Highlight context menu action for Activity Stream</note>
       </trans-unit>
-      <trans-unit id="ActivityStream.ContextMenu.RemoveBookmark">
-        <source>Remove Bookmark</source>
-        <target>Remove Bookmark</target>
-        <note>The title for the Remove Bookmark context menu action for Activity Stream</note>
+      <trans-unit id="ActivityStream.ContextMenu.OpenInNewPrivateTab">
+        <source>Open in New Private Tab</source>
+        <target>Open in New Private Tab</target>
+        <note>The title for the Open in New Private Tab context menu action for Activity Stream</note>
+      </trans-unit>
+      <trans-unit id="ActivityStream.ContextMenu.OpenInNewTab">
+        <source>Open in New Tab</source>
+        <target>Open in New Tab</target>
+        <note>The title for the Open in New Tab context menu action for Activity Stream</note>
+      </trans-unit>
+      <trans-unit id="ActivityStream.ContextMenu.Remove">
+        <source>Remove</source>
+        <target>Remove</target>
+        <note>The title for the Remove Top-Site context menu action for Activity Stream</note>
       </trans-unit>
       <trans-unit id="ActivityStream.ContextMenu.Share">
         <source>Share</source>
         <target>Share</target>
         <note>The title for the Share context menu action for Activity Stream</note>
+      </trans-unit>
+      <trans-unit id="ActivityStream.Highlights.SectionTitle">
+        <source>Highlights</source>
+        <target>Highlights</target>
+        <note>Section title label for Highlights</note>
+      </trans-unit>
+      <trans-unit id="ActivityStream.PageControl.Button">
+        <source>Next Page</source>
+        <target>Next Page</target>
+        <note>The page control button that lets you switch between pages in top sites</note>
       </trans-unit>
       <trans-unit id="Add Tab">
         <source>Add Tab</source>
