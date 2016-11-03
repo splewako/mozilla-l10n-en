@@ -705,11 +705,6 @@
         <target>Delete from History</target>
         <note>The title for the Delete from History context menu action for Activity Stream</note>
       </trans-unit>
-      <trans-unit id="ActivityStream.ContextMenu.Dismiss">
-        <source>Dismiss</source>
-        <target>Dismiss</target>
-        <note>The title for the Dismiss Highlight context menu action for Activity Stream</note>
-      </trans-unit>
       <trans-unit id="ActivityStream.ContextMenu.OpenInNewPrivateTab">
         <source>Open in New Private Tab</source>
         <target>Open in New Private Tab</target>
@@ -723,7 +718,7 @@
       <trans-unit id="ActivityStream.ContextMenu.Remove">
         <source>Remove</source>
         <target>Remove</target>
-        <note>The title for the Remove Top-Site context menu action for Activity Stream</note>
+        <note>The title for the Remove content from Activity Stream context menu item</note>
       </trans-unit>
       <trans-unit id="ActivityStream.ContextMenu.Share">
         <source>Share</source>
