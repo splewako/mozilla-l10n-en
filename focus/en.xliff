@@ -142,8 +142,8 @@
         <note>Label in About screen</note>
       </trans-unit>
       <trans-unit id="Home.descriptionLabel1">
-        <source>Private browsing made simple.</source>
-        <target>Private browsing made simple.</target>
+        <source>Automatic private browsing.</source>
+        <target>Automatic private browsing.</target>
         <note>First label for product description on the home screen</note>
       </trans-unit>
       <trans-unit id="Home.descriptionLabel2">
