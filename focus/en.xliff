@@ -151,10 +151,6 @@
         <target>Email</target>
         <note>Button label in mailto: dialog to send an email. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
       </trans-unit>
-      <trans-unit id="ExternalLink.messageTitle">
-        <source>You are now leaving %@.</source>
-        <target>You are now leaving %@.</target>
-      </trans-unit>
       <trans-unit id="ExternalLink.messageTitleWithPlaceholder">
         <source>You are now leaving %@.</source>
         <target>You are now leaving %@.</target>
