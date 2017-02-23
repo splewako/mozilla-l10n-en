@@ -2686,8 +2686,8 @@
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName">
-        <source>$(MOZ_BUNDLE_DISPLAY_NAME)</source>
-        <target>$(MOZ_BUNDLE_DISPLAY_NAME)</target>
+        <source/>
+        <target/>
       </trans-unit>
       <trans-unit id="CFBundleName">
         <source>$(PRODUCT_NAME)</source>
@@ -2696,6 +2696,10 @@
       <trans-unit id="CFBundleShortVersionString">
         <source>8.0</source>
         <target>8.0</target>
+      </trans-unit>
+      <trans-unit id="DisplayName">
+        <source>Share To</source>
+        <target>Share To</target>
       </trans-unit>
     </body>
   </file>
