@@ -1193,8 +1193,8 @@
         <note>Title for the Back to History button in the History Panel</note>
       </trans-unit>
       <trans-unit id="HistoryPanel.RecentlyClosedTabsButton.Title">
-        <source>Recently closed</source>
-        <target>Recently closed</target>
+        <source>Recently Closed</source>
+        <target>Recently Closed</target>
         <note>Title for the Recently Closed button in the History Panel</note>
       </trans-unit>
       <trans-unit id="HistoryPanel.SyncedTabsCell.Description.Pluralized">
@@ -1203,8 +1203,8 @@
         <note>Description that corresponds with a number of devices connected for the Synced Tabs Cell in the History Panel</note>
       </trans-unit>
       <trans-unit id="HistoryPanel.SyncedTabsCell.Title">
-        <source>Synced devices</source>
-        <target>Synced devices</target>
+        <source>Synced Devices</source>
+        <target>Synced Devices</target>
         <note>Title for the Synced Tabs Cell in the History Panel</note>
       </trans-unit>
       <trans-unit id="HomePage.Set.Dialog.Cancel">
