@@ -1556,6 +1556,11 @@
         <target>Reader View</target>
         <note>Accessibility label for the Reader View button</note>
       </trans-unit>
+      <trans-unit id="ReaderMode.Available.VoiceOverAnnouncement">
+        <source>Reader Mode available</source>
+        <target>Reader Mode available</target>
+        <note>Accessibility message e.g. spoken by VoiceOver when Reader Mode becomes available.</note>
+      </trans-unit>
       <trans-unit id="Reading list">
         <source>Reading list</source>
         <target>Reading list</target>
@@ -1648,16 +1653,6 @@
         <source>Cancel</source>
         <target>Cancel</target>
         <note>The cancel button if you do not want to add a search engine.</note>
-      </trans-unit>
-      <trans-unit id="Search.ThirdPartyEngines.DuplicateErrorMessage">
-        <source>A search engine with this title or URL has already been added.</source>
-        <target>A search engine with this title or URL has already been added.</target>
-        <note>A message explaining fault in custom search engine form.</note>
-      </trans-unit>
-      <trans-unit id="Search.ThirdPartyEngines.DuplicateErrorTitle">
-        <source>Failed</source>
-        <target>Failed</target>
-        <note>A title stating that we failed to add custom search engine.</note>
       </trans-unit>
       <trans-unit id="Search.ThirdPartyEngines.FailedMessage">
         <source>The search provider could not be added.</source>
