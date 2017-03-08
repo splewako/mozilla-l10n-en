@@ -1649,6 +1649,16 @@
         <target>Cancel</target>
         <note>The cancel button if you do not want to add a search engine.</note>
       </trans-unit>
+      <trans-unit id="Search.ThirdPartyEngines.DuplicateErrorMessage">
+        <source>A search engine with this title or URL has already been added.</source>
+        <target>A search engine with this title or URL has already been added.</target>
+        <note>A message explaining fault in custom search engine form.</note>
+      </trans-unit>
+      <trans-unit id="Search.ThirdPartyEngines.DuplicateErrorTitle">
+        <source>Failed</source>
+        <target>Failed</target>
+        <note>A title stating that we failed to add custom search engine.</note>
+      </trans-unit>
       <trans-unit id="Search.ThirdPartyEngines.FailedMessage">
         <source>The search provider could not be added.</source>
         <target>The search provider could not be added.</target>
