@@ -990,6 +990,11 @@
         <target>Debug: require upgrade</target>
         <note>Debug option</note>
       </trans-unit>
+      <trans-unit id="Debug: use stage servers">
+        <source>Debug: use stage servers</source>
+        <target>Debug: use stage servers</target>
+        <note>Debug option</note>
+      </trans-unit>
       <trans-unit id="Decrease text size">
         <source>Decrease text size</source>
         <target>Decrease text size</target>
