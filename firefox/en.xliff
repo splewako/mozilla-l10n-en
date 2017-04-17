@@ -1138,6 +1138,11 @@
         <target>Firefox would like to access your Photos</target>
         <note>See http://mzl.la/1G7uHo7</note>
       </trans-unit>
+      <trans-unit id="Firefox.HomePage.Title">
+        <source>Firefox Home Page</source>
+        <target>Firefox Home Page</target>
+        <note>Title for firefox about:home page in tab history list</note>
+      </trans-unit>
       <trans-unit id="Forward">
         <source>Forward</source>
         <target>Forward</target>
