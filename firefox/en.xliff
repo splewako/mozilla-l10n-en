@@ -1451,11 +1451,6 @@
         <target>New tab: %1$@: %2$@</target>
         <note>New tab [title] [url]</note>
       </trans-unit>
-      <trans-unit id="New version available">
-        <source>New version available</source>
-        <target>New version available</target>
-        <note>Prompt title for application update</note>
-      </trans-unit>
       <trans-unit id="No">
         <source>No</source>
         <target>No</target>
@@ -1466,11 +1461,6 @@
         <target>No tabs</target>
         <note>Message spoken by VoiceOver to indicate that there are no tabs in the Tabs Tray</note>
       </trans-unit>
-      <trans-unit id="Not Now">
-        <source>Not Now</source>
-        <target>Not Now</target>
-        <note>Label for button to cancel application update prompt</note>
-      </trans-unit>
       <trans-unit id="Not now">
         <source>Not now</source>
         <target>Not now</target>
@@ -1479,8 +1469,7 @@
       <trans-unit id="OK">
         <source>OK</source>
         <target>OK</target>
-        <note>Label for OK button in the application update prompt
-   OK button</note>
+        <note>OK button</note>
       </trans-unit>
       <trans-unit id="Okay">
         <source>Okay</source>
@@ -2137,11 +2126,6 @@
         <source>The page could not be displayed in Reader View.</source>
         <target>The page could not be displayed in Reader View.</target>
         <note>Message displayed when the reader mode page could not be loaded. This message will appear only when sharing to Firefox reader mode from another app.</note>
-      </trans-unit>
-      <trans-unit id="There is a new version available of Firefox Aurora. Tap OK to go to the download page.">
-        <source>There is a new version available of Firefox Aurora. Tap OK to go to the download page.</source>
-        <target>There is a new version available of Firefox Aurora. Tap OK to go to the download page.</target>
-        <note>Prompt message for application update</note>
       </trans-unit>
       <trans-unit id="There was a problem accessing tabs from your other devices. Try again in a few moments.">
         <source>There was a problem accessing tabs from your other devices. Try again in a few moments.</source>
