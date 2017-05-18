@@ -745,9 +745,9 @@
         <note>The title that appears for the introduction to highlights in AS.</note>
       </trans-unit>
       <trans-unit id="ActivityStream.Highlights.SectionTitle">
-        <source>Highlights</source>
-        <target>Highlights</target>
-        <note>Section title label for Highlights</note>
+        <source>Visit Again</source>
+        <target>Visit Again</target>
+        <note>Section title label for Visit again section</note>
       </trans-unit>
       <trans-unit id="ActivityStream.PageControl.Button">
         <source>Next Page</source>
