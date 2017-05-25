@@ -795,6 +795,11 @@
         <target>Address and Search</target>
         <note>Accessibility label for address and search field, both words (Address, Search) are therefore nouns.</note>
       </trans-unit>
+      <trans-unit id="Align QR Code within frame to scan">
+        <source>Align QR Code within frame to scan</source>
+        <target>Align QR Code within frame to scan</target>
+        <note>Text for the Label, displayed in the QRCodeViewController</note>
+      </trans-unit>
       <trans-unit id="Allow Third-Party Keyboards">
         <source>Allow Third-Party Keyboards</source>
         <target>Allow Third-Party Keyboards</target>
@@ -1536,6 +1541,11 @@
         <target>Paste &amp; Go</target>
         <note>Paste the URL into the location bar and visit</note>
       </trans-unit>
+      <trans-unit id="Please allow Firefox to access your device's camera in 'Settings' -&gt; 'Privacy' -&gt; 'Camera'.">
+        <source>Please allow Firefox to access your device's camera in 'Settings' -&gt; 'Privacy' -&gt; 'Camera'.</source>
+        <target>Please allow Firefox to access your device's camera in 'Settings' -&gt; 'Privacy' -&gt; 'Camera'.</target>
+        <note>Text of the prompt user to setup the camera authorization.</note>
+      </trans-unit>
       <trans-unit id="Privacy">
         <source>Privacy</source>
         <target>Privacy</target>
@@ -1545,6 +1555,11 @@
         <source>Privacy Policy</source>
         <target>Privacy Policy</target>
         <note>Show Firefox Browser Privacy Policy page from the Privacy section in the settings. See https://www.mozilla.org/privacy/firefox/</note>
+      </trans-unit>
+      <trans-unit id="QR Code">
+        <source>QR Code</source>
+        <target>QR Code</target>
+        <note>Title for the navigationItem</note>
       </trans-unit>
       <trans-unit id="Quick-Search Engines">
         <source>Quick-Search Engines</source>
@@ -2122,6 +2137,11 @@
         <target>%d tab(s) closed</target>
         <note>The label indicating that all the tabs were closed</note>
       </trans-unit>
+      <trans-unit id="The data is invalid">
+        <source>The data is invalid</source>
+        <target>The data is invalid</target>
+        <note>Text of the prompt user the data is invalid</note>
+      </trans-unit>
       <trans-unit id="The page could not be displayed in Reader View.">
         <source>The page could not be displayed in Reader View.</source>
         <target>The page could not be displayed in Reader View.</target>
@@ -2515,6 +2535,11 @@
         <source>Request Mobile Site</source>
         <target>Request Mobile Site</target>
         <note>Label for the button, displayed in the menu, used to request the mobile version of the current website.</note>
+      </trans-unit>
+      <trans-unit id="Menu.openQRCodeAction.Title">
+        <source>QR Code</source>
+        <target>QR Code</target>
+        <note>Label for the button, displayed in the menu, used to open the qr code view chontroller.</note>
       </trans-unit>
     </body>
   </file>
