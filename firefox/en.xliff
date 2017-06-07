@@ -805,11 +805,6 @@
         <target>Address and Search</target>
         <note>Accessibility label for address and search field, both words (Address, Search) are therefore nouns.</note>
       </trans-unit>
-      <trans-unit id="Align QR Code within frame to scan">
-        <source>Align QR Code within frame to scan</source>
-        <target>Align QR Code within frame to scan</target>
-        <note>Text for the Label, displayed in the QRCodeViewController</note>
-      </trans-unit>
       <trans-unit id="Allow Third-Party Keyboards">
         <source>Allow Third-Party Keyboards</source>
         <target>Allow Third-Party Keyboards</target>
@@ -1566,11 +1561,6 @@
         <target>Privacy Policy</target>
         <note>Show Firefox Browser Privacy Policy page from the Privacy section in the settings. See https://www.mozilla.org/privacy/firefox/</note>
       </trans-unit>
-      <trans-unit id="QR Code">
-        <source>QR Code</source>
-        <target>QR Code</target>
-        <note>Title for the navigationItem</note>
-      </trans-unit>
       <trans-unit id="Quick-Search Engines">
         <source>Quick-Search Engines</source>
         <target>Quick-Search Engines</target>
@@ -1652,6 +1642,16 @@
         <source>Save pages to your Reading List by tapping the book plus icon in the Reader View controls.</source>
         <target>Save pages to your Reading List by tapping the book plus icon in the Reader View controls.</target>
         <note>See http://mzl.la/1LXbDOL</note>
+      </trans-unit>
+      <trans-unit id="ScanQRCode.Instructions.Label">
+        <source>Align QR code within frame to scan</source>
+        <target>Align QR code within frame to scan</target>
+        <note>Text for the instructions label, displayed in the QR scanner view</note>
+      </trans-unit>
+      <trans-unit id="ScanQRCode.View.Title">
+        <source>Scan QR Code</source>
+        <target>Scan QR Code</target>
+        <note>Title for the QR code scanner view.</note>
       </trans-unit>
       <trans-unit id="Search">
         <source>Search</source>
@@ -2526,6 +2526,11 @@
         <target>Remove Bookmark</target>
         <note>Label for the button, displayed in the menu, used to delete an existing bookmark for the current website.</note>
       </trans-unit>
+      <trans-unit id="Menu.ScanQRCodeAction.Title">
+        <source>Scan QR Code</source>
+        <target>Scan QR Code</target>
+        <note>Label for the button, displayed in the menu, used to open the QR code scanner.</note>
+      </trans-unit>
       <trans-unit id="Menu.SendPageAction.Title">
         <source>Send</source>
         <target>Send</target>
@@ -2545,11 +2550,6 @@
         <source>Request Mobile Site</source>
         <target>Request Mobile Site</target>
         <note>Label for the button, displayed in the menu, used to request the mobile version of the current website.</note>
-      </trans-unit>
-      <trans-unit id="Menu.openQRCodeAction.Title">
-        <source>QR Code</source>
-        <target>QR Code</target>
-        <note>Label for the button, displayed in the menu, used to open the qr code view chontroller.</note>
       </trans-unit>
     </body>
   </file>
