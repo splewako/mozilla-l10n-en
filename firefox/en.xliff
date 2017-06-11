@@ -445,9 +445,9 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
     </header>
     <body>
-      <trans-unit id="Delete">
-        <source>Delete</source>
-        <target>Delete</target>
+      <trans-unit id="Remove">
+        <source>Remove</source>
+        <target>Remove</target>
         <note>Action button for deleting history entries in the history panel.</note>
       </trans-unit>
     </body>
@@ -699,10 +699,45 @@
         <target>About</target>
         <note>About settings section title</note>
       </trans-unit>
+      <trans-unit id="ActivityStream.ContextMenu.Bookmark">
+        <source>Bookmark</source>
+        <target>Bookmark</target>
+        <note>The title for the Bookmark context menu action for Activity Stream</note>
+      </trans-unit>
+      <trans-unit id="ActivityStream.ContextMenu.DeleteFromHistory">
+        <source>Delete from History</source>
+        <target>Delete from History</target>
+        <note>The title for the Delete from History context menu action for Activity Stream</note>
+      </trans-unit>
+      <trans-unit id="ActivityStream.ContextMenu.OpenInNewPrivateTab">
+        <source>Open in New Private Tab</source>
+        <target>Open in New Private Tab</target>
+        <note>The title for the Open in New Private Tab context menu action for Activity Stream</note>
+      </trans-unit>
+      <trans-unit id="ActivityStream.ContextMenu.OpenInNewTab">
+        <source>Open in New Tab</source>
+        <target>Open in New Tab</target>
+        <note>The title for the Open in New Tab context menu action for Activity Stream</note>
+      </trans-unit>
       <trans-unit id="ActivityStream.ContextMenu.PinTopsite">
         <source>Pin to Top Sites</source>
         <target>Pin to Top Sites</target>
         <note>The title for the pinning a topsite action</note>
+      </trans-unit>
+      <trans-unit id="ActivityStream.ContextMenu.Remove">
+        <source>Remove</source>
+        <target>Remove</target>
+        <note>The title for the Remove content from Activity Stream context menu item</note>
+      </trans-unit>
+      <trans-unit id="ActivityStream.ContextMenu.RemoveBookmark">
+        <source>Remove Bookmark</source>
+        <target>Remove Bookmark</target>
+        <note>The title for the Remove Bookmark context menu action for Activity Stream</note>
+      </trans-unit>
+      <trans-unit id="ActivityStream.ContextMenu.Share">
+        <source>Share</source>
+        <target>Share</target>
+        <note>The title for the Share context menu action for Activity Stream</note>
       </trans-unit>
       <trans-unit id="ActivityStream.HighlightIntro.Description">
         <source>Firefox will place things here that you've discovered on the web so you can find your way back to the great articles, videos, bookmarks and other pages</source>
@@ -1025,7 +1060,8 @@
       <trans-unit id="Done">
         <source>Done</source>
         <target>Done</target>
-        <note>Done button on left side of the Settings view controller title bar</note>
+        <note>Done button on left side of the Settings view controller title bar
+   Done editing button</note>
       </trans-unit>
       <trans-unit id="Double tap and hold to open history">
         <source>Double tap and hold to open history</source>
@@ -1216,41 +1252,6 @@
         <source>Do you want to use this web page as your home page?</source>
         <target>Do you want to use this web page as your home page?</target>
         <note>Alert dialog title when the user opens the home page for the first time.</note>
-      </trans-unit>
-      <trans-unit id="HomePanel.ContextMenu.Bookmark">
-        <source>Bookmark</source>
-        <target>Bookmark</target>
-        <note>The title for the Bookmark context menu action for sites in Home Panels</note>
-      </trans-unit>
-      <trans-unit id="HomePanel.ContextMenu.DeleteFromHistory">
-        <source>Delete from History</source>
-        <target>Delete from History</target>
-        <note>The title for the Delete from History context menu action for sites in Home Panels</note>
-      </trans-unit>
-      <trans-unit id="HomePanel.ContextMenu.OpenInNewPrivateTab">
-        <source>Open in New Private Tab</source>
-        <target>Open in New Private Tab</target>
-        <note>The title for the Open in New Private Tab context menu action for sites in Home Panels</note>
-      </trans-unit>
-      <trans-unit id="HomePanel.ContextMenu.OpenInNewTab">
-        <source>Open in New Tab</source>
-        <target>Open in New Tab</target>
-        <note>The title for the Open in New Tab context menu action for sites in Home Panels</note>
-      </trans-unit>
-      <trans-unit id="HomePanel.ContextMenu.Remove">
-        <source>Remove</source>
-        <target>Remove</target>
-        <note>The title for the Remove context menu action for sites in Home Panels</note>
-      </trans-unit>
-      <trans-unit id="HomePanel.ContextMenu.RemoveBookmark">
-        <source>Remove Bookmark</source>
-        <target>Remove Bookmark</target>
-        <note>The title for the Remove Bookmark context menu action for sites in Home Panels</note>
-      </trans-unit>
-      <trans-unit id="HomePanel.ContextMenu.Share">
-        <source>Share</source>
-        <target>Share</target>
-        <note>The title for the Share context menu action for sites in Home Panels</note>
       </trans-unit>
       <trans-unit id="Hotkeys.Back.DiscoveryTitle">
         <source>Back</source>
@@ -1604,6 +1605,11 @@
         <source>Remove from Reading List</source>
         <target>Remove from Reading List</target>
         <note>Name for button removing current article from reading list in reader mode</note>
+      </trans-unit>
+      <trans-unit id="Remove page">
+        <source>Remove page</source>
+        <target>Remove page</target>
+        <note>Button shown in editing mode to remove this site from the top sites panel.</note>
       </trans-unit>
       <trans-unit id="Request Desktop Site">
         <source>Request Desktop Site</source>
