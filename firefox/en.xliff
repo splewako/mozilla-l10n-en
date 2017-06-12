@@ -1788,6 +1788,51 @@
         <target>Bookmark</target>
         <note>Button title displayed in a notification when a sent tab has been received. Tapping on the button will add the URL as a bookmark.</note>
       </trans-unit>
+      <trans-unit id="SentTab.NoTabArrivingNotification.body">
+        <source>Tap to begin</source>
+        <target>Tap to begin</target>
+        <note>Body of notification received after a spurious message from FxA has been received.</note>
+      </trans-unit>
+      <trans-unit id="SentTab.NoTabArrivingNotification.title">
+        <source>Firefox Sync</source>
+        <target>Firefox Sync</target>
+        <note>Title of notification received after a spurious message from FxA has been received.</note>
+      </trans-unit>
+      <trans-unit id="SentTab.TabArrivingNotification.title">
+        <source>Tab received</source>
+        <target>Tab received</target>
+        <note>Title of notification received after a tab has been sent from an unnamed connected device</note>
+      </trans-unit>
+      <trans-unit id="SentTab.TabArrivingNotificationWithDevice.title">
+        <source>Tab from %@</source>
+        <target>Tab from %@</target>
+        <note>Title of notification received after a tab has been sent from a named connected device. %@ is the name of the named device.</note>
+      </trans-unit>
+      <trans-unit id="SentTab.TabsArrivingNotification.title">
+        <source>Tabs received</source>
+        <target>Tabs received</target>
+        <note>Title of notification received after multiple tab have been sent from an unnamed connected device</note>
+      </trans-unit>
+      <trans-unit id="SentTab.UnnamedTabArrivingNotification.title">
+        <source>Tab received</source>
+        <target>Tab received</target>
+        <note>Title of notification received after an unnamed tab has been sent from an unnamed connected device. This is likely to be displayed on the device lock screen.</note>
+      </trans-unit>
+      <trans-unit id="SentTab.UnnamedTabArrivingNotificationNoDevice.body">
+        <source>%1$i tab has arrived</source>
+        <target>%1$i tab has arrived</target>
+        <note>Body of notification received after one tab has been received. %1$i is the number of tabs (1).</note>
+      </trans-unit>
+      <trans-unit id="SentTab.UnnamedTabsArrivingNotificationMultiple2.body">
+        <source>%1$i tabs have arrived from your connected devices</source>
+        <target>%1$i tabs have arrived from your connected devices</target>
+        <note>Body of notification received after multiple tabs have been sent from an unnamed connected device. %1$i is the number of tabs.</note>
+      </trans-unit>
+      <trans-unit id="SentTab.UnnamedTabsArrivingNotificationNoDevice.body">
+        <source>%1$i tabs have arrived</source>
+        <target>%1$i tabs have arrived</target>
+        <note>Body of notification received after multiple tabs has been received. %1$i is the number of tabs.</note>
+      </trans-unit>
       <trans-unit id="SentTab.ViewPage">
         <source>View</source>
         <target>View</target>
