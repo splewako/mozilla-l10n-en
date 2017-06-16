@@ -699,11 +699,6 @@
         <target>About</target>
         <note>About settings section title</note>
       </trans-unit>
-      <trans-unit id="ActivityStream.Bookmarks.SectionTitle">
-        <source>Recent Bookmarks</source>
-        <target>Recent Bookmarks</target>
-        <note>Section title label for Bookmarks section in Activity Stream</note>
-      </trans-unit>
       <trans-unit id="ActivityStream.ContextMenu.PinTopsite">
         <source>Pin to Top Sites</source>
         <target>Pin to Top Sites</target>
@@ -728,11 +723,6 @@
         <source>Bookmarked</source>
         <target>Bookmarked</target>
         <note>The description of a highlight if it is a site the user has bookmarked</note>
-      </trans-unit>
-      <trans-unit id="ActivityStream.Highlights.BookmarkShowMore">
-        <source>Show more</source>
-        <target>Show more</target>
-        <note>The title of the button in the bookmarks section that lets you view all your bookmarks.</note>
       </trans-unit>
       <trans-unit id="ActivityStream.Highlights.SectionTitle">
         <source>Visit Again</source>
