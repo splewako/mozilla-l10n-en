@@ -136,6 +136,21 @@
         <target>Try again</target>
         <note>Button label to reload the error page</note>
       </trans-unit>
+      <trans-unit id="ExternalAppLink.cancelTitle">
+        <source>Cancel</source>
+        <target>Cancel</target>
+        <note>Button label used for cancelling to open another app from Focus</note>
+      </trans-unit>
+      <trans-unit id="ExternalAppLink.messageTitle">
+        <source>Firefox Focus wants to open another App</source>
+        <target>Firefox Focus wants to open another App</target>
+        <note>Dialog title used for opening an external app from Focus</note>
+      </trans-unit>
+      <trans-unit id="ExternalAppLink.openTitle">
+        <source>Open</source>
+        <target>Open</target>
+        <note>Button label for opening another app from Focus</note>
+      </trans-unit>
       <trans-unit id="ExternalLink.callButton">
         <source>Call</source>
         <target>Call</target>
@@ -380,6 +395,11 @@
         <source>Save Image</source>
         <target>Save Image</target>
         <note>Text for the context menu when a user wants to save an image after long pressing it.</note>
+      </trans-unit>
+      <trans-unit id="externalAppLinkWithAppName.messageTitle">
+        <source>Firefox Focus wants to open %@</source>
+        <target>Firefox Focus wants to open %@</target>
+        <note>Dialog title used for opening an external app from Focus</note>
       </trans-unit>
     </body>
   </file>
