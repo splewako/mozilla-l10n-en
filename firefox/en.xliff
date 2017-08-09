@@ -1139,6 +1139,41 @@ your search engine</target>
         <target>Forward</target>
         <note>Accessibility Label for the tab toolbar Forward button</note>
       </trans-unit>
+      <trans-unit id="FxAPush_DeviceConnected_body">
+        <source>Firefox Sync has connected to %@</source>
+        <target>Firefox Sync has connected to %@</target>
+        <note>Title of a notification displayed when another device has connected to FxA. %@ refers to the name of the newly connected device.</note>
+      </trans-unit>
+      <trans-unit id="FxAPush_DeviceConnected_title">
+        <source>Sync Connected</source>
+        <target>Sync Connected</target>
+        <note>Title of a notification displayed when another device has connected to FxA.</note>
+      </trans-unit>
+      <trans-unit id="FxAPush_DeviceDisconnected_ThisDevice_body">
+        <source>This device has been successfully disconnected from Firefox Sync.</source>
+        <target>This device has been successfully disconnected from Firefox Sync.</target>
+        <note>Body of a notification displayed when this device has been disconnected from FxA by another device.</note>
+      </trans-unit>
+      <trans-unit id="FxAPush_DeviceDisconnected_ThisDevice_title">
+        <source>Sync Disconnected</source>
+        <target>Sync Disconnected</target>
+        <note>Title of a notification displayed when this device has been disconnected by another device.</note>
+      </trans-unit>
+      <trans-unit id="FxAPush_DeviceDisconnected_UnknownDevice_body">
+        <source>A device has disconnected from Firefox Sync</source>
+        <target>A device has disconnected from Firefox Sync</target>
+        <note>Body of a notification displayed when unnamed device has been disconnected from FxA.</note>
+      </trans-unit>
+      <trans-unit id="FxAPush_DeviceDisconnected_body">
+        <source>Firefox Sync has disconnected %@</source>
+        <target>Firefox Sync has disconnected %@</target>
+        <note>Body of a notification displayed when named device has been disconnected from FxA. %@ refers to the name of the disconnected device.</note>
+      </trans-unit>
+      <trans-unit id="FxAPush_DeviceDisconnected_title">
+        <source>Sync Disconnected</source>
+        <target>Sync Disconnected</target>
+        <note>Title of a notification displayed when named device has been disconnected from FxA.</note>
+      </trans-unit>
       <trans-unit id="General">
         <source>General</source>
         <target>General</target>
