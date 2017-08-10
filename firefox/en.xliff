@@ -782,11 +782,6 @@ your search engine</target>
         <target>Address and Search</target>
         <note>Accessibility label for address and search field, both words (Address, Search) are therefore nouns.</note>
       </trans-unit>
-      <trans-unit id="Allow Third-Party Keyboards">
-        <source>Allow Third-Party Keyboards</source>
-        <target>Allow Third-Party Keyboards</target>
-        <note>Setting to enable third-party keyboards</note>
-      </trans-unit>
       <trans-unit id="Always Send">
         <source>Always Send</source>
         <target>Always Send</target>
@@ -1113,11 +1108,6 @@ your search engine</target>
         <source>Facebook</source>
         <target>Facebook</target>
         <note>Tile title for Facebook</note>
-      </trans-unit>
-      <trans-unit id="Firefox needs to reopen for this change to take effect.">
-        <source>Firefox needs to reopen for this change to take effect.</source>
-        <target>Firefox needs to reopen for this change to take effect.</target>
-        <note>Setting value prop to enable third-party keyboards</note>
       </trans-unit>
       <trans-unit id="Firefox will stop syncing with your account, but won’t delete any of your browsing data on this device.">
         <source>Firefox will stop syncing with your account, but won’t delete any of your browsing data on this device.</source>
