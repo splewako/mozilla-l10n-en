@@ -1522,6 +1522,21 @@ your search engine</target>
         <target>Okay</target>
         <note>Restore Tabs Affirmative Action</note>
       </trans-unit>
+      <trans-unit id="Onboarding.Slide.Notifications.ButtonTitle">
+        <source>Turn on notifications</source>
+        <target>Turn on notifications</target>
+        <note>See https://github.com/mozilla-mobile/firefox-ios/pull/3031</note>
+      </trans-unit>
+      <trans-unit id="Onboarding.Slide.Notifications.Text">
+        <source>Turn on notifications so you're always up-to-date on the latest features.</source>
+        <target>Turn on notifications so you're always up-to-date on the latest features.</target>
+        <note>See https://github.com/mozilla-mobile/firefox-ios/pull/3031</note>
+      </trans-unit>
+      <trans-unit id="Onboarding.Slide.Notifications.Title">
+        <source>Stay in the know</source>
+        <target>Stay in the know</target>
+        <note>See https://github.com/mozilla-mobile/firefox-ios/pull/3031</note>
+      </trans-unit>
       <trans-unit id="Oops! Firefox crashed">
         <source>Oops! Firefox crashed</source>
         <target>Oops! Firefox crashed</target>
