@@ -493,6 +493,10 @@
         <source>New Tab</source>
         <target>New Tab</target>
       </trans-unit>
+      <trans-unit id="ShortcutItemTitleQRCode">
+        <source>Scan QR Code</source>
+        <target>Scan QR Code</target>
+      </trans-unit>
     </body>
   </file>
   <file original="Client/Intro.strings" source-language="en" datatype="plaintext" target-language="en">
