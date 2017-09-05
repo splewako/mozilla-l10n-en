@@ -74,7 +74,8 @@
       <trans-unit id="About.rowPrivacy">
         <source>Privacy Notice</source>
         <target>Privacy Notice</target>
-        <note>Link to Privacy Notice in the About screen</note>
+        <note>Label for row in About screen
+   Link to Privacy Notice in the About screen</note>
       </trans-unit>
       <trans-unit id="About.rowRights">
         <source>Your Rights</source>
