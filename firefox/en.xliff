@@ -1648,6 +1648,11 @@
         <target>Please allow Firefox to access your device's camera in 'Settings' -&gt; 'Privacy' -&gt; 'Camera'.</target>
         <note>Text of the prompt user to setup the camera authorization.</note>
       </trans-unit>
+      <trans-unit id="Please enter a custom account url before enabling.">
+        <source>Please enter a custom account url before enabling.</source>
+        <target>Please enter a custom account url before enabling.</target>
+        <note>No custom service set.</note>
+      </trans-unit>
       <trans-unit id="Privacy">
         <source>Privacy</source>
         <target>Privacy</target>
@@ -1951,6 +1956,42 @@
         <source>URL (Replace Query with %s)</source>
         <target>URL (Replace Query with %s)</target>
         <note>The placeholder for URL Field when saving a custom search engine</note>
+      </trans-unit>
+      <trans-unit id="Settings.AdvanceAccount.ErrorAlertMessage">
+        <source>There was an error while attempting to parse the url. Please make sure that it is a valid Firefox Account root url.</source>
+        <target>There was an error while attempting to parse the url. Please make sure that it is a valid Firefox Account root url.</target>
+        <note>Messaged displayed when sync service has an error setting a custom sync url.</note>
+      </trans-unit>
+      <trans-unit id="Settings.AdvanceAccount.ErrorAlertOk">
+        <source>OK</source>
+        <target>OK</target>
+        <note>Ok button on custom sync service error alert.</note>
+      </trans-unit>
+      <trans-unit id="Settings.AdvanceAccount.ErrorAlertTitle">
+        <source>Error</source>
+        <target>Error</target>
+        <note>Error alert message title.</note>
+      </trans-unit>
+      <trans-unit id="Settings.AdvanceAccount.SectionName">
+        <source>Account Settings</source>
+        <target>Account Settings</target>
+        <note>Label used as an item in Settings. When touched it will open a dialog to setup advance Firefox account settings.
+   Title displayed in header of the setting panel.</note>
+      </trans-unit>
+      <trans-unit id="Settings.AdvanceAccount.UpdatedAlertMessage">
+        <source>Firefox account service updated. To begin using custom server, please log out and re-login.</source>
+        <target>Firefox account service updated. To begin using custom server, please log out and re-login.</target>
+        <note>Messaged displayed when sync service has been successfully set.</note>
+      </trans-unit>
+      <trans-unit id="Settings.AdvanceAccount.UpdatedAlertOk">
+        <source>OK</source>
+        <target>OK</target>
+        <note>Ok button on custom sync service updated alert</note>
+      </trans-unit>
+      <trans-unit id="Settings.AdvanceAccount.UrlPlaceholder">
+        <source>Custom Account Url</source>
+        <target>Custom Account Url</target>
+        <note>Title displayed in header of the setting panel.</note>
       </trans-unit>
       <trans-unit id="Settings.ClearPrivateData.Clear.Button">
         <source>Clear Private Data</source>
@@ -2388,6 +2429,11 @@
         <source>This will open in another application</source>
         <target>This will open in another application</target>
         <note>Opening an external app</note>
+      </trans-unit>
+      <trans-unit id="To use a custom Firefox Account and sync servers, specify the root Url of the Firefox Account site. This will download the configuration and setup this device to use the new service. After the new service has been set, you will need to create a new Firefox Account or login with an existing one.">
+        <source>To use a custom Firefox Account and sync servers, specify the root Url of the Firefox Account site. This will download the configuration and setup this device to use the new service. After the new service has been set, you will need to create a new Firefox Account or login with an existing one.</source>
+        <target>To use a custom Firefox Account and sync servers, specify the root Url of the Firefox Account site. This will download the configuration and setup this device to use the new service. After the new service has been set, you will need to create a new Firefox Account or login with an existing one.</target>
+        <note>Details for using custom Firefox Account service.</note>
       </trans-unit>
       <trans-unit id="Today">
         <source>Today</source>
@@ -2915,6 +2961,18 @@
         <source>You don't have any other devices connected to this Firefox Account available to sync.</source>
         <target>You don't have any other devices connected to this Firefox Account available to sync.</target>
         <note>Error message shown in the remote tabs panel</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Client/UseCustomAccountService.strings" source-language="en" datatype="plaintext" target-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
+    </header>
+    <body>
+      <trans-unit id="Use Custom Account Service">
+        <source>Use Custom Account Service</source>
+        <target>Use Custom Account Service</target>
+        <note>Toggle switch to use custom FxA server</note>
       </trans-unit>
     </body>
   </file>
