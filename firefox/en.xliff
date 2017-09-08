@@ -858,11 +858,6 @@
         <target>Brightness</target>
         <note>Accessibility label for brightness adjustment slider in Reader Mode display settings</note>
       </trans-unit>
-      <trans-unit id="Call">
-        <source>Call</source>
-        <target>Call</target>
-        <note>Alert Call Button</note>
-      </trans-unit>
       <trans-unit id="Cancel">
         <source>Cancel</source>
         <target>Cancel</target>
@@ -1861,16 +1856,6 @@
         <target>The link you are trying to share cannot be shared.</target>
         <note>Title of error prompt displayed when an invalid URL is shared.</note>
       </trans-unit>
-      <trans-unit id="SentTab.AddToReadingList">
-        <source>Add to Reading List</source>
-        <target>Add to Reading List</target>
-        <note>Button title displayed in a notification when a sent tab has been received. Tapping on the button will add the page to the reading list.</note>
-      </trans-unit>
-      <trans-unit id="SentTab.BookmarkPage">
-        <source>Bookmark</source>
-        <target>Bookmark</target>
-        <note>Button title displayed in a notification when a sent tab has been received. Tapping on the button will add the URL as a bookmark.</note>
-      </trans-unit>
       <trans-unit id="SentTab.NoTabArrivingNotification.body">
         <source>Tap to begin</source>
         <target>Tap to begin</target>
@@ -1880,11 +1865,6 @@
         <source>Firefox Sync</source>
         <target>Firefox Sync</target>
         <note>Title of notification received after a spurious message from FxA has been received.</note>
-      </trans-unit>
-      <trans-unit id="SentTab.ViewPage">
-        <source>View</source>
-        <target>View</target>
-        <note>Button title displayed in a notification when a sent tab has been received. Tapping on the button will open the URL.</note>
       </trans-unit>
       <trans-unit id="SentTab_TabArrivingNotification_NoDevice_body">
         <source>New tab arrived from another device.</source>
