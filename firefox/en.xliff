@@ -2178,11 +2178,6 @@
         <target>Blocks known trackers. Some websites may not function properly.</target>
         <note>Tracking protection settings option description for using the strict blocklist.</note>
       </trans-unit>
-      <trans-unit id="Settings.TrackingProtectionOption.BlockListTypeFooter">
-        <source>You can choose which list Firefox will use to block Web elements that may track your browsing activity.</source>
-        <target>You can choose which list Firefox will use to block Web elements that may track your browsing activity.</target>
-        <note>Description label shown at bottom of tracking protection options for which Block List to use</note>
-      </trans-unit>
       <trans-unit id="Settings.TrackingProtectionOption.EnabledStateFooterLabel">
         <source>Tracking is the collection of your browsing data across multiple websites. Tracking can be used to build a profile and display content based on your browsing and personal information.</source>
         <target>Tracking is the collection of your browsing data across multiple websites. Tracking can be used to build a profile and display content based on your browsing and personal information.</target>
@@ -2883,7 +2878,8 @@
       <trans-unit id="More Info…">
         <source>More Info…</source>
         <target>More Info…</target>
-        <note>See http://bit.ly/1SmEXU1</note>
+        <note>Re-using more info label from 'anonymous usage data' item for showing a 'More Info' link on the Tracking Protection settings screen.
+   See http://bit.ly/1SmEXU1</note>
       </trans-unit>
       <trans-unit id="Send Anonymous Usage Data">
         <source>Send Anonymous Usage Data</source>
