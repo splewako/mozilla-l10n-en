@@ -1030,11 +1030,6 @@
         <target>Done</target>
         <note>Done button on left side of the Settings view controller title bar</note>
       </trans-unit>
-      <trans-unit id="Double tap and hold to open history">
-        <source>Double tap and hold to open history</source>
-        <target>Double tap and hold to open history</target>
-        <note>Accessibility hint, associated to the Back button in the tab toolbar, used by assistive technology to describe the result of a double tap.</note>
-      </trans-unit>
       <trans-unit id="Downloads.Alert.Cancel">
         <source>No</source>
         <target>No</target>
@@ -1638,6 +1633,11 @@
         <target>Paste &amp; Go</target>
         <note>Paste the URL into the location bar and visit</note>
       </trans-unit>
+      <trans-unit id="PhotonMenu.cancel">
+        <source>Cancel</source>
+        <target>Cancel</target>
+        <note>Button for closing the menu action sheet</note>
+      </trans-unit>
       <trans-unit id="Please allow Firefox to access your device's camera in 'Settings' -&gt; 'Privacy' -&gt; 'Camera'.">
         <source>Please allow Firefox to access your device's camera in 'Settings' -&gt; 'Privacy' -&gt; 'Camera'.</source>
         <target>Please allow Firefox to access your device's camera in 'Settings' -&gt; 'Privacy' -&gt; 'Camera'.</target>
@@ -1899,8 +1899,7 @@
       <trans-unit id="Settings">
         <source>Settings</source>
         <target>Settings</target>
-        <note>Accessibility label for the Settings button in the Tab Tray.
-   Settings</note>
+        <note>Settings</note>
       </trans-unit>
       <trans-unit id="Settings.AddCustomEngine">
         <source>Add Search Engine</source>
@@ -2409,11 +2408,6 @@
         <source>Menu</source>
         <target>Menu</target>
         <note>Accessibility label for the Menu button.</note>
-      </trans-unit>
-      <trans-unit id="Toolbar.OpenHomePage.AccessibilityLabel">
-        <source>Homepage</source>
-        <target>Homepage</target>
-        <note>Accessibility Label for the tab toolbar Homepage button</note>
       </trans-unit>
       <trans-unit id="Top sites">
         <source>Top sites</source>
