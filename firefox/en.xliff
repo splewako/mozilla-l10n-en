@@ -425,8 +425,7 @@
       <trans-unit id="Find in Page">
         <source>Find in Page</source>
         <target>Find in Page</target>
-        <note>Share action title
-   Text selection menu item</note>
+        <note>Text selection menu item</note>
       </trans-unit>
       <trans-unit id="Next in-page result">
         <source>Next in-page result</source>
@@ -1701,14 +1700,12 @@
       <trans-unit id="Request Desktop Site">
         <source>Request Desktop Site</source>
         <target>Request Desktop Site</target>
-        <note>Action Sheet Button for Requesting the Desktop Site
-   Share action title</note>
+        <note>Action Sheet Button for Requesting the Desktop Site</note>
       </trans-unit>
       <trans-unit id="Request Mobile Site">
         <source>Request Mobile Site</source>
         <target>Request Mobile Site</target>
-        <note>Action Sheet Button for Requesting the Mobile Site
-   Share action title</note>
+        <note>Action Sheet Button for Requesting the Mobile Site</note>
       </trans-unit>
       <trans-unit id="Reset text size">
         <source>Reset text size</source>
