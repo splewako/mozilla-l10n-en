@@ -502,8 +502,8 @@
         <note>label for social trackers.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleDescription">
-        <source>Disable just for this browsing session if the page isn't behaving as expected.</source>
-        <target>Disable just for this browsing session if the page isn't behaving as expected.</target>
+        <source>Disable just for this browsing session if the page isn’t behaving as expected.</source>
+        <target>Disable just for this browsing session if the page isn’t behaving as expected.</target>
         <note>Description for the tracking protection toggle.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.toggleLabel">
