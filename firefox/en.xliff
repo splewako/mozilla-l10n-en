@@ -2441,11 +2441,6 @@
         <target>Upgrade Firefox to connect.</target>
         <note>Text message in the settings table view</note>
       </trans-unit>
-      <trans-unit id="Use Compact Tabs">
-        <source>Use Compact Tabs</source>
-        <target>Use Compact Tabs</target>
-        <note>Setting to enable compact tabs in the tab overview</note>
-      </trans-unit>
       <trans-unit id="Username">
         <source>Username</source>
         <target>Username</target>
