@@ -2406,6 +2406,11 @@
         <target>Menu</target>
         <note>Accessibility label for the Menu button.</note>
       </trans-unit>
+      <trans-unit id="Toolbar.Menu.CloseAllTabs">
+        <source>Close All Tabs</source>
+        <target>Close All Tabs</target>
+        <note>Accessibility label for the Close All Tabs menu button.</note>
+      </trans-unit>
       <trans-unit id="Top sites">
         <source>Top sites</source>
         <target>Top sites</target>
