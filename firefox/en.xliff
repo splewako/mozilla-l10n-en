@@ -1612,6 +1612,11 @@
         <target>Opening %@</target>
         <note>Opening an external URL</note>
       </trans-unit>
+      <trans-unit id="Page Options Menu">
+        <source>Page Options Menu</source>
+        <target>Page Options Menu</target>
+        <note>Accessibility label for the Page Options menu button</note>
+      </trans-unit>
       <trans-unit id="Panel Chooser">
         <source>Panel Chooser</source>
         <target>Panel Chooser</target>
@@ -2203,11 +2208,6 @@
         <source>Troubleshoot</source>
         <target>Troubleshoot</target>
         <note>Title of link to help page to find out how to solve Sync issues</note>
-      </trans-unit>
-      <trans-unit id="Share">
-        <source>Share</source>
-        <target>Share</target>
-        <note>Accessibility Label for the tab toolbar Share button</note>
       </trans-unit>
       <trans-unit id="Share Link">
         <source>Share Link</source>
