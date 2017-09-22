@@ -167,9 +167,9 @@
         <target>Passcode</target>
         <note>Label for the Passcode item in Settings</note>
       </trans-unit>
-      <trans-unit id="Passcodes didn't match. Try again.">
-        <source>Passcodes didn't match. Try again.</source>
-        <target>Passcodes didn't match. Try again.</target>
+      <trans-unit id="Passcodes didn’t match. Try again.">
+        <source>Passcodes didn’t match. Try again.</source>
+        <target>Passcodes didn’t match. Try again.</target>
         <note>Error message displayed to user when their confirming passcode doesn't match the first code.</note>
       </trans-unit>
       <trans-unit id="Re-enter passcode">
@@ -271,9 +271,9 @@
         <target>Delete</target>
         <note>Button label for the button that deletes a folder and all of its children.</note>
       </trans-unit>
-      <trans-unit id="This folder isn't empty.">
-        <source>This folder isn't empty.</source>
-        <target>This folder isn't empty.</target>
+      <trans-unit id="This folder isn’t empty.">
+        <source>This folder isn’t empty.</source>
+        <target>This folder isn’t empty.</target>
         <note>Title of the confirmation alert when the user tries to delete a folder that still contains bookmarks and/or folders.</note>
       </trans-unit>
     </body>
@@ -518,13 +518,13 @@
         <note>See http://mzl.la/1T8gxwo</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Mail.Description">
-        <source>Use any email app - not just Mail - with Firefox.</source>
-        <target>Use any email app - not just Mail - with Firefox.</target>
+        <source>Use any email app — not just Mail — with Firefox.</source>
+        <target>Use any email app — not just Mail — with Firefox.</target>
         <note>Description for the 'Mail' panel in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Mail.Title">
-        <source>You've got mail… options</source>
-        <target>You've got mail… options</target>
+        <source>You’ve got mail… options</source>
+        <target>You’ve got mail… options</target>
         <note>Title for the fourth panel 'Mail' in the First Run tour.</note>
       </trans-unit>
       <trans-unit id="Intro.Slides.Private.Description">
@@ -712,8 +712,8 @@
         <note>The title for removing a pinned topsite action</note>
       </trans-unit>
       <trans-unit id="ActivityStream.HighlightIntro.Description">
-        <source>Firefox will place things here that you've discovered on the web so you can find your way back to the great articles, videos, bookmarks and other pages</source>
-        <target>Firefox will place things here that you've discovered on the web so you can find your way back to the great articles, videos, bookmarks and other pages</target>
+        <source>Firefox will place things here that you’ve discovered on the web so you can find your way back to the great articles, videos, bookmarks and other pages</source>
+        <target>Firefox will place things here that you’ve discovered on the web so you can find your way back to the great articles, videos, bookmarks and other pages</target>
         <note>The detailed text that explains what highlights are in AS.</note>
       </trans-unit>
       <trans-unit id="ActivityStream.HighlightIntro.Title">
@@ -932,9 +932,9 @@
         <target>Copy Link</target>
         <note>Context menu item for copying a link URL to the clipboard</note>
       </trans-unit>
-      <trans-unit id="Could not add page to Reading List. Maybe it's already there?">
-        <source>Could not add page to Reading List. Maybe it's already there?</source>
-        <target>Could not add page to Reading List. Maybe it's already there?</target>
+      <trans-unit id="Could not add page to Reading List. Maybe it’s already there?">
+        <source>Could not add page to Reading List. Maybe it’s already there?</source>
+        <target>Could not add page to Reading List. Maybe it’s already there?</target>
         <note>Accessibility message e.g. spoken by VoiceOver after the user wanted to add current page to the Reading List and this was not done, likely because it already was in the Reading List, but perhaps also because of real failures.</note>
       </trans-unit>
       <trans-unit id="Could not add page to Reading list">
@@ -1019,15 +1019,15 @@
         <target>Do you want to update the password on %@?</target>
         <note>Prompt for updating a password with on username. The parameter is the hostname of the site.</note>
       </trans-unit>
-      <trans-unit id="Don't Send">
-        <source>Don't Send</source>
-        <target>Don't Send</target>
-        <note>Used as a button label for crash dialog prompt</note>
-      </trans-unit>
       <trans-unit id="Done">
         <source>Done</source>
         <target>Done</target>
         <note>Done button on left side of the Settings view controller title bar</note>
+      </trans-unit>
+      <trans-unit id="Don’t Send">
+        <source>Don’t Send</source>
+        <target>Don’t Send</target>
+        <note>Used as a button label for crash dialog prompt</note>
       </trans-unit>
       <trans-unit id="Downloads.Alert.Cancel">
         <source>No</source>
@@ -1050,8 +1050,8 @@
         <note>The title of the alert box asking the user if they want to use another app to open a file.</note>
       </trans-unit>
       <trans-unit id="Downloads.Error.Message">
-        <source>Downloads aren't supported in Firefox yet.</source>
-        <target>Downloads aren't supported in Firefox yet.</target>
+        <source>Downloads aren’t supported in Firefox yet.</source>
+        <target>Downloads aren’t supported in Firefox yet.</target>
         <note>The message displayed to a user when they try and perform the download of an asset that Firefox cannot currently handle.</note>
       </trans-unit>
       <trans-unit id="Enter your password to connect.">
@@ -1065,8 +1065,8 @@
         <note>Label for button to perform advanced actions on the error page</note>
       </trans-unit>
       <trans-unit id="ErrorPages.AdvancedWarning1.Text">
-        <source>Warning: we can't confirm your connection to this website is secure.</source>
-        <target>Warning: we can't confirm your connection to this website is secure.</target>
+        <source>Warning: we can’t confirm your connection to this website is secure.</source>
+        <target>Warning: we can’t confirm your connection to this website is secure.</target>
         <note>Warning text when clicking the Advanced button on error pages</note>
       </trans-unit>
       <trans-unit id="ErrorPages.AdvancedWarning2.Text">
@@ -1245,8 +1245,8 @@
         <note>Panel accessibility label</note>
       </trans-unit>
       <trans-unit id="HistoryPanel.EmptyState.Title">
-        <source>Websites you've visited recently will show up here.</source>
-        <target>Websites you've visited recently will show up here.</target>
+        <source>Websites you’ve visited recently will show up here.</source>
+        <target>Websites you’ve visited recently will show up here.</target>
         <note>Title for the History Panel empty state.</note>
       </trans-unit>
       <trans-unit id="HistoryPanel.EmptySyncedTabsNullState.Description">
@@ -1642,9 +1642,9 @@
         <target>Cancel</target>
         <note>Button for closing the menu action sheet</note>
       </trans-unit>
-      <trans-unit id="Please allow Firefox to access your device's camera in 'Settings' -&gt; 'Privacy' -&gt; 'Camera'.">
-        <source>Please allow Firefox to access your device's camera in 'Settings' -&gt; 'Privacy' -&gt; 'Camera'.</source>
-        <target>Please allow Firefox to access your device's camera in 'Settings' -&gt; 'Privacy' -&gt; 'Camera'.</target>
+      <trans-unit id="Please allow Firefox to access your device’s camera in ‘Settings’ -&gt; ‘Privacy’ -&gt; ‘Camera’.">
+        <source>Please allow Firefox to access your device’s camera in ‘Settings’ -&gt; ‘Privacy’ -&gt; ‘Camera’.</source>
+        <target>Please allow Firefox to access your device’s camera in ‘Settings’ -&gt; ‘Privacy’ -&gt; ‘Camera’.</target>
         <note>Text of the prompt user to setup the camera authorization.</note>
       </trans-unit>
       <trans-unit id="Please enter a custom account url before enabling.">
@@ -2427,8 +2427,8 @@
         <note>The title for the empty Top Sites state</note>
       </trans-unit>
       <trans-unit id="TopSites.RemovePage.Button">
-        <source>Remove page - %@</source>
-        <target>Remove page - %@</target>
+        <source>Remove page — %@</source>
+        <target>Remove page — %@</target>
         <note>Button shown in editing mode to remove this site from the top sites panel.</note>
       </trans-unit>
       <trans-unit id="Twitter">
@@ -2491,9 +2491,9 @@
         <target>Yesterday</target>
         <note>History tableview section header</note>
       </trans-unit>
-      <trans-unit id="You don't have any tabs open in Firefox on your other devices.">
-        <source>You don't have any tabs open in Firefox on your other devices.</source>
-        <target>You don't have any tabs open in Firefox on your other devices.</target>
+      <trans-unit id="You don’t have any tabs open in Firefox on your other devices.">
+        <source>You don’t have any tabs open in Firefox on your other devices.</source>
+        <target>You don’t have any tabs open in Firefox on your other devices.</target>
         <note>Error message in the remote tabs panel</note>
       </trans-unit>
       <trans-unit id="YouTube">
@@ -2680,9 +2680,9 @@
         <target>Close Private Tabs</target>
         <note>Setting for closing private tabs</note>
       </trans-unit>
-      <trans-unit id="Firefox won't remember any of your history or cookies, but new bookmarks will be saved.">
-        <source>Firefox won't remember any of your history or cookies, but new bookmarks will be saved.</source>
-        <target>Firefox won't remember any of your history or cookies, but new bookmarks will be saved.</target>
+      <trans-unit id="Firefox won’t remember any of your history or cookies, but new bookmarks will be saved.">
+        <source>Firefox won’t remember any of your history or cookies, but new bookmarks will be saved.</source>
+        <target>Firefox won’t remember any of your history or cookies, but new bookmarks will be saved.</target>
         <note>Description text displayed when there are no open tabs while in private mode</note>
       </trans-unit>
       <trans-unit id="Learn More">
@@ -2817,9 +2817,9 @@
         <target>You are not signed in to your Firefox Account.</target>
         <note>See http://mzl.la/1ISlXnU</note>
       </trans-unit>
-      <trans-unit id="You don't have any other devices connected to this Firefox Account available to sync.">
-        <source>You don't have any other devices connected to this Firefox Account available to sync.</source>
-        <target>You don't have any other devices connected to this Firefox Account available to sync.</target>
+      <trans-unit id="You don’t have any other devices connected to this Firefox Account available to sync.">
+        <source>You don’t have any other devices connected to this Firefox Account available to sync.</source>
+        <target>You don’t have any other devices connected to this Firefox Account available to sync.</target>
         <note>Error message shown in the remote tabs panel</note>
       </trans-unit>
     </body>
