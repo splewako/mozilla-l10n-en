@@ -320,11 +320,6 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
     </header>
     <body>
-      <trans-unit id="Are you sure you want to clear all of your data? This will also close all open tabs.">
-        <source>Are you sure you want to clear all of your data? This will also close all open tabs.</source>
-        <target>Are you sure you want to clear all of your data? This will also close all open tabs.</target>
-        <note>Message shown in the dialog prompting users if they want to clear everything</note>
-      </trans-unit>
       <trans-unit id="Browsing History">
         <source>Browsing History</source>
         <target>Browsing History</target>
@@ -334,21 +329,6 @@
         <source>Cache</source>
         <target>Cache</target>
         <note>Settings item for clearing the cache</note>
-      </trans-unit>
-      <trans-unit id="Cancel">
-        <source>Cancel</source>
-        <target>Cancel</target>
-        <note>Used as a button label in the dialog to cancel clear private data dialog</note>
-      </trans-unit>
-      <trans-unit id="Clear">
-        <source>Clear</source>
-        <target>Clear</target>
-        <note>Used as a button label in the dialog to Clear private data dialog</note>
-      </trans-unit>
-      <trans-unit id="Clear Everything">
-        <source>Clear Everything</source>
-        <target>Clear Everything</target>
-        <note>Title of the Clear private data dialog.</note>
       </trans-unit>
       <trans-unit id="Clear Private Data">
         <source>Clear Private Data</source>
