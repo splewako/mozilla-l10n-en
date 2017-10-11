@@ -132,6 +132,11 @@
         <target>Enter passcode</target>
         <note>Text displayed above the input field when changing the existing passcode</note>
       </trans-unit>
+      <trans-unit id="Face ID &amp; Passcode">
+        <source>Face ID &amp; Passcode</source>
+        <target>Face ID &amp; Passcode</target>
+        <note>Label for the Face ID/Passcode item in Settings</note>
+      </trans-unit>
       <trans-unit id="Immediately">
         <source>Immediately</source>
         <target>Immediately</target>
@@ -162,9 +167,9 @@
         <target>New passcode must be different than existing code.</target>
         <note>Error message displayed when user tries to enter the same passcode as their existing code when changing it.</note>
       </trans-unit>
-      <trans-unit id="Passcode">
-        <source>Passcode</source>
-        <target>Passcode</target>
+      <trans-unit id="Passcode For Logins">
+        <source>Passcode For Logins</source>
+        <target>Passcode For Logins</target>
         <note>Label for the Passcode item in Settings</note>
       </trans-unit>
       <trans-unit id="Passcodes didn’t match. Try again.">
@@ -206,6 +211,11 @@
         <source>Turn off your passcode.</source>
         <target>Turn off your passcode.</target>
         <note>Touch ID prompt subtitle when turning off passcode</note>
+      </trans-unit>
+      <trans-unit id="Use Face ID">
+        <source>Use Face ID</source>
+        <target>Use Face ID</target>
+        <note>List section title for when to use Face ID</note>
       </trans-unit>
       <trans-unit id="Use Touch ID">
         <source>Use Touch ID</source>
