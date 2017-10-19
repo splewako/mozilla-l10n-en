@@ -1537,6 +1537,11 @@
         <target>Bookmark Removed</target>
         <note>Toast displayed to the user after a bookmark has been removed.</note>
       </trans-unit>
+      <trans-unit id="Menu.SendToDeviceAction.Title">
+        <source>Send to Device</source>
+        <target>Send to Device</target>
+        <note>Label for the button, displayed in the menu, used to open the Send to Device flow.</note>
+      </trans-unit>
       <trans-unit id="Missing error">
         <source>Missing error</source>
         <target>Missing error</target>
