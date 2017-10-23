@@ -381,6 +381,11 @@
         <target>Send usage data</target>
         <note>Label for Send Usage Data toggle on main screen</note>
       </trans-unit>
+      <trans-unit id="Settings.whatsNewTitle">
+        <source>What's New</source>
+        <target>What's New</target>
+        <note>Title for What's new screen</note>
+      </trans-unit>
       <trans-unit id="ShareMenu.GetFirefox">
         <source>Get the Firefox App</source>
         <target>Get the Firefox App</target>
