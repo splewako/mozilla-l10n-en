@@ -2731,11 +2731,6 @@
         <target>%@ search</target>
         <note>Label for search engine buttons. The argument corresponds to the name of the search engine.</note>
       </trans-unit>
-      <trans-unit id="No">
-        <source>No</source>
-        <target>No</target>
-        <note>For search suggestions prompt. This string should be short so it fits nicely on the prompt row.</note>
-      </trans-unit>
       <trans-unit id="Search Settings">
         <source>Search Settings</source>
         <target>Search Settings</target>
@@ -2745,16 +2740,6 @@
         <source>Search suggestions from %@</source>
         <target>Search suggestions from %@</target>
         <note>Accessibility label for image of default search engine displayed left to the actual search suggestions from the engine. The parameter substituted for \"%@\" is the name of the search engine. E.g.: Search suggestions from Google</note>
-      </trans-unit>
-      <trans-unit id="Turn on search suggestions?">
-        <source>Turn on search suggestions?</source>
-        <target>Turn on search suggestions?</target>
-        <note>Prompt shown before enabling provider search queries</note>
-      </trans-unit>
-      <trans-unit id="Yes">
-        <source>Yes</source>
-        <target>Yes</target>
-        <note>For search suggestions prompt. This string should be short so it fits nicely on the prompt row.</note>
       </trans-unit>
     </body>
   </file>
