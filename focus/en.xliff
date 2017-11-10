@@ -414,8 +414,8 @@
         <note>Label for Send Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.whatsNewTitle">
-        <source>What's New</source>
-        <target>What's New</target>
+        <source>What’s New</source>
+        <target>What’s New</target>
         <note>Title for What's new screen</note>
       </trans-unit>
       <trans-unit id="ShareMenu.GetFirefox">
