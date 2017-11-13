@@ -1677,11 +1677,6 @@
         <target>Cancel</target>
         <note>Button for closing the menu action sheet</note>
       </trans-unit>
-      <trans-unit id="Please allow Firefox to access your device’s camera in ‘Settings’ -&gt; ‘Privacy’ -&gt; ‘Camera’.">
-        <source>Please allow Firefox to access your device’s camera in ‘Settings’ -&gt; ‘Privacy’ -&gt; ‘Camera’.</source>
-        <target>Please allow Firefox to access your device’s camera in ‘Settings’ -&gt; ‘Privacy’ -&gt; ‘Camera’.</target>
-        <note>Text of the prompt user to setup the camera authorization.</note>
-      </trans-unit>
       <trans-unit id="Privacy">
         <source>Privacy</source>
         <target>Privacy</target>
@@ -1767,10 +1762,25 @@
         <target>Save pages to your Reading List by tapping the book plus icon in the Reader View controls.</target>
         <note>See http://mzl.la/1LXbDOL</note>
       </trans-unit>
+      <trans-unit id="ScanQRCode.Error.OK.Button">
+        <source>OK</source>
+        <target>OK</target>
+        <note>OK button to dismiss the error prompt.</note>
+      </trans-unit>
       <trans-unit id="ScanQRCode.Instructions.Label">
         <source>Align QR code within frame to scan</source>
         <target>Align QR code within frame to scan</target>
         <note>Text for the instructions label, displayed in the QR scanner view</note>
+      </trans-unit>
+      <trans-unit id="ScanQRCode.InvalidDataError.Message">
+        <source>The data is invalid</source>
+        <target>The data is invalid</target>
+        <note>Text of the prompt user the data is invalid</note>
+      </trans-unit>
+      <trans-unit id="ScanQRCode.PermissionError.Message">
+        <source>Please allow Firefox to access your device’s camera in ‘Settings’ -&gt; ‘Privacy’ -&gt; ‘Camera’.</source>
+        <target>Please allow Firefox to access your device’s camera in ‘Settings’ -&gt; ‘Privacy’ -&gt; ‘Camera’.</target>
+        <note>Text of the prompt user to setup the camera authorization.</note>
       </trans-unit>
       <trans-unit id="ScanQRCode.View.Title">
         <source>Scan QR Code</source>
@@ -2404,11 +2414,6 @@
         <source>%d tab(s) closed</source>
         <target>%d tab(s) closed</target>
         <note>The label indicating that all the tabs were closed</note>
-      </trans-unit>
-      <trans-unit id="The data is invalid">
-        <source>The data is invalid</source>
-        <target>The data is invalid</target>
-        <note>Text of the prompt user the data is invalid</note>
       </trans-unit>
       <trans-unit id="The page could not be displayed in Reader View.">
         <source>The page could not be displayed in Reader View.</source>
