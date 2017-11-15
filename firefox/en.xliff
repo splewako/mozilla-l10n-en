@@ -1552,6 +1552,16 @@
         <target>Show Images</target>
         <note>Label for the button, displayed in the menu, shows images on the webpage when pressed</note>
       </trans-unit>
+      <trans-unit id="Menu.ReloadWithTrackingProtection.Title">
+        <source>Reload With Tracking Protection</source>
+        <target>Reload With Tracking Protection</target>
+        <note>Label for the button, displayed in the menu, used to reload the current website with Tracking Protection enabled</note>
+      </trans-unit>
+      <trans-unit id="Menu.ReloadWithoutTrackingProtection.Title">
+        <source>Reload Without Tracking Protection</source>
+        <target>Reload Without Tracking Protection</target>
+        <note>Label for the button, displayed in the menu, used to reload the current website without Tracking Protection</note>
+      </trans-unit>
       <trans-unit id="Menu.RemoveBookmark.Confirm">
         <source>Bookmark Removed</source>
         <target>Bookmark Removed</target>
