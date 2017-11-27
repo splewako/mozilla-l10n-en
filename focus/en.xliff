@@ -213,10 +213,20 @@
         <target>DEFAULT URL LIST</target>
         <note>Title for the default URL list section</note>
       </trans-unit>
+      <trans-unit id="Autocomplete.disabled">
+        <source>Disabled</source>
+        <target>Disabled</target>
+        <note>label describing URL Autocomplete as disabled</note>
+      </trans-unit>
       <trans-unit id="Autocomplete.emptyState">
         <source>No Custom URLs to display</source>
         <target>No Custom URLs to display</target>
         <note>Label for button to add a custom URL</note>
+      </trans-unit>
+      <trans-unit id="Autocomplete.enabled">
+        <source>Enabled</source>
+        <target>Enabled</target>
+        <note>label describing URL Autocomplete as enabled</note>
       </trans-unit>
       <trans-unit id="Browser.backLabel">
         <source>Back</source>
@@ -253,11 +263,6 @@
         <target>Cancel</target>
         <note>Label on button to cancel edits</note>
       </trans-unit>
-      <trans-unit id="Disabled">
-        <source>Disabled</source>
-        <target>Disabled</target>
-        <note>label describing something as disabled</note>
-      </trans-unit>
       <trans-unit id="Done">
         <source>Done</source>
         <target>Done</target>
@@ -267,11 +272,6 @@
         <source>Edit</source>
         <target>Edit</target>
         <note>Label on button to allow edits</note>
-      </trans-unit>
-      <trans-unit id="Enabled">
-        <source>Enabled</source>
-        <target>Enabled</target>
-        <note>label describing something as enabled</note>
       </trans-unit>
       <trans-unit id="Error.tryAgainButton">
         <source>Try again</source>
