@@ -25,6 +25,10 @@
         <source>This lets you take and upload videos.</source>
         <target>This lets you take and upload videos.</target>
       </trans-unit>
+      <trans-unit id="NSPhotoLibraryAddUsageDescription">
+        <source>This lets you save and upload photos.</source>
+        <target>This lets you save and upload photos.</target>
+      </trans-unit>
       <trans-unit id="NSPhotoLibraryUsageDescription">
         <source>This lets you save and upload photos.</source>
         <target>This lets you save and upload photos.</target>
