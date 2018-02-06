@@ -1552,6 +1552,11 @@
         <target>Bookmark Removed</target>
         <note>Toast displayed to the user after a bookmark has been removed.</note>
       </trans-unit>
+      <trans-unit id="Menu.ToolsAction.Title">
+        <source>Tools</source>
+        <target>Tools</target>
+        <note>Label for the button, displayed in the menu, used to navigate to the tools sub-menu</note>
+      </trans-unit>
       <trans-unit id="Missing error">
         <source>Missing error</source>
         <target>Missing error</target>
@@ -1667,9 +1672,9 @@
         <target>Paste &amp; Go</target>
         <note>Paste the URL into the location bar and visit</note>
       </trans-unit>
-      <trans-unit id="PhotonMenu.cancel">
-        <source>Cancel</source>
-        <target>Cancel</target>
+      <trans-unit id="PhotonMenu.close">
+        <source>Close</source>
+        <target>Close</target>
         <note>Button for closing the menu action sheet</note>
       </trans-unit>
       <trans-unit id="Privacy">
