@@ -1727,6 +1727,11 @@
         <target>Remove from Reading List</target>
         <note>Name for button removing current article from reading list in reader mode</note>
       </trans-unit>
+      <trans-unit id="ReopenClosedTab.KeyCodeTitle">
+        <source>Reopen Closed Tab</source>
+        <target>Reopen Closed Tab</target>
+        <note>Hardware shortcut to reopen the last closed tab, from the tab or the tab tray. Shown in the Discoverability overlay when the hardware Command Key is held down.</note>
+      </trans-unit>
       <trans-unit id="Request Desktop Site">
         <source>Request Desktop Site</source>
         <target>Request Desktop Site</target>
@@ -2340,6 +2345,16 @@
         <target>Swipe right or left with three fingers to close the tab.</target>
         <note>Accessibility hint for tab tray's displayed tab.</note>
       </trans-unit>
+      <trans-unit id="SwitchToNonPBM.KeyCodeTitle">
+        <source>Normal Browsing Mode</source>
+        <target>Normal Browsing Mode</target>
+        <note>Hardware shortcut for non-private tab or tab. Shown in the Discoverability overlay when the hardware Command Key is held down.</note>
+      </trans-unit>
+      <trans-unit id="SwitchToPBM.KeyCodeTitle">
+        <source>Private Browsing Mode</source>
+        <target>Private Browsing Mode</target>
+        <note>Hardware shortcut switch to the private browsing tab or tab tray. Shown in the Discoverability overlay when the hardware Command Key is held down.</note>
+      </trans-unit>
       <trans-unit id="Sync Now">
         <source>Sync Now</source>
         <target>Sync Now</target>
@@ -2419,6 +2434,31 @@
         <source>Tab %1$@ of %2$@</source>
         <target>Tab %1$@ of %2$@</target>
         <note>Message spoken by VoiceOver saying the position of the single currently visible tab in Tabs Tray, along with the total number of tabs. E.g. \"Tab 2 of 5\" says that tab 2 is visible (and is the only visible tab), out of 5 tabs total.</note>
+      </trans-unit>
+      <trans-unit id="Tab.ShowTabTray.KeyCodeTitle">
+        <source>Show All Tabs</source>
+        <target>Show All Tabs</target>
+        <note>Hardware shortcut to open the tab tray from a tab. Shown in the Discoverability overlay when the hardware Command Key is held down.</note>
+      </trans-unit>
+      <trans-unit id="TabTray.CloseAllTabs.KeyCodeTitle">
+        <source>Close All Tabs</source>
+        <target>Close All Tabs</target>
+        <note>Hardware shortcut to close all tabs from the tab tray. Shown in the Discoverability overlay when the hardware Command Key is held down.</note>
+      </trans-unit>
+      <trans-unit id="TabTray.CloseTab.KeyCodeTitle">
+        <source>Close Selected Tab</source>
+        <target>Close Selected Tab</target>
+        <note>Hardware shortcut to close the selected tab from the tab tray. Shown in the Discoverability overlay when the hardware Command Key is held down.</note>
+      </trans-unit>
+      <trans-unit id="TabTray.OpenNewTab.KeyCodeTitle">
+        <source>Open New Tab</source>
+        <target>Open New Tab</target>
+        <note>Hardware shortcut to open a new tab from the tab tray. Shown in the Discoverability overlay when the hardware Command Key is held down.</note>
+      </trans-unit>
+      <trans-unit id="TabTray.OpenSelectedTab.KeyCodeTitle">
+        <source>Open Selected Tab</source>
+        <target>Open Selected Tab</target>
+        <note>Hardware shortcut open the selected tab from the tab tray. Shown in the Discoverability overlay when the hardware Command Key is held down.</note>
       </trans-unit>
       <trans-unit id="Tabs %@ to %@ of %@">
         <source>Tabs %1$@ to %2$@ of %3$@</source>
