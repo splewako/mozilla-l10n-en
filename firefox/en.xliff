@@ -2068,11 +2068,6 @@
         <target>Firefox Account</target>
         <note>Title displayed in header of the FxA settings panel.</note>
       </trans-unit>
-      <trans-unit id="Settings.General.AlwaysShowToolbar">
-        <source>Always Show Toolbars When Scrolling</source>
-        <target>Always Show Toolbars When Scrolling</target>
-        <note>iPad-only settings on/off option to never hide the toolbars when scrolling a web page.</note>
-      </trans-unit>
       <trans-unit id="Settings.General.SectionName">
         <source>General</source>
         <target>General</target>
