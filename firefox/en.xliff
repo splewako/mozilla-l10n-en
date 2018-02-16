@@ -1144,6 +1144,11 @@
         <target>You need to verify %@. Check your email for the verification link from Firefox.</target>
         <note>Message explaining that user needs to check email for Firefox Account verfication link.</note>
       </trans-unit>
+      <trans-unit id="FxA.ConnectAnotherDevice">
+        <source>Connect Another Device</source>
+        <target>Connect Another Device</target>
+        <note>Button label to connect another device to Sync</note>
+      </trans-unit>
       <trans-unit id="FxA.FirefoxAccount">
         <source>Firefox Account</source>
         <target>Firefox Account</target>
@@ -1158,6 +1163,11 @@
         <source>No Internet Connection</source>
         <target>No Internet Connection</target>
         <note>Label when no internet is present</note>
+      </trans-unit>
+      <trans-unit id="FxA.OpenSyncPreferences">
+        <source>Open Sync Preferences</source>
+        <target>Open Sync Preferences</target>
+        <note>Button label to open Sync sreferences</note>
       </trans-unit>
       <trans-unit id="FxA.ResendEmail">
         <source>Resend Email</source>
@@ -1254,10 +1264,25 @@
         <target>Your tabs from other devices show up here.</target>
         <note>Description for the empty synced tabs null state in the History Panel</note>
       </trans-unit>
-      <trans-unit id="HistoryPanel.EmptySyncedTabsState.Description">
-        <source>Sign in to view open tabs on your other devices.</source>
-        <target>Sign in to view open tabs on your other devices.</target>
-        <note>Description for the empty synced tabs state in the History Panel</note>
+      <trans-unit id="HistoryPanel.EmptySyncedTabsPanelNotSignedInState.Description">
+        <source>Sign in to view a list of tabs from your other devices.</source>
+        <target>Sign in to view a list of tabs from your other devices.</target>
+        <note>Description for the empty synced tabs 'not signed in' state in the History Panel</note>
+      </trans-unit>
+      <trans-unit id="HistoryPanel.EmptySyncedTabsPanelNotYetVerifiedState.Description">
+        <source>Your account needs to be verified.</source>
+        <target>Your account needs to be verified.</target>
+        <note>Description for the empty synced tabs 'not yet verified' state in the History Panel</note>
+      </trans-unit>
+      <trans-unit id="HistoryPanel.EmptySyncedTabsPanelSingleDeviceSyncState.Description">
+        <source>Want to see your tabs from other devices here?</source>
+        <target>Want to see your tabs from other devices here?</target>
+        <note>Description for the empty synced tabs 'single device Sync' state in the History Panel</note>
+      </trans-unit>
+      <trans-unit id="HistoryPanel.EmptySyncedTabsPanelTabSyncDisabledState.Description">
+        <source>Turn on tab syncing to view a list of tabs from your other devices.</source>
+        <target>Turn on tab syncing to view a list of tabs from your other devices.</target>
+        <note>Description for the empty synced tabs 'tab sync disabled' state in the History Panel</note>
       </trans-unit>
       <trans-unit id="HistoryPanel.EmptySyncedTabsState.Title">
         <source>Firefox Sync</source>
@@ -2322,8 +2347,7 @@
       <trans-unit id="Sign in">
         <source>Sign in</source>
         <target>Sign in</target>
-        <note>See http://mzl.la/1Qtkf0j
-   Text message / button in the settings table view</note>
+        <note>Text message / button in the settings table view</note>
       </trans-unit>
       <trans-unit id="Stop">
         <source>Stop</source>
