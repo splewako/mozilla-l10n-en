@@ -2350,13 +2350,13 @@
         <note>Description label shown at the top of tracking protection options screen.</note>
       </trans-unit>
       <trans-unit id="Settings.TrackingProtectionOption.OnInNormalBrowsingLabel">
-        <source>Normal Browsing</source>
-        <target>Normal Browsing</target>
+        <source>Normal Browsing Mode</source>
+        <target>Normal Browsing Mode</target>
         <note>Settings option to specify that Tracking Protection is on only in Private Browsing mode.</note>
       </trans-unit>
       <trans-unit id="Settings.TrackingProtectionOption.OnInPrivateBrowsingLabel">
-        <source>Private Browsing</source>
-        <target>Private Browsing</target>
+        <source>Private Browsing Mode</source>
+        <target>Private Browsing Mode</target>
         <note>Settings option to specify that Tracking Protection is on only in Private Browsing mode.</note>
       </trans-unit>
       <trans-unit id="Settings.TroubleShootSync.Title">
