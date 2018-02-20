@@ -1004,11 +1004,6 @@
         <target>Do you want to update the password on %@?</target>
         <note>Prompt for updating a password with on username. The parameter is the hostname of the site.</note>
       </trans-unit>
-      <trans-unit id="Don't Enable">
-        <source>Don't Enable</source>
-        <target>Don't Enable</target>
-        <note>Default push alert cancel button text</note>
-      </trans-unit>
       <trans-unit id="Done">
         <source>Done</source>
         <target>Done</target>
@@ -1043,11 +1038,6 @@
         <source>Downloads aren’t supported in Firefox yet.</source>
         <target>Downloads aren’t supported in Firefox yet.</target>
         <note>The message displayed to a user when they try and perform the download of an asset that Firefox cannot currently handle.</note>
-      </trans-unit>
-      <trans-unit id="Enable Push">
-        <source>Enable Push</source>
-        <target>Enable Push</target>
-        <note>Default push alert ok button text</note>
       </trans-unit>
       <trans-unit id="Enter your password to connect.">
         <source>Enter your password to connect.</source>
@@ -1098,16 +1088,6 @@
         <source>Facebook</source>
         <target>Facebook</target>
         <note>Tile title for Facebook</note>
-      </trans-unit>
-      <trans-unit id="Firefox Sync Requires Push">
-        <source>Firefox Sync Requires Push</source>
-        <target>Firefox Sync Requires Push</target>
-        <note>Default push to ask title</note>
-      </trans-unit>
-      <trans-unit id="Firefox will stay in sync faster with Push Notifications enabled.">
-        <source>Firefox will stay in sync faster with Push Notifications enabled.</source>
-        <target>Firefox will stay in sync faster with Push Notifications enabled.</target>
-        <note>Default push to ask message</note>
       </trans-unit>
       <trans-unit id="Firefox would like to access your Photos">
         <source>Firefox would like to access your Photos</source>
