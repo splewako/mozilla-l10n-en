@@ -1512,6 +1512,11 @@
         <target>Added To Reading List</target>
         <note>Toast displayed to the user after adding the item to their reading list.</note>
       </trans-unit>
+      <trans-unit id="Menu.Copy.Title">
+        <source>Copy Address</source>
+        <target>Copy Address</target>
+        <note>The title for the button that lets you copy the url from the location bar.</note>
+      </trans-unit>
       <trans-unit id="Menu.CopyURL.Confirm">
         <source>URL Copied To Clipboard</source>
         <target>URL Copied To Clipboard</target>
@@ -1610,11 +1615,12 @@
       <trans-unit id="Menu.TrackingProtectionEnable.Title">
         <source>Enable Tracking Protection</source>
         <target>Enable Tracking Protection</target>
-        <note>A button to enable tracking protection inside the menu.</note>
+        <note>A button to enable tracking protection inside the menu.
+   label for the menu item to show that lets you remove a website from the tracking protection blocklist</note>
       </trans-unit>
       <trans-unit id="Menu.TrackingProtectionEnabled.Title">
-        <source>Tracking Protection is now enabled for this site.</source>
-        <target>Tracking Protection is now enabled for this site.</target>
+        <source>Tracking Protection is now on for this site.</source>
+        <target>Tracking Protection is now on for this site.</target>
         <note>The confirmation toast once tracking protection has been enabled</note>
       </trans-unit>
       <trans-unit id="Menu.TrackingProtectionMoreInfo.Description">
@@ -1626,6 +1632,11 @@
         <source>No tracking elements detected on this page.</source>
         <target>No tracking elements detected on this page.</target>
         <note>The description of the Tracking Protection menu item when no scripts are blocked but tracking protection is enabled.</note>
+      </trans-unit>
+      <trans-unit id="Menu.TrackingProtectionOption.WhiteListOnDescription">
+        <source>The site includes elements that may track your browsing. You have disabled protection.</source>
+        <target>The site includes elements that may track your browsing. You have disabled protection.</target>
+        <note>label for the menu item to show when the website is whitelisted from blocking trackers.</note>
       </trans-unit>
       <trans-unit id="Menu.TrackingProtectionSocialBlocked.Title">
         <source>Social trackers</source>
