@@ -1132,7 +1132,7 @@
       <trans-unit id="FxA.ManageAccount">
         <source>Manage Account &amp; Devices</source>
         <target>Manage Account &amp; Devices</target>
-        <note>Button label to goto Firefox Account settings</note>
+        <note>Button label to go to Firefox Account settings</note>
       </trans-unit>
       <trans-unit id="FxA.NoInternetConnection">
         <source>No Internet Connection</source>
@@ -1142,7 +1142,7 @@
       <trans-unit id="FxA.OpenSyncPreferences">
         <source>Open Sync Preferences</source>
         <target>Open Sync Preferences</target>
-        <note>Button label to open Sync sreferences</note>
+        <note>Button label to open Sync preferences</note>
       </trans-unit>
       <trans-unit id="FxA.ResendEmail">
         <source>Resend Email</source>
@@ -1861,7 +1861,7 @@
       <trans-unit id="ScanQRCode.InvalidDataError.Message">
         <source>The data is invalid</source>
         <target>The data is invalid</target>
-        <note>Text of the prompt user the data is invalid</note>
+        <note>Text of the prompt that is shown to the user when the data is invalid</note>
       </trans-unit>
       <trans-unit id="ScanQRCode.PermissionError.Message">
         <source>Please allow Firefox to access your device’s camera in ‘Settings’ -&gt; ‘Privacy’ -&gt; ‘Camera’.</source>
@@ -2142,7 +2142,7 @@
       <trans-unit id="Settings.FxA.Sync.SectionName">
         <source>Sync Settings</source>
         <target>Sync Settings</target>
-        <note>Label used as an section title in the Firefox Accounts Settings screen.</note>
+        <note>Label used as a section title in the Firefox Accounts Settings screen.</note>
       </trans-unit>
       <trans-unit id="Settings.FxA.Title">
         <source>Firefox Account</source>
