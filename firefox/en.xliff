@@ -1610,8 +1610,7 @@
       <trans-unit id="Menu.TrackingProtectionEnable.Title">
         <source>Enable Tracking Protection</source>
         <target>Enable Tracking Protection</target>
-        <note>A button to enable tracking protection inside the menu.
-   label for the menu item to show that lets you remove a website from the tracking protection blocklist</note>
+        <note>A button to enable tracking protection inside the menu.</note>
       </trans-unit>
       <trans-unit id="Menu.TrackingProtectionEnabled.Title">
         <source>Tracking Protection is now on for this site.</source>
@@ -1642,6 +1641,11 @@
         <source>Total trackers blocked</source>
         <target>Total trackers blocked</target>
         <note>The title that shows the total number of scripts blocked</note>
+      </trans-unit>
+      <trans-unit id="Menu.TrackingProtectionWhitelistRemove.Title">
+        <source>Enable for this site</source>
+        <target>Enable for this site</target>
+        <note>label for the menu item that lets you remove a website from the tracking protection whitelist</note>
       </trans-unit>
       <trans-unit id="Missing error">
         <source>Missing error</source>
