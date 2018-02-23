@@ -1567,11 +1567,6 @@
         <target>Bookmark Removed</target>
         <note>Toast displayed to the user after a bookmark has been removed.</note>
       </trans-unit>
-      <trans-unit id="Menu.ToolsAction.Title">
-        <source>Tools</source>
-        <target>Tools</target>
-        <note>Label for the button, displayed in the menu, used to navigate to the tools sub-menu</note>
-      </trans-unit>
       <trans-unit id="Menu.TrackingProtection.Title">
         <source>Tracking Protection</source>
         <target>Tracking Protection</target>
