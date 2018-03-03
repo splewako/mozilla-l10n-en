@@ -1522,11 +1522,6 @@
         <target>URL Copied To Clipboard</target>
         <note>Toast displayed to user after copy url pressed.</note>
       </trans-unit>
-      <trans-unit id="Menu.NightModeTurnOff.Label">
-        <source>Disable Night Mode</source>
-        <target>Disable Night Mode</target>
-        <note>Label for the button, displayed in the menu, turns off night mode</note>
-      </trans-unit>
       <trans-unit id="Menu.NightModeTurnOn.Label">
         <source>Enable Night Mode</source>
         <target>Enable Night Mode</target>
@@ -1536,11 +1531,6 @@
         <source>Hide Images</source>
         <target>Hide Images</target>
         <note>Label for the button, displayed in the menu, hides images on the webpage when pressed.</note>
-      </trans-unit>
-      <trans-unit id="Menu.NoImageModeShowImages.Label">
-        <source>Show Images</source>
-        <target>Show Images</target>
-        <note>Label for the button, displayed in the menu, shows images on the webpage when pressed</note>
       </trans-unit>
       <trans-unit id="Menu.Paste.Title">
         <source>Paste</source>
