@@ -1039,9 +1039,9 @@
         <target>Downloads aren’t supported in Firefox yet.</target>
         <note>The message displayed to a user when they try and perform the download of an asset that Firefox cannot currently handle.</note>
       </trans-unit>
-      <trans-unit id="Enter your password to connect.">
-        <source>Enter your password to connect.</source>
-        <target>Enter your password to connect.</target>
+      <trans-unit id="Enter your password to connect">
+        <source>Enter your password to connect</source>
+        <target>Enter your password to connect</target>
         <note>Text message in the settings table view</note>
       </trans-unit>
       <trans-unit id="ErrorPages.Advanced.Button">
@@ -2599,9 +2599,9 @@
         <target>Update</target>
         <note>Button to update the user's password</note>
       </trans-unit>
-      <trans-unit id="Upgrade Firefox to connect.">
-        <source>Upgrade Firefox to connect.</source>
-        <target>Upgrade Firefox to connect.</target>
+      <trans-unit id="Upgrade Firefox to connect">
+        <source>Upgrade Firefox to connect</source>
+        <target>Upgrade Firefox to connect</target>
         <note>Text message in the settings table view</note>
       </trans-unit>
       <trans-unit id="Username">
@@ -2609,9 +2609,9 @@
         <target>Username</target>
         <note>Username textbox in Authentication prompt</note>
       </trans-unit>
-      <trans-unit id="Verify your email address.">
-        <source>Verify your email address.</source>
-        <target>Verify your email address.</target>
+      <trans-unit id="Verify your email address">
+        <source>Verify your email address</source>
+        <target>Verify your email address</target>
         <note>Text message in the settings table view</note>
       </trans-unit>
       <trans-unit id="Version %@ (%@)">
