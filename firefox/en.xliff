@@ -1946,7 +1946,7 @@
       <trans-unit id="SendTo.Cancel.Button">
         <source>Cancel</source>
         <target>Cancel</target>
-        <note>Button title for cancelling SendTo screen</note>
+        <note>Button title for cancelling share screen</note>
       </trans-unit>
       <trans-unit id="SendTo.Error.Message">
         <source>Only HTTP and HTTPS links can be shared.</source>
@@ -2348,10 +2348,45 @@
         <target>Share Link</target>
         <note>Context menu item for sharing a link URL</note>
       </trans-unit>
-      <trans-unit id="ShareTo.Cancel.Button">
-        <source>Cancel</source>
-        <target>Cancel</target>
-        <note>Button title for cancelling Share screen</note>
+      <trans-unit id="ShareExtension.AddToReadingListAction.Title">
+        <source>Add to Reading List</source>
+        <target>Add to Reading List</target>
+        <note>Action label on share extension to add page to the Firefox reading list.</note>
+      </trans-unit>
+      <trans-unit id="ShareExtension.AddToReadingListActionDone.Title">
+        <source>Added to Reading List</source>
+        <target>Added to Reading List</target>
+        <note>Share extension label shown after user has performed 'Add to Reading List' action.</note>
+      </trans-unit>
+      <trans-unit id="ShareExtension.BookmarkThisPageAction.Title">
+        <source>Bookmark This Page</source>
+        <target>Bookmark This Page</target>
+        <note>Action label on share extension to bookmark the page in Firefox.</note>
+      </trans-unit>
+      <trans-unit id="ShareExtension.BookmarkThisPageActionDone.Title">
+        <source>Bookmarked</source>
+        <target>Bookmarked</target>
+        <note>Share extension label shown after user has performed 'Bookmark this Page' action.</note>
+      </trans-unit>
+      <trans-unit id="ShareExtension.LoadInBackgroundAction.Title">
+        <source>Load in Background</source>
+        <target>Load in Background</target>
+        <note>Action label on share extension to load the page in Firefox when user switches apps to bring it to foreground.</note>
+      </trans-unit>
+      <trans-unit id="ShareExtension.LoadInBackgroundActionDone.Title">
+        <source>Loading in Firefox</source>
+        <target>Loading in Firefox</target>
+        <note>Share extension label shown after user has performed 'Load in Background' action.</note>
+      </trans-unit>
+      <trans-unit id="ShareExtension.OpenInFirefoxNowAction.Title">
+        <source>Open in Firefox Now</source>
+        <target>Open in Firefox Now</target>
+        <note>Action label on share extension to immediately open page in Firefox.</note>
+      </trans-unit>
+      <trans-unit id="ShareExtension.OpenInPrivateModeNowAction.Title">
+        <source>Open in Private Mode Now</source>
+        <target>Open in Private Mode Now</target>
+        <note>Action label on share extension to immediately open page in Firefox in private mode.</note>
       </trans-unit>
       <trans-unit id="Show Search Suggestions">
         <source>Show Search Suggestions</source>
@@ -2995,26 +3030,7 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Extensions/SendTo/Info.plist" source-language="en" datatype="plaintext" target-language="en">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
-    </header>
-    <body>
-      <trans-unit id="CFBundleDisplayName">
-        <source>Send Tab</source>
-        <target>Send Tab</target>
-      </trans-unit>
-      <trans-unit id="CFBundleName">
-        <source>$(PRODUCT_NAME)</source>
-        <target>$(PRODUCT_NAME)</target>
-      </trans-unit>
-      <trans-unit id="CFBundleShortVersionString">
-        <source>11.0</source>
-        <target>11.0</target>
-      </trans-unit>
-    </body>
-  </file>
-  <file original="Extensions/ShareTo/Info.plist" source-language="en" datatype="plaintext" target-language="en">
+  <file original="Extensions/Share/Info.plist" source-language="en" datatype="plaintext" target-language="en">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
     </header>
@@ -3030,28 +3046,6 @@
       <trans-unit id="CFBundleShortVersionString">
         <source>11.0</source>
         <target>11.0</target>
-      </trans-unit>
-    </body>
-  </file>
-  <file original="Extensions/ShareTo/ShareTo.strings" source-language="en" datatype="plaintext" target-language="en">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
-    </header>
-    <body>
-      <trans-unit id="Add">
-        <source>Add</source>
-        <target>Add</target>
-        <note>Add button in the share dialog</note>
-      </trans-unit>
-      <trans-unit id="Add to Bookmarks">
-        <source>Add to Bookmarks</source>
-        <target>Add to Bookmarks</target>
-        <note>On/off toggle to select adding this url to your bookmarks</note>
-      </trans-unit>
-      <trans-unit id="Add to Reading List">
-        <source>Add to Reading List</source>
-        <target>Add to Reading List</target>
-        <note>On/off toggle to select adding this url to your reading list</note>
       </trans-unit>
     </body>
   </file>
@@ -3093,25 +3087,6 @@
         <source>New Tab</source>
         <target>New Tab</target>
         <note>New Tab button label</note>
-      </trans-unit>
-    </body>
-  </file>
-  <file original="Extensions/ViewLater/Info.plist" source-language="en" datatype="plaintext" target-language="en">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
-    </header>
-    <body>
-      <trans-unit id="CFBundleDisplayName">
-        <source>View Later</source>
-        <target>View Later</target>
-      </trans-unit>
-      <trans-unit id="CFBundleName">
-        <source>$(PRODUCT_NAME)</source>
-        <target>$(PRODUCT_NAME)</target>
-      </trans-unit>
-      <trans-unit id="CFBundleShortVersionString">
-        <source>11.0</source>
-        <target>11.0</target>
       </trans-unit>
     </body>
   </file>
