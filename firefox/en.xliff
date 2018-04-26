@@ -1014,25 +1014,10 @@
         <target>Don’t Send</target>
         <note>Used as a button label for crash dialog prompt</note>
       </trans-unit>
-      <trans-unit id="Downloads.Alert.Cancel">
-        <source>No</source>
-        <target>No</target>
-        <note>The label of the button the user will press to reject the option to open a file in another application</note>
-      </trans-unit>
-      <trans-unit id="Downloads.Alert.Confirm">
-        <source>Yes</source>
-        <target>Yes</target>
-        <note>The label of the button the user will press to be presented with a list of other apps to open a file in</note>
-      </trans-unit>
-      <trans-unit id="Downloads.Alert.Message">
-        <source>Firefox is unable to download or display this file. Would you like to open it in another app?</source>
-        <target>Firefox is unable to download or display this file. Would you like to open it in another app?</target>
-        <note>The message of the alert box asking the user if they want to use another app to open a file.</note>
-      </trans-unit>
-      <trans-unit id="Downloads.Alert.Title">
-        <source>Firefox Downloads</source>
-        <target>Firefox Downloads</target>
-        <note>The title of the alert box asking the user if they want to use another app to open a file.</note>
+      <trans-unit id="Downloads.Alert.DownloadNow">
+        <source>Download Now</source>
+        <target>Download Now</target>
+        <note>The label of the button the user will press to start downloading a file</note>
       </trans-unit>
       <trans-unit id="Downloads.Error.Message">
         <source>Downloads aren’t supported in Firefox yet.</source>
