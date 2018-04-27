@@ -385,6 +385,23 @@
       </trans-unit>
     </body>
   </file>
+  <file original="Client/DownloadsPanel.strings" source-language="en" datatype="plaintext" target-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
+    </header>
+    <body>
+      <trans-unit id="Delete">
+        <source>Delete</source>
+        <target>Delete</target>
+        <note>Action button for deleting downloaded files in the Downloads panel.</note>
+      </trans-unit>
+      <trans-unit id="Share">
+        <source>Share</source>
+        <target>Share</target>
+        <note>Action button for sharing downloaded files in the Downloads panel.</note>
+      </trans-unit>
+    </body>
+  </file>
   <file original="Client/ErrorPages.strings" source-language="en" datatype="plaintext" target-language="en">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
@@ -1014,6 +1031,11 @@
         <target>Don’t Send</target>
         <note>Used as a button label for crash dialog prompt</note>
       </trans-unit>
+      <trans-unit id="Downloads">
+        <source>Downloads</source>
+        <target>Downloads</target>
+        <note>Panel accessibility label</note>
+      </trans-unit>
       <trans-unit id="Downloads.Alert.DownloadNow">
         <source>Download Now</source>
         <target>Download Now</target>
@@ -1023,6 +1045,11 @@
         <source>Downloads aren’t supported in Firefox yet.</source>
         <target>Downloads aren’t supported in Firefox yet.</target>
         <note>The message displayed to a user when they try and perform the download of an asset that Firefox cannot currently handle.</note>
+      </trans-unit>
+      <trans-unit id="DownloadsPanel.EmptyState.Title">
+        <source>Downloaded files will show up here.</source>
+        <target>Downloaded files will show up here.</target>
+        <note>Title for the Downloads Panel empty state.</note>
       </trans-unit>
       <trans-unit id="Enter your password to connect">
         <source>Enter your password to connect</source>
@@ -3139,6 +3166,11 @@
         <source>Bookmarks</source>
         <target>Bookmarks</target>
         <note>Accessibility label for the button, displayed in the menu, used to open the Bbookmarks home panel.</note>
+      </trans-unit>
+      <trans-unit id="Menu.OpenDownloadsAction.AccessibilityLabel">
+        <source>Downloads</source>
+        <target>Downloads</target>
+        <note>Accessibility label for the button, displayed in the menu, used to open the Downloads home panel.</note>
       </trans-unit>
       <trans-unit id="Menu.OpenHistoryAction.AccessibilityLabel">
         <source>History</source>
