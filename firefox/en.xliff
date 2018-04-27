@@ -1517,6 +1517,11 @@
         <target>Hide Images</target>
         <note>Label for the button, displayed in the menu, hides images on the webpage when pressed.</note>
       </trans-unit>
+      <trans-unit id="Menu.PageActions.Title">
+        <source>Page Actions</source>
+        <target>Page Actions</target>
+        <note>Label for title in page action menu.</note>
+      </trans-unit>
       <trans-unit id="Menu.Paste.Title">
         <source>Paste</source>
         <target>Paste</target>
