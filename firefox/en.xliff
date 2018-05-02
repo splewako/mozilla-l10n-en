@@ -351,6 +351,11 @@
         <target>Cookies</target>
         <note>Settings item for clearing cookies</note>
       </trans-unit>
+      <trans-unit id="Downloaded Files">
+        <source>Downloaded Files</source>
+        <target>Downloaded Files</target>
+        <note>Settings item for deleting downloaded files</note>
+      </trans-unit>
       <trans-unit id="Offline Website Data">
         <source>Offline Website Data</source>
         <target>Offline Website Data</target>
