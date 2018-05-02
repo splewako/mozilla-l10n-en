@@ -2385,25 +2385,20 @@
         <target>Bookmarked</target>
         <note>Share extension label shown after user has performed 'Bookmark this Page' action.</note>
       </trans-unit>
-      <trans-unit id="ShareExtension.LoadInBackgroundAction.Title">
-        <source>Load in Background</source>
-        <target>Load in Background</target>
-        <note>Action label on share extension to load the page in Firefox when user switches apps to bring it to foreground.</note>
-      </trans-unit>
-      <trans-unit id="ShareExtension.LoadInBackgroundActionDone.Title">
-        <source>Loading in Firefox</source>
-        <target>Loading in Firefox</target>
-        <note>Share extension label shown after user has performed 'Load in Background' action.</note>
-      </trans-unit>
-      <trans-unit id="ShareExtension.OpenInFirefoxNowAction.Title">
-        <source>Open in Firefox Now</source>
-        <target>Open in Firefox Now</target>
+      <trans-unit id="ShareExtension.OpenInFirefoxAction.Title">
+        <source>Open in Firefox</source>
+        <target>Open in Firefox</target>
         <note>Action label on share extension to immediately open page in Firefox.</note>
       </trans-unit>
-      <trans-unit id="ShareExtension.OpenInPrivateModeNowAction.Title">
-        <source>Open in Private Mode Now</source>
-        <target>Open in Private Mode Now</target>
+      <trans-unit id="ShareExtension.OpenInPrivateModeAction.Title">
+        <source>Open in Private Mode</source>
+        <target>Open in Private Mode</target>
         <note>Action label on share extension to immediately open page in Firefox in private mode.</note>
+      </trans-unit>
+      <trans-unit id="ShareExtension.SeachInFirefoxAction.Title">
+        <source>Search in Firefox</source>
+        <target>Search in Firefox</target>
+        <note>Action label on share extension to search for the selected text in Firefox.</note>
       </trans-unit>
       <trans-unit id="Show Search Suggestions">
         <source>Show Search Suggestions</source>
