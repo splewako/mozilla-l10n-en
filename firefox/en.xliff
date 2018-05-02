@@ -1041,10 +1041,55 @@
         <target>Download Now</target>
         <note>The label of the button the user will press to start downloading a file</note>
       </trans-unit>
+      <trans-unit id="Downloads.CancelDialog.Cancel">
+        <source>Cancel</source>
+        <target>Cancel</target>
+        <note>Button confirming the cancellation of the download.</note>
+      </trans-unit>
+      <trans-unit id="Downloads.CancelDialog.Message">
+        <source>Are you sure you want to cancel this download?</source>
+        <target>Are you sure you want to cancel this download?</target>
+        <note>Alert dialog body when the user taps the cancel download icon.</note>
+      </trans-unit>
+      <trans-unit id="Downloads.CancelDialog.Resume">
+        <source>Resume</source>
+        <target>Resume</target>
+        <note>Button declining the cancellation of the download.</note>
+      </trans-unit>
+      <trans-unit id="Downloads.CancelDialog.Title">
+        <source>Cancel Download</source>
+        <target>Cancel Download</target>
+        <note>Alert dialog title when the user taps the cancel download icon.</note>
+      </trans-unit>
       <trans-unit id="Downloads.Error.Message">
         <source>Downloads aren’t supported in Firefox yet.</source>
         <target>Downloads aren’t supported in Firefox yet.</target>
         <note>The message displayed to a user when they try and perform the download of an asset that Firefox cannot currently handle.</note>
+      </trans-unit>
+      <trans-unit id="Downloads.Toast.Cancelled.LabelText">
+        <source>Download Cancelled</source>
+        <target>Download Cancelled</target>
+        <note>The label text in the Download Cancelled toast for showing confirmation that the download was cancelled.</note>
+      </trans-unit>
+      <trans-unit id="Downloads.Toast.Failed.LabelText">
+        <source>Download Failed</source>
+        <target>Download Failed</target>
+        <note>The label text in the Download Failed toast for showing confirmation that the download has failed.</note>
+      </trans-unit>
+      <trans-unit id="Downloads.Toast.Failed.RetryButton">
+        <source>Retry</source>
+        <target>Retry</target>
+        <note>The button to retry a failed download from the Download Failed toast.</note>
+      </trans-unit>
+      <trans-unit id="Downloads.Toast.GoToDownloads.Button">
+        <source>Downloads</source>
+        <target>Downloads</target>
+        <note>The button to open a new tab with the Downloads home panel</note>
+      </trans-unit>
+      <trans-unit id="Downloads.Toast.MultipleFiles.DescriptionText">
+        <source>1 of %d files</source>
+        <target>1 of %d files</target>
+        <note>The description text in the Download progress toast for showing the number of files when multiple files are downloading.</note>
       </trans-unit>
       <trans-unit id="DownloadsPanel.EmptyState.Title">
         <source>Downloaded files will show up here.</source>
