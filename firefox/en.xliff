@@ -1036,6 +1036,11 @@
         <target>Don’t Send</target>
         <note>Used as a button label for crash dialog prompt</note>
       </trans-unit>
+      <trans-unit id="Download Link">
+        <source>Download Link</source>
+        <target>Download Link</target>
+        <note>Context menu item for downloading a link URL</note>
+      </trans-unit>
       <trans-unit id="Downloads">
         <source>Downloads</source>
         <target>Downloads</target>
