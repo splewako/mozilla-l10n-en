@@ -1091,6 +1091,16 @@
         <target>1 of %d files</target>
         <note>The description text in the Download progress toast for showing the number of files when multiple files are downloading.</note>
       </trans-unit>
+      <trans-unit id="Downloads.Toast.MultipleFilesAndProgress.DescriptionText">
+        <source>%1$@ %2$@</source>
+        <target>%1$@ %2$@</target>
+        <note>The description text in the Download progress toast for showing the number of files (1$) and download progress (2$).</note>
+      </trans-unit>
+      <trans-unit id="Downloads.Toast.Progress.DescriptionText">
+        <source>%1$@/%2$@</source>
+        <target>%1$@/%2$@</target>
+        <note>The description text in the Download progress toast for showing the downloaded file size (1$) out of the total expected file size (2$).</note>
+      </trans-unit>
       <trans-unit id="DownloadsPanel.EmptyState.Title">
         <source>Downloaded files will show up here.</source>
         <target>Downloaded files will show up here.</target>
