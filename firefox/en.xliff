@@ -1537,6 +1537,11 @@
         <target>Don’t Save</target>
         <note>Button to not save the user's password</note>
       </trans-unit>
+      <trans-unit id="LoginsHelper.DontUpdate.Button">
+        <source>Don’t Update</source>
+        <target>Don’t Update</target>
+        <note>Button to not update the user's password</note>
+      </trans-unit>
       <trans-unit id="LoginsHelper.PromptSaveLogin.Title">
         <source>Save login %1$@ for %2$@?</source>
         <target>Save login %1$@ for %2$@?</target>
