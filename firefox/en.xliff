@@ -1794,11 +1794,6 @@
         <target>Open in New Tab</target>
         <note>Context menu item for opening a link in a new tab</note>
       </trans-unit>
-      <trans-unit id="Open in…">
-        <source>Open in…</source>
-        <target>Open in…</target>
-        <note>String indicating that the file can be opened in another application on the device</note>
-      </trans-unit>
       <trans-unit id="OpenURL.Error.Message">
         <source>Firefox cannot open the page because it has an invalid address.</source>
         <target>Firefox cannot open the page because it has an invalid address.</target>
