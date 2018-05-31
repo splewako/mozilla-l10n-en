@@ -377,6 +377,11 @@
         <target>Browse. Erase. Repeat.</target>
         <note>Second label for product description on the home screen</note>
       </trans-unit>
+      <trans-unit id="Intro.stackView">
+        <source>Intro.stackView</source>
+        <target>Intro.stackView</target>
+        <note>Accessibility identifier for onboarding page indicator stack view</note>
+      </trans-unit>
       <trans-unit id="Open.Cancel">
         <source>Cancel</source>
         <target>Cancel</target>
