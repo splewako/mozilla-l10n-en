@@ -387,6 +387,11 @@
         <target>Intro.stackView</target>
         <note>Accessibility identifier for onboarding page indicator stack view</note>
       </trans-unit>
+      <trans-unit id="Notification.requestDesktop">
+        <source>Notification.requestDesktop</source>
+        <target>Notification.requestDesktop</target>
+        <note>Notification name for requesting a website in desktop form.</note>
+      </trans-unit>
       <trans-unit id="Open.Cancel">
         <source>Cancel</source>
         <target>Cancel</target>
@@ -406,6 +411,11 @@
         <source>Safari</source>
         <target>Safari</target>
         <note>Label in share alert to open the URL in Safari</note>
+      </trans-unit>
+      <trans-unit id="Request Desktop Site">
+        <source>Request Desktop Site</source>
+        <target>Request Desktop Site</target>
+        <note>Action Sheet Button for Requesting the Desktop Site</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers">
         <source>Tap Safari, then select Content Blockers</source>
@@ -621,6 +631,11 @@
         <source>Open in %@</source>
         <target>Open in %@</target>
         <note>Text for the share menu option when a user wants to open a page in Focus.</note>
+      </trans-unit>
+      <trans-unit id="ShareMenu.RequestDesktop">
+        <source>Request Desktop Site</source>
+        <target>Request Desktop Site</target>
+        <note>Text for the share menu option when a user wants to reload the site as a desktop</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
         <source>Cancel</source>
