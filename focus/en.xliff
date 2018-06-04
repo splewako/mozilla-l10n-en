@@ -242,6 +242,11 @@
         <target>Back</target>
         <note>Accessibility label for the back button</note>
       </trans-unit>
+      <trans-unit id="Browser.copyMenuLabel">
+        <source>Copy</source>
+        <target>Copy</target>
+        <note>Copy URL button in URL long press menu</note>
+      </trans-unit>
       <trans-unit id="Browser.customURLMenuLabel">
         <source>Add Custom URL</source>
         <target>Add Custom URL</target>
