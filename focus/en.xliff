@@ -527,6 +527,11 @@
         <target>Learn more.</target>
         <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
+      <trans-unit id="Settings.rate">
+        <source>Rate Firefox Focus</source>
+        <target>Rate Firefox Focus</target>
+        <note>Title for rating firefox in settings</note>
+      </trans-unit>
       <trans-unit id="Settings.screenTitle">
         <source>Settings</source>
         <target>Settings</target>
