@@ -414,6 +414,11 @@
         <target>Intro.stackView</target>
         <note>Accessibility identifier for onboarding page indicator stack view</note>
       </trans-unit>
+      <trans-unit id="Notification.findInPage">
+        <source>Notification.findInPage</source>
+        <target>Notification.findInPage</target>
+        <note>Notification name for opening the find in page menu.</note>
+      </trans-unit>
       <trans-unit id="Notification.requestDesktop">
         <source>Notification.requestDesktop</source>
         <target>Notification.requestDesktop</target>
@@ -653,6 +658,11 @@
         <source>What’s New</source>
         <target>What’s New</target>
         <note>Title for What's new screen</note>
+      </trans-unit>
+      <trans-unit id="ShareMenu.FindInPage">
+        <source>Find in Page</source>
+        <target>Find in Page</target>
+        <note>Text for the share menu option when a user wants to open the find in page menu</note>
       </trans-unit>
       <trans-unit id="ShareMenu.GetFirefox">
         <source>Get the Firefox App</source>
