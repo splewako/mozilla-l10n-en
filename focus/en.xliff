@@ -39,6 +39,10 @@
         <source>This lets you take and upload photos.</source>
         <target>This lets you take and upload photos.</target>
       </trans-unit>
+      <trans-unit id="NSFaceIDUsageDescription">
+        <source>This lets you unlock the app.</source>
+        <target>This lets you unlock the app.</target>
+      </trans-unit>
       <trans-unit id="NSLocationWhenInUseUsageDescription">
         <source>Websites you visit may request your location.</source>
         <target>Websites you visit may request your location.</target>
@@ -258,6 +262,16 @@
         <source>Enabled</source>
         <target>Enabled</target>
         <note>label describing URL Autocomplete as enabled</note>
+      </trans-unit>
+      <trans-unit id="BiometricPrompt.cancel">
+        <source>New Session</source>
+        <target>New Session</target>
+        <note>Cancel option after failing biometric check</note>
+      </trans-unit>
+      <trans-unit id="BiometricPrompt.reason">
+        <source>Authenticate to continue session.</source>
+        <target>Authenticate to continue session.</target>
+        <note>Reason for requesting biometric access</note>
       </trans-unit>
       <trans-unit id="Browser.backLabel">
         <source>Back</source>
@@ -594,6 +608,11 @@
         <target>PRIVACY</target>
         <note>Section label for privacy toggles</note>
       </trans-unit>
+      <trans-unit id="Settings.sectionSecurity">
+        <source>SECURITY</source>
+        <target>SECURITY</target>
+        <note>Section label for security toggles</note>
+      </trans-unit>
       <trans-unit id="Settings.toggleBlockAds">
         <source>Block ad trackers</source>
         <target>Block ad trackers</target>
@@ -639,6 +658,16 @@
         <target>Embedded on sites to track your visits and to display functionality like share buttons</target>
         <note>Description for 'Block social Trackers'</note>
       </trans-unit>
+      <trans-unit id="Settings.toggleFaceID">
+        <source>Use Face ID to unlock app</source>
+        <target>Use Face ID to unlock app</target>
+        <note>Label for toggle on settings screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleFaceIDDescription">
+        <source>Face ID can unlock Firefox Focus if a URL is already open in the app</source>
+        <target>Face ID can unlock Firefox Focus if a URL is already open in the app</target>
+        <note>Description for 'Enable Face ID'</note>
+      </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
         <source>May break some videos and Web pages</source>
         <target>May break some videos and Web pages</target>
@@ -653,6 +682,16 @@
         <source>Send usage data</source>
         <target>Send usage data</target>
         <note>Label for Send Usage Data toggle on main screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleTouchID">
+        <source>Use Touch ID to unlock app</source>
+        <target>Use Touch ID to unlock app</target>
+        <note>Label for toggle on settings screen</note>
+      </trans-unit>
+      <trans-unit id="Settings.toggleTouchIDDescription">
+        <source>Touch ID can unlock Firefox Focus if a URL is already open in the app</source>
+        <target>Touch ID can unlock Firefox Focus if a URL is already open in the app</target>
+        <note>Description for 'Enable Touch ID'</note>
       </trans-unit>
       <trans-unit id="Settings.whatsNewTitle">
         <source>What’s New</source>
