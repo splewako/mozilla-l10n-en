@@ -1157,8 +1157,8 @@
         <note>Button label to temporarily continue to the site from the certificate error page</note>
       </trans-unit>
       <trans-unit id="ExternalLink.AppStore.ConfirmationTitle">
-        <source>Open this link in the App Store app?</source>
-        <target>Open this link in the App Store app?</target>
+        <source>Open this link in the App Store?</source>
+        <target>Open this link in the App Store?</target>
         <note>Question shown to user when tapping a link that opens the App Store app</note>
       </trans-unit>
       <trans-unit id="Facebook">
@@ -1754,6 +1754,11 @@
         <target>No tabs</target>
         <note>Message spoken by VoiceOver to indicate that there are no tabs in the Tabs Tray</note>
       </trans-unit>
+      <trans-unit id="Not Now">
+        <source>Not Now</source>
+        <target>Not Now</target>
+        <note>label for Not Now button</note>
+      </trans-unit>
       <trans-unit id="Not now">
         <source>Not now</source>
         <target>Not now</target>
@@ -1773,6 +1778,11 @@
         <source>Oops! Firefox crashed</source>
         <target>Oops! Firefox crashed</target>
         <note>Title for prompt displayed to user after the app crashes</note>
+      </trans-unit>
+      <trans-unit id="Open App Store">
+        <source>Open App Store</source>
+        <target>Open App Store</target>
+        <note>Open App Store button</note>
       </trans-unit>
       <trans-unit id="Open Settings">
         <source>Open Settings</source>
