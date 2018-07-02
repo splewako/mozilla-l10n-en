@@ -263,15 +263,15 @@
         <target>Enabled</target>
         <note>label describing URL Autocomplete as enabled</note>
       </trans-unit>
-      <trans-unit id="BiometricPrompt.cancel">
+      <trans-unit id="BiometricPrompt.newSession">
         <source>New Session</source>
         <target>New Session</target>
-        <note>Cancel option after failing biometric check</note>
+        <note>Create a new session after failing a biometric check</note>
       </trans-unit>
       <trans-unit id="BiometricPrompt.reason">
-        <source>Authenticate to continue session.</source>
-        <target>Authenticate to continue session.</target>
-        <note>Reason for requesting biometric access</note>
+        <source>Unlock %@ when re-opening in order to prevent unauthorized access.</source>
+        <target>Unlock %@ when re-opening in order to prevent unauthorized access.</target>
+        <note>%@ is app name. Explanation for why the app needs access to biometric information. Prompt is only shown once when the user first tries to enable Face ID to open the app.</note>
       </trans-unit>
       <trans-unit id="Browser.backLabel">
         <source>Back</source>
@@ -318,11 +318,6 @@
         <target>Cancel</target>
         <note>Label on button to cancel edits</note>
       </trans-unit>
-      <trans-unit id="Disabled">
-        <source>Disabled</source>
-        <target>Disabled</target>
-        <note>label describing something as disabled</note>
-      </trans-unit>
       <trans-unit id="Done">
         <source>Done</source>
         <target>Done</target>
@@ -332,11 +327,6 @@
         <source>Edit</source>
         <target>Edit</target>
         <note>Label on button to allow edits</note>
-      </trans-unit>
-      <trans-unit id="Enabled">
-        <source>Enabled</source>
-        <target>Enabled</target>
-        <note>label describing something as enabled</note>
       </trans-unit>
       <trans-unit id="Error.tryAgainButton">
         <source>Try again</source>
@@ -423,21 +413,6 @@
         <target>Browse. Erase. Repeat.</target>
         <note>Second label for product description on the home screen</note>
       </trans-unit>
-      <trans-unit id="Intro.stackView">
-        <source>Intro.stackView</source>
-        <target>Intro.stackView</target>
-        <note>Accessibility identifier for onboarding page indicator stack view</note>
-      </trans-unit>
-      <trans-unit id="Notification.findInPage">
-        <source>Notification.findInPage</source>
-        <target>Notification.findInPage</target>
-        <note>Notification name for opening the find in page menu.</note>
-      </trans-unit>
-      <trans-unit id="Notification.requestDesktop">
-        <source>Notification.requestDesktop</source>
-        <target>Notification.requestDesktop</target>
-        <note>Notification name for requesting a website in desktop form.</note>
-      </trans-unit>
       <trans-unit id="Open.Cancel">
         <source>Cancel</source>
         <target>Cancel</target>
@@ -461,7 +436,7 @@
       <trans-unit id="Request Desktop Site">
         <source>Request Desktop Site</source>
         <target>Request Desktop Site</target>
-        <note>Action Sheet Button for Requesting the Desktop Site</note>
+        <note>Label for button that requests the desktop version of the currently loaded website.</note>
       </trans-unit>
       <trans-unit id="Safari.instructionsContentBlockers">
         <source>Tap Safari, then select Content Blockers</source>
@@ -569,9 +544,9 @@
         <note>Subtitle for Send Anonymous Usage Data toggle on main screen</note>
       </trans-unit>
       <trans-unit id="Settings.rate">
-        <source>Rate Firefox Focus</source>
-        <target>Rate Firefox Focus</target>
-        <note>Title for rating firefox in settings</note>
+        <source>Rate %@</source>
+        <target>Rate %@</target>
+        <note>%@ is the name of the app (Focus / Klar). Title displayed in the settings screen that, when tapped, allows the user to leave a review for the app on the app store.</note>
       </trans-unit>
       <trans-unit id="Settings.screenTitle">
         <source>Settings</source>
@@ -611,7 +586,7 @@
       <trans-unit id="Settings.sectionSecurity">
         <source>SECURITY</source>
         <target>SECURITY</target>
-        <note>Section label for security toggles</note>
+        <note>Header label for security toggles displayed in the settings menu</note>
       </trans-unit>
       <trans-unit id="Settings.toggleBlockAds">
         <source>Block ad trackers</source>
@@ -664,9 +639,9 @@
         <note>Label for toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleFaceIDDescription">
-        <source>Face ID can unlock Firefox Focus if a URL is already open in the app</source>
-        <target>Face ID can unlock Firefox Focus if a URL is already open in the app</target>
-        <note>Description for 'Enable Face ID'</note>
+        <source>Face ID can unlock %@ if a URL is already open in the app</source>
+        <target>Face ID can unlock %@ if a URL is already open in the app</target>
+        <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Face ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
       <trans-unit id="Settings.toggleOtherSubtitle">
         <source>May break some videos and Web pages</source>
@@ -689,9 +664,9 @@
         <note>Label for toggle on settings screen</note>
       </trans-unit>
       <trans-unit id="Settings.toggleTouchIDDescription">
-        <source>Touch ID can unlock Firefox Focus if a URL is already open in the app</source>
-        <target>Touch ID can unlock Firefox Focus if a URL is already open in the app</target>
-        <note>Description for 'Enable Touch ID'</note>
+        <source>Touch ID can unlock %@ if a URL is already open in the app</source>
+        <target>Touch ID can unlock %@ if a URL is already open in the app</target>
+        <note>%@ is the name of the app (Focus / Klar). Description for 'Enable Touch ID' displayed under its respective toggle in the settings menu.</note>
       </trans-unit>
       <trans-unit id="Settings.whatsNewTitle">
         <source>What’s New</source>
@@ -741,7 +716,7 @@
       <trans-unit id="URL.findOnPageLabel">
         <source>Find in page: %@</source>
         <target>Find in page: %@</target>
-        <note>Label displayed for find in page button when typing in the URL Bar</note>
+        <note>Label displayed for find in page button when typing in the URL Bar. %@ is any text the user has typed into the URL bar that they want to find on the current page.</note>
       </trans-unit>
       <trans-unit id="URL.placeholderText">
         <source>Search or enter address</source>
@@ -824,14 +799,14 @@
         <note>Text for a share button</note>
       </trans-unit>
       <trans-unit id="share.trackerStatsLabel">
-        <source>%@ trackers blocked so far</source>
-        <target>%@ trackers blocked so far</target>
+        <source>Trackers blocked: %@</source>
+        <target>Trackers blocked: %@</target>
         <note>Text used when the user shares their trackers blocked stats</note>
       </trans-unit>
       <trans-unit id="share.trackerStatsText">
         <source>%1$@, the privacy browser from Mozilla, has already blocked %2$@ trackers for me. Fewer ads and trackers following me around means faster browsing! Get Focus for yourself here</source>
         <target>%1$@, the privacy browser from Mozilla, has already blocked %2$@ trackers for me. Fewer ads and trackers following me around means faster browsing! Get Focus for yourself here</target>
-        <note>The text shared to users after the user chooses to share there tracker stats</note>
+        <note>First %@ is the app name. Second %@ is the number of trackers that have been blocked. This is the text shared to others (on social media or otherwise) after the user chooses to share their tracker stats</note>
       </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel">
         <source>Ad trackers</source>
