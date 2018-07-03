@@ -798,16 +798,6 @@
         <target>Share</target>
         <note>Text for a share button</note>
       </trans-unit>
-      <trans-unit id="share.trackerStatsLabel">
-        <source>Trackers blocked: %@</source>
-        <target>Trackers blocked: %@</target>
-        <note>Text used when the user shares their trackers blocked stats</note>
-      </trans-unit>
-      <trans-unit id="share.trackerStatsText">
-        <source>%1$@, the privacy browser from Mozilla, has already blocked %2$@ trackers for me. Fewer ads and trackers following me around means faster browsing! Get Focus for yourself here</source>
-        <target>%1$@, the privacy browser from Mozilla, has already blocked %2$@ trackers for me. Fewer ads and trackers following me around means faster browsing! Get Focus for yourself here</target>
-        <note>First %@ is the app name. Second %@ is the number of trackers that have been blocked. This is the text shared to others (on social media or otherwise) after the user chooses to share their tracker stats</note>
-      </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel">
         <source>Ad trackers</source>
         <target>Ad trackers</target>
