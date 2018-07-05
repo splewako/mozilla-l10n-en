@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="Blockzilla/Find in page done.strings" source-language="en" datatype="plaintext" target-language="en">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
-    </header>
-    <body>
-      <trans-unit id="FindInPage.Done">
-        <source>FindInPage.Done</source>
-        <target>FindInPage.Done</target>
-        <note>Done button in Find in Page Toolbar.</note>
-      </trans-unit>
-    </body>
-  </file>
   <file original="Blockzilla/Info.plist" source-language="en" datatype="plaintext" target-language="en">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
@@ -372,6 +360,11 @@
         <source>Open Maps</source>
         <target>Open Maps</target>
         <note>Button label in Maps URL dialog to open Maps. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html</note>
+      </trans-unit>
+      <trans-unit id="FindInPage.Done">
+        <source>Find in page done</source>
+        <target>Find in page done</target>
+        <note>Done button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FindInPage.NextResult">
         <source>Find next in page</source>
