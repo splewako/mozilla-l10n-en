@@ -368,7 +368,7 @@
       <trans-unit id="FindInPage.Done">
         <source>Find in page done</source>
         <target>Find in page done</target>
-        <note>Done button in Find in Page Toolbar.</note>
+        <note>Accessibility label for done button in Find in Page Toolbar.</note>
       </trans-unit>
       <trans-unit id="FindInPage.NextResult">
         <source>Find next in page</source>
