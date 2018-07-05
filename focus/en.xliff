@@ -154,7 +154,11 @@
       <trans-unit id="About.screenTitle">
         <source>About</source>
         <target>About</target>
-        <note>%@ is the product name (Focus/Klar). Title for the About screen</note>
+      </trans-unit>
+      <trans-unit id="About.title">
+        <source>About %@</source>
+        <target>About %@</target>
+        <note>%@ is the name of the app (Focus / Klar). Title displayed in the settings screen that, when tapped, takes the user to a page with information about the product. Also displayed as a header for the About page.</note>
       </trans-unit>
       <trans-unit id="About.topLabel">
         <source>%@ puts you in control.</source>
