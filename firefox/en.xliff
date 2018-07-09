@@ -2696,6 +2696,11 @@
         <target>%d tab(s) closed</target>
         <note>The label indicating that all the tabs were closed</note>
       </trans-unit>
+      <trans-unit id="Tabs.Search.PlaceholderText">
+        <source>Search Tabs</source>
+        <target>Search Tabs</target>
+        <note>The placeholder text for the tab search bar</note>
+      </trans-unit>
       <trans-unit id="The page could not be displayed in Reader View.">
         <source>The page could not be displayed in Reader View.</source>
         <target>The page could not be displayed in Reader View.</target>
