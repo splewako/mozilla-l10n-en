@@ -2205,6 +2205,41 @@
         <target>Disconnect Sync?</target>
         <note>Title of the alert when prompting the user asking to disconnect.</note>
       </trans-unit>
+      <trans-unit id="Settings.DisplayTheme">
+        <source>Display</source>
+        <target>Display</target>
+        <note>Title in main app settings for Display (theme) settings</note>
+      </trans-unit>
+      <trans-unit id="Settings.DisplayThemeOptionDark">
+        <source>Dark</source>
+        <target>Dark</target>
+        <note>Option choice in display theme settings for dark theme</note>
+      </trans-unit>
+      <trans-unit id="Settings.DisplayThemeOptionLight">
+        <source>Light</source>
+        <target>Light</target>
+        <note>Option choice in display theme settings for light theme</note>
+      </trans-unit>
+      <trans-unit id="Settings.DisplayThemeSectionFooter">
+        <source>The theme will automatically change based on your display brightness. You can set the threshold where the theme changes. The circle indicates your display's current brightness.</source>
+        <target>The theme will automatically change based on your display brightness. You can set the threshold where the theme changes. The circle indicates your display's current brightness.</target>
+        <note>Display (theme) settings footer describing how the brightness slider works.</note>
+      </trans-unit>
+      <trans-unit id="Settings.DisplayThemeSectionHeader">
+        <source>Theme</source>
+        <target>Theme</target>
+        <note>Display (theme) settings section title</note>
+      </trans-unit>
+      <trans-unit id="Settings.DisplayThemeSwitchSubtitle">
+        <source>Switch automatically based on screen brightness</source>
+        <target>Switch automatically based on screen brightness</target>
+        <note>Display (theme) settings switch subtitle, explaining the title 'Automatically'.</note>
+      </trans-unit>
+      <trans-unit id="Settings.DisplayThemeSwitchTitle">
+        <source>Automatically</source>
+        <target>Automatically</target>
+        <note>Display (theme) settings switch to choose whether to set the dark mode manually, or automatically based on the brightness slider.</note>
+      </trans-unit>
       <trans-unit id="Settings.FxA.DeviceName">
         <source>Device Name</source>
         <target>Device Name</target>
