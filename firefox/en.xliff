@@ -3089,6 +3089,18 @@
       </trans-unit>
     </body>
   </file>
+  <file original="Client/SearchWithFirefox.strings" source-language="en" datatype="plaintext" target-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
+    </header>
+    <body>
+      <trans-unit id="Search with Firefox">
+        <source>Search with Firefox</source>
+        <target>Search with Firefox</target>
+        <note>Search in New Tab Text selection menu item</note>
+      </trans-unit>
+    </body>
+  </file>
   <file original="Client/SendAnonymousUsageData.strings" source-language="en" datatype="plaintext" target-language="en">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
