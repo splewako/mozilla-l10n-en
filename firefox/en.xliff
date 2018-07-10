@@ -2306,18 +2306,18 @@
         <note>A description in settings of what the new tab choice means</note>
       </trans-unit>
       <trans-unit id="Settings.NewTab.Option.ASTitle">
-        <source>Additional Content</source>
-        <target>Additional Content</target>
+        <source>Customize Top Sites</source>
+        <target>Customize Top Sites</target>
         <note>The title of the section in newtab that lets you modify the topsites panel</note>
       </trans-unit>
       <trans-unit id="Settings.NewTab.Option.BlankPage">
-        <source>Show a Blank Page</source>
-        <target>Show a Blank Page</target>
+        <source>Blank Page</source>
+        <target>Blank Page</target>
         <note>Option in settings to show a blank page when you open a new tab</note>
       </trans-unit>
       <trans-unit id="Settings.NewTab.Option.Bookmarks">
-        <source>Show your Bookmarks</source>
-        <target>Show your Bookmarks</target>
+        <source>Bookmarks</source>
+        <target>Bookmarks</target>
         <note>Option in settings to show bookmarks when you open a new tab</note>
       </trans-unit>
       <trans-unit id="Settings.NewTab.Option.HighlightsBookmarks">
@@ -2331,13 +2331,13 @@
         <note>Option in settings to turn off history in the highlights section</note>
       </trans-unit>
       <trans-unit id="Settings.NewTab.Option.History">
-        <source>Show your History</source>
-        <target>Show your History</target>
+        <source>History</source>
+        <target>History</target>
         <note>Option in settings to show history when you open a new tab</note>
       </trans-unit>
       <trans-unit id="Settings.NewTab.Option.HomePage">
-        <source>Show your Homepage</source>
-        <target>Show your Homepage</target>
+        <source>Homepage</source>
+        <target>Homepage</target>
         <note>Option in settings to show your homepage when you open a new tab</note>
       </trans-unit>
       <trans-unit id="Settings.NewTab.Option.Pocket">
@@ -2351,8 +2351,8 @@
         <note>Option in settings to show reading list when you open a new tab</note>
       </trans-unit>
       <trans-unit id="Settings.NewTab.Option.TopSites">
-        <source>Show your Top Sites</source>
-        <target>Show your Top Sites</target>
+        <source>Top Sites</source>
+        <target>Top Sites</target>
         <note>Option in settings to show top sites when you open a new tab</note>
       </trans-unit>
       <trans-unit id="Settings.NewTab.SectionName">
@@ -2361,9 +2361,19 @@
         <note>Label used as an item in Settings. When touched it will open a dialog to configure the new tab behaviour.</note>
       </trans-unit>
       <trans-unit id="Settings.NewTab.Title">
-        <source>New Tab Settings</source>
-        <target>New Tab Settings</target>
+        <source>New Tab</source>
+        <target>New Tab</target>
         <note>Title displayed in header of the setting panel.</note>
+      </trans-unit>
+      <trans-unit id="Settings.NewTab.TopSectionName">
+        <source>Show</source>
+        <target>Show</target>
+        <note>Label at the top of the New Tab screen after entering New Tab in settings</note>
+      </trans-unit>
+      <trans-unit id="Settings.NewTab.TopSectionNameFooter">
+        <source>Choose what to load when opening a new tab</source>
+        <target>Choose what to load when opening a new tab</target>
+        <note>Footer at the bottom of the New Tab screen after entering New Tab in settings</note>
       </trans-unit>
       <trans-unit id="Settings.OfferClipboardBar.Status">
         <source>When Opening Firefox</source>
