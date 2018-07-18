@@ -10,8 +10,8 @@
         <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>12.0</source>
-        <target>12.0</target>
+        <source>13.0</source>
+        <target>13.0</target>
       </trans-unit>
     </body>
   </file>
@@ -25,8 +25,8 @@
         <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>12.0</source>
-        <target>12.0</target>
+        <source>13.0</source>
+        <target>13.0</target>
       </trans-unit>
     </body>
   </file>
@@ -477,8 +477,8 @@
         <target>$(MOZ_PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>12.0</source>
-        <target>12.0</target>
+        <source>13.0</source>
+        <target>13.0</target>
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription">
         <source>This lets you take and upload photos.</source>
@@ -3173,8 +3173,8 @@
         <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>12.0</source>
-        <target>12.0</target>
+        <source>13.0</source>
+        <target>13.0</target>
       </trans-unit>
     </body>
   </file>
@@ -3192,8 +3192,8 @@
         <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>12.0</source>
-        <target>12.0</target>
+        <source>13.0</source>
+        <target>13.0</target>
       </trans-unit>
     </body>
   </file>
@@ -3211,8 +3211,8 @@
         <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>12.0</source>
-        <target>12.0</target>
+        <source>13.0</source>
+        <target>13.0</target>
       </trans-unit>
     </body>
   </file>
@@ -3230,8 +3230,8 @@
         <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>12.0</source>
-        <target>12.0</target>
+        <source>13.0</source>
+        <target>13.0</target>
       </trans-unit>
     </body>
   </file>
@@ -3267,8 +3267,8 @@
         <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>12.0</source>
-        <target>12.0</target>
+        <source>13.0</source>
+        <target>13.0</target>
       </trans-unit>
     </body>
   </file>
@@ -3401,8 +3401,8 @@
         <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>12.0</source>
-        <target>12.0</target>
+        <source>13.0</source>
+        <target>13.0</target>
       </trans-unit>
     </body>
   </file>
@@ -3449,8 +3449,8 @@
         <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>12.0</source>
-        <target>12.0</target>
+        <source>13.0</source>
+        <target>13.0</target>
       </trans-unit>
     </body>
   </file>
@@ -3464,8 +3464,8 @@
         <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>12.0</source>
-        <target>12.0</target>
+        <source>13.0</source>
+        <target>13.0</target>
       </trans-unit>
     </body>
   </file>
@@ -3479,8 +3479,8 @@
         <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>12.0</source>
-        <target>12.0</target>
+        <source>13.0</source>
+        <target>13.0</target>
       </trans-unit>
     </body>
   </file>
@@ -3494,8 +3494,8 @@
         <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>12.0</source>
-        <target>12.0</target>
+        <source>13.0</source>
+        <target>13.0</target>
       </trans-unit>
     </body>
   </file>
@@ -3509,8 +3509,8 @@
         <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>12.0</source>
-        <target>12.0</target>
+        <source>13.0</source>
+        <target>13.0</target>
       </trans-unit>
     </body>
   </file>
@@ -3524,8 +3524,8 @@
         <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>12.0</source>
-        <target>12.0</target>
+        <source>13.0</source>
+        <target>13.0</target>
       </trans-unit>
     </body>
   </file>
@@ -3539,8 +3539,8 @@
         <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>12.0</source>
-        <target>12.0</target>
+        <source>13.0</source>
+        <target>13.0</target>
       </trans-unit>
     </body>
   </file>
@@ -3554,8 +3554,8 @@
         <target>$(PRODUCT_NAME)</target>
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
-        <source>12.0</source>
-        <target>12.0</target>
+        <source>13.0</source>
+        <target>13.0</target>
       </trans-unit>
     </body>
   </file>
