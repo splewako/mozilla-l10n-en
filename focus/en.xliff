@@ -829,6 +829,11 @@
         <target>Tracking Protection off</target>
         <note>text showing the tracking protection is disabled.</note>
       </trans-unit>
+      <trans-unit id="trackingProtection.label">
+        <source>Tracking Protection</source>
+        <target>Tracking Protection</target>
+        <note>Title for the tracking settings page to change what trackers are blocked.</note>
+      </trans-unit>
       <trans-unit id="trackingProtection.learnMore">
         <source>Learn More</source>
         <target>Learn More</target>
@@ -847,7 +852,6 @@
       <trans-unit id="trackingProtection.toggleLabel">
         <source>Tracking Protection</source>
         <target>Tracking Protection</target>
-        <note>Text for the toggle that temporarily disables tracking protection.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.trackerDescriptionLabel">
         <source>Choose whether %@ blocks ad, analytic, social, and other trackers.</source>
