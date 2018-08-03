@@ -410,6 +410,11 @@
         <target>Browse. Erase. Repeat.</target>
         <note>Second label for product description on the home screen</note>
       </trans-unit>
+      <trans-unit id="Menu.Close">
+        <source>Close</source>
+        <target>Close</target>
+        <note>Button label used to close a menu that displays as a popup.</note>
+      </trans-unit>
       <trans-unit id="Open.Cancel">
         <source>Cancel</source>
         <target>Cancel</target>
@@ -714,6 +719,11 @@
         <source>Find in page: %@</source>
         <target>Find in page: %@</target>
         <note>Label displayed for find in page button when typing in the URL Bar. %@ is any text the user has typed into the URL bar that they want to find on the current page.</note>
+      </trans-unit>
+      <trans-unit id="URL.paste">
+        <source>Paste</source>
+        <target>Paste</target>
+        <note>Text for a menu displayed from the bottom of the screen when a user long presses on the URL bar with clipboard contents.</note>
       </trans-unit>
       <trans-unit id="URL.placeholderText">
         <source>Search or enter address</source>
