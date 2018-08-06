@@ -690,10 +690,35 @@
         <target>Open in %@</target>
         <note>Text for the share menu option when a user wants to open a page in Focus.</note>
       </trans-unit>
+      <trans-unit id="ShareMenu.PageActions">
+        <source>Page Actions</source>
+        <target>Page Actions</target>
+        <note>Title for the share menu where users can take actions for the current website they are on.</note>
+      </trans-unit>
       <trans-unit id="ShareMenu.RequestDesktop">
         <source>Request Desktop Site</source>
         <target>Request Desktop Site</target>
         <note>Text for the share menu option when a user wants to reload the site as a desktop</note>
+      </trans-unit>
+      <trans-unit id="ShareMenu.ShareOpenChrome">
+        <source>Open in Chrome</source>
+        <target>Open in Chrome</target>
+        <note>Text for the share menu option when a user wants to open the current website in the Chrome app.</note>
+      </trans-unit>
+      <trans-unit id="ShareMenu.ShareOpenFirefox">
+        <source>Open in Firefox</source>
+        <target>Open in Firefox</target>
+        <note>Text for the share menu option when a user wants to open the current website in the Firefox app.</note>
+      </trans-unit>
+      <trans-unit id="ShareMenu.ShareOpenSafari">
+        <source>Open in Safari</source>
+        <target>Open in Safari</target>
+        <note>Text for the share menu option when a user wants to open the current website in the Safari app.</note>
+      </trans-unit>
+      <trans-unit id="ShareMenu.SharePage">
+        <source>Share Page With...</source>
+        <target>Share Page With...</target>
+        <note>Text for the share menu option when a user wants to share the current website they are on through another app.</note>
       </trans-unit>
       <trans-unit id="URL.cancelLabel">
         <source>Cancel</source>
@@ -808,6 +833,11 @@
         <source>Share</source>
         <target>Share</target>
         <note>Text for a share button</note>
+      </trans-unit>
+      <trans-unit id="shareMenu.copyAddress">
+        <source>Copy Address</source>
+        <target>Copy Address</target>
+        <note>Text for the share menu when a user wants to copy a URL.</note>
       </trans-unit>
       <trans-unit id="trackingProtection.adTrackersLabel">
         <source>Ad trackers</source>
