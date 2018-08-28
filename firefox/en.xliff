@@ -388,6 +388,11 @@
         <target>This action will clear all of your private data. It cannot be undone.</target>
         <note>Description of the confirmation dialog shown when a user tries to clear their private data.</note>
       </trans-unit>
+      <trans-unit id="This action will clear all of your website data. It cannot be undone.">
+        <source>This action will clear all of your website data. It cannot be undone.</source>
+        <target>This action will clear all of your website data. It cannot be undone.</target>
+        <note>Description of the confirmation dialog shown when a user tries to clear their private data.</note>
+      </trans-unit>
     </body>
   </file>
   <file original="Client/DownloadsPanel.strings" source-language="en" datatype="plaintext" target-language="en">
@@ -2150,6 +2155,11 @@
         <target>URL (Replace Query with %s)</target>
         <note>The placeholder for URL Field when saving a custom search engine</note>
       </trans-unit>
+      <trans-unit id="Settings.ClearAllWebsiteData.Clear.Button">
+        <source>Clear All Website Data</source>
+        <target>Clear All Website Data</target>
+        <note>Button in Data Management that clears private data for the selected items.</note>
+      </trans-unit>
       <trans-unit id="Settings.ClearPrivateData.Clear.Button">
         <source>Clear Private Data</source>
         <target>Clear Private Data</target>
@@ -2179,6 +2189,21 @@
         <source>Send websites a Do Not Track signal that you don’t want to be tracked</source>
         <target>Send websites a Do Not Track signal that you don’t want to be tracked</target>
         <note>DNT Settings title</note>
+      </trans-unit>
+      <trans-unit id="Settings.DataManagement.SearchLabel">
+        <source>Filter Sites</source>
+        <target>Filter Sites</target>
+        <note>Default text in search bar for Data Management</note>
+      </trans-unit>
+      <trans-unit id="Settings.DataManagement.SectionName">
+        <source>Data Management</source>
+        <target>Data Management</target>
+        <note>Label used as an item in Settings. When touched it will open a dialog prompting the user to make sure they want to clear all of their private data.</note>
+      </trans-unit>
+      <trans-unit id="Settings.DataManagement.Title">
+        <source>Data Management</source>
+        <target>Data Management</target>
+        <note>Title displayed in header of the setting panel.</note>
       </trans-unit>
       <trans-unit id="Settings.Disconnect.Body">
         <source>Firefox will stop syncing with your account, but won’t delete any of your browsing data on this device.</source>
@@ -2479,6 +2504,19 @@
         <source>Troubleshoot</source>
         <target>Troubleshoot</target>
         <note>Title of link to help page to find out how to solve Sync issues</note>
+      </trans-unit>
+      <trans-unit id="Settings.WebsiteData.Button">
+        <source>Show More</source>
+        <target>Show More</target>
+        <note>Button shows all websites on website data tableview
+   Button to delete website in search results
+   Button to edit website search results
+   Button to exit edit website search results</note>
+      </trans-unit>
+      <trans-unit id="Settings.WebsiteData.Title">
+        <source>Website Data</source>
+        <target>Website Data</target>
+        <note>Title displayed in header of the Data Management panel.</note>
       </trans-unit>
       <trans-unit id="Share Link">
         <source>Share Link</source>
