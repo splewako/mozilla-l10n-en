@@ -3429,6 +3429,28 @@
       </trans-unit>
     </body>
   </file>
+  <file original="Shared/Supporting Files/firefoxcredentials.strings" source-language="en" datatype="plaintext" target-language="en">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
+    </header>
+    <body>
+      <trans-unit id="Available Credentials:">
+        <source>Available Credentials:</source>
+        <target>Available Credentials:</target>
+        <note>Header for the list of credentials table</note>
+      </trans-unit>
+      <trans-unit id="Firefox Credentials">
+        <source>Firefox Credentials</source>
+        <target>Firefox Credentials</target>
+        <note>Title of the extension that shows firefox passwords</note>
+      </trans-unit>
+      <trans-unit id="You don’t have any credentials synced from your Firefox Account">
+        <source>You don’t have any credentials synced from your Firefox Account</source>
+        <target>You don’t have any credentials synced from your Firefox Account</target>
+        <note>Error message shown in the remote tabs panel</note>
+      </trans-unit>
+    </body>
+  </file>
   <file original="SharedTests/Info.plist" source-language="en" datatype="plaintext" target-language="en">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2.1" build-num="7C1002"/>
