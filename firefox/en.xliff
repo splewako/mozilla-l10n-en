@@ -1832,7 +1832,7 @@
       <trans-unit id="Panel Chooser">
         <source>Panel Chooser</source>
         <target>Panel Chooser</target>
-        <note>Accessibility label for the Home panel's top toolbar containing list of the home panels (top sites, bookmarsk, history, remote tabs, reading list).</note>
+        <note>Accessibility label for the Home panel's top toolbar containing list of the home panels (top sites, bookmarks, history, remote tabs, reading list).</note>
       </trans-unit>
       <trans-unit id="Password">
         <source>Password</source>
