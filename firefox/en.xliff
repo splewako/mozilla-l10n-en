@@ -388,11 +388,6 @@
         <target>This action will clear all of your private data. It cannot be undone.</target>
         <note>Description of the confirmation dialog shown when a user tries to clear their private data.</note>
       </trans-unit>
-      <trans-unit id="This action will clear all of your website data. It cannot be undone.">
-        <source>This action will clear all of your website data. It cannot be undone.</source>
-        <target>This action will clear all of your website data. It cannot be undone.</target>
-        <note>Description of the confirmation dialog shown when a user tries to clear their private data.</note>
-      </trans-unit>
     </body>
   </file>
   <file original="Client/DownloadsPanel.strings" source-language="en" datatype="plaintext" target-language="en">
@@ -2535,13 +2530,30 @@
         <target>Troubleshoot</target>
         <note>Title of link to help page to find out how to solve Sync issues</note>
       </trans-unit>
-      <trans-unit id="Settings.WebsiteData.Button">
+      <trans-unit id="Settings.WebsiteData.ButtonDelete">
+        <source>Delete</source>
+        <target>Delete</target>
+        <note>Button to delete website in search results</note>
+      </trans-unit>
+      <trans-unit id="Settings.WebsiteData.ButtonDone">
+        <source>Done</source>
+        <target>Done</target>
+        <note>Button to exit edit website search results</note>
+      </trans-unit>
+      <trans-unit id="Settings.WebsiteData.ButtonEdit">
+        <source>Edit</source>
+        <target>Edit</target>
+        <note>Button to edit website search results</note>
+      </trans-unit>
+      <trans-unit id="Settings.WebsiteData.ButtonShowMore">
         <source>Show More</source>
         <target>Show More</target>
-        <note>Button shows all websites on website data tableview
-   Button to delete website in search results
-   Button to edit website search results
-   Button to exit edit website search results</note>
+        <note>Button shows all websites on website data tableview</note>
+      </trans-unit>
+      <trans-unit id="Settings.WebsiteData.ConfirmPrompt">
+        <source>This action will clear all of your website data. It cannot be undone.</source>
+        <target>This action will clear all of your website data. It cannot be undone.</target>
+        <note>Description of the confirmation dialog shown when a user tries to clear their private data.</note>
       </trans-unit>
       <trans-unit id="Settings.WebsiteData.Title">
         <source>Website Data</source>
