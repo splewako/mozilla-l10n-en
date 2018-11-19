@@ -2617,11 +2617,6 @@
         <target>Close All Tabs</target>
         <note>Accessibility label for the Close All Tabs menu button.</note>
       </trans-unit>
-      <trans-unit id="Top sites">
-        <source>Top sites</source>
-        <target>Top sites</target>
-        <note>Panel accessibility label</note>
-      </trans-unit>
       <trans-unit id="TopSites.EmptyState.Description">
         <source>Your most visited sites will show up here.</source>
         <target>Your most visited sites will show up here.</target>
@@ -3173,6 +3168,11 @@
         <target>Find in Page</target>
         <note>Label for the button, displayed in the menu, used to open the toolbar to search for text within the current page.</note>
       </trans-unit>
+      <trans-unit id="Menu.Library.Title">
+        <source>Library</source>
+        <target>Library</target>
+        <note>Label for the button, displayed in the menu, used to open the Library</note>
+      </trans-unit>
       <trans-unit id="Menu.NewPrivateTabAction.Title">
         <source>Open New Private Tab</source>
         <target>Open New Private Tab</target>
@@ -3199,8 +3199,8 @@
         <note>Accessibility label for the button, displayed in the menu, used to open the History home panel.</note>
       </trans-unit>
       <trans-unit id="Menu.OpenHomePageAction.Title">
-        <source>Open Homepage</source>
-        <target>Open Homepage</target>
+        <source>Home</source>
+        <target>Home</target>
         <note>Label for the button, displayed in the menu, used to navigate to the home page.</note>
       </trans-unit>
       <trans-unit id="Menu.OpenReadingListAction.AccessibilityLabel">
