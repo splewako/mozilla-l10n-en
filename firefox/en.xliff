@@ -2442,11 +2442,6 @@
         <target>Private Browsing Mode</target>
         <note>Hardware shortcut switch to the private browsing tab or tab tray. Shown in the Discoverability overlay when the hardware Command Key is held down.</note>
       </trans-unit>
-      <trans-unit id="Sync Now">
-        <source>Sync Now</source>
-        <target>Sync Now</target>
-        <note>Sync Firefox Account</note>
-      </trans-unit>
       <trans-unit id="Sync your tabs, bookmarks, passwords and more.">
         <source>Sync your tabs, bookmarks, passwords and more.</source>
         <target>Sync your tabs, bookmarks, passwords and more.</target>
