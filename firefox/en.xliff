@@ -1141,6 +1141,26 @@
         <target>Synced Devices</target>
         <note>Title for the Synced Tabs Cell in the History Panel</note>
       </trans-unit>
+      <trans-unit id="HomePage.Set.Dialog.Cancel">
+        <source>Cancel</source>
+        <target>Cancel</target>
+        <note>Button cancelling changes setting the home page for the first time.</note>
+      </trans-unit>
+      <trans-unit id="HomePage.Set.Dialog.Message">
+        <source>You can change this at any time in Settings</source>
+        <target>You can change this at any time in Settings</target>
+        <note>Alert dialog body when the user opens the home page for the first time.</note>
+      </trans-unit>
+      <trans-unit id="HomePage.Set.Dialog.OK">
+        <source>Set Homepage</source>
+        <target>Set Homepage</target>
+        <note>Button accepting changes setting the home page for the first time.</note>
+      </trans-unit>
+      <trans-unit id="HomePage.Set.Dialog.Title">
+        <source>Do you want to use this web page as your home page?</source>
+        <target>Do you want to use this web page as your home page?</target>
+        <note>Alert dialog title when the user opens the home page for the first time.</note>
+      </trans-unit>
       <trans-unit id="HomePanel.ContextMenu.Bookmark">
         <source>Bookmark</source>
         <target>Bookmark</target>
@@ -2075,6 +2095,46 @@
         <source>General</source>
         <target>General</target>
         <note>General settings section title</note>
+      </trans-unit>
+      <trans-unit id="Settings.HomePage.Clear.Button">
+        <source>Clear</source>
+        <target>Clear</target>
+        <note>Button in settings to clear the home page.</note>
+      </trans-unit>
+      <trans-unit id="Settings.HomePage.SectionName">
+        <source>Homepage</source>
+        <target>Homepage</target>
+        <note>Label used as an item in Settings. When touched it will open a dialog to configure the home page and its uses.</note>
+      </trans-unit>
+      <trans-unit id="Settings.HomePage.Title">
+        <source>Homepage Settings</source>
+        <target>Homepage Settings</target>
+        <note>Title displayed in header of the setting panel.</note>
+      </trans-unit>
+      <trans-unit id="Settings.HomePage.URL.Placeholder">
+        <source>Enter a webpage</source>
+        <target>Enter a webpage</target>
+        <note>Placeholder text in the homepage setting when no homepage has been set.</note>
+      </trans-unit>
+      <trans-unit id="Settings.HomePage.URL.Title">
+        <source>Current Homepage</source>
+        <target>Current Homepage</target>
+        <note>Title of the setting section containing the URL of the current home page.</note>
+      </trans-unit>
+      <trans-unit id="Settings.HomePage.UseCopiedLink.Button">
+        <source>Use Copied Link</source>
+        <target>Use Copied Link</target>
+        <note>Button in settings to use the current link on the clipboard as home page.</note>
+      </trans-unit>
+      <trans-unit id="Settings.HomePage.UseCurrent.Button">
+        <source>Use Current Page</source>
+        <target>Use Current Page</target>
+        <note>Button in settings to use the current page as home page.</note>
+      </trans-unit>
+      <trans-unit id="Settings.HomePage.UseDefault.Button">
+        <source>Use Default</source>
+        <target>Use Default</target>
+        <note>Button in settings to use the default home page. If no default is set, then this button isn't shown.</note>
       </trans-unit>
       <trans-unit id="Settings.NewTab.CustomURL">
         <source>Custom URL</source>
