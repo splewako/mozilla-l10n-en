@@ -2346,6 +2346,31 @@
         <target>Private Browsing Mode</target>
         <note>Settings option to specify that Tracking Protection is on only in Private Browsing mode.</note>
       </trans-unit>
+      <trans-unit id="Settings.TranslateSnackBar.SectionFooter">
+        <source>The web page language is detected on the device, and a translation from a remote service is offered.</source>
+        <target>The web page language is detected on the device, and a translation from a remote service is offered.</target>
+        <note>Translation settings footer describing how language detection and translation happens.</note>
+      </trans-unit>
+      <trans-unit id="Settings.TranslateSnackBar.SectionHeader">
+        <source>Translate</source>
+        <target>Translate</target>
+        <note>Translation settings section title</note>
+      </trans-unit>
+      <trans-unit id="Settings.TranslateSnackBar.SwitchSubtitle">
+        <source>Detect the language of the web page and offer to translate</source>
+        <target>Detect the language of the web page and offer to translate</target>
+        <note>Switch to choose if the language of a page is detected and offer to translate.</note>
+      </trans-unit>
+      <trans-unit id="Settings.TranslateSnackBar.SwitchTitle">
+        <source>Offer to translate pages</source>
+        <target>Offer to translate pages</target>
+        <note>Switch to choose if the language of a page is detected and offer to translate.</note>
+      </trans-unit>
+      <trans-unit id="Settings.TranslateSnackBar.Title">
+        <source>Translation</source>
+        <target>Translation</target>
+        <note>Title in main app settings for Translation toast settings</note>
+      </trans-unit>
       <trans-unit id="Settings.TroubleShootSync.Title">
         <source>Troubleshoot</source>
         <target>Troubleshoot</target>
@@ -2656,6 +2681,21 @@
         <source>Remove page — %@</source>
         <target>Remove page — %@</target>
         <note>Button shown in editing mode to remove this site from the top sites panel.</note>
+      </trans-unit>
+      <trans-unit id="TranslationToastHandler.PromptTranslate.Cancel">
+        <source>No</source>
+        <target>No</target>
+        <note>Button to disallow the page to be translated to the user locale language</note>
+      </trans-unit>
+      <trans-unit id="TranslationToastHandler.PromptTranslate.OK">
+        <source>Yes</source>
+        <target>Yes</target>
+        <note>Button to allow the page to be translated to the user locale language</note>
+      </trans-unit>
+      <trans-unit id="TranslationToastHandler.PromptTranslate.Title">
+        <source>This page appears to be in %1$@. Translate to %2$@ with %3$@?</source>
+        <target>This page appears to be in %1$@. Translate to %2$@ with %3$@?</target>
+        <note>Prompt for translation. The first parameter is the language the page is in. The second parameter is the name of our local language. The third is the name of the service.</note>
       </trans-unit>
       <trans-unit id="Twitter">
         <source>Twitter</source>
