@@ -559,14 +559,24 @@
         <note>The link that shows more Pocket trending stories</note>
       </trans-unit>
       <trans-unit id="ActivityStream.Pocket.SectionTitle">
-        <source>Recommended by Pocket</source>
-        <target>Recommended by Pocket</target>
+        <source>Trending on Pocket</source>
+        <target>Trending on Pocket</target>
         <note>Section title label for Recommended by Pocket section</note>
       </trans-unit>
       <trans-unit id="ActivityStream.Pocket.Trending">
         <source>Trending</source>
         <target>Trending</target>
         <note>The description of a Pocket Story</note>
+      </trans-unit>
+      <trans-unit id="ActivityStream.TopSites.RowCount">
+        <source>%d rows</source>
+        <target>%d rows</target>
+        <note>label showing how many rows of topsites are shown. %d represents a number</note>
+      </trans-unit>
+      <trans-unit id="ActivityStream.TopSites.RowSettingFooter">
+        <source>Set Rows</source>
+        <target>Set Rows</target>
+        <note>The link that shows more Pocket trending stories</note>
       </trans-unit>
       <trans-unit id="ActivityStream.TopSites.SectionTitle">
         <source>Top Sites</source>
@@ -1130,26 +1140,6 @@
         <source>Synced Devices</source>
         <target>Synced Devices</target>
         <note>Title for the Synced Tabs Cell in the History Panel</note>
-      </trans-unit>
-      <trans-unit id="HomePage.Set.Dialog.Cancel">
-        <source>Cancel</source>
-        <target>Cancel</target>
-        <note>Button cancelling changes setting the home page for the first time.</note>
-      </trans-unit>
-      <trans-unit id="HomePage.Set.Dialog.Message">
-        <source>You can change this at any time in Settings</source>
-        <target>You can change this at any time in Settings</target>
-        <note>Alert dialog body when the user opens the home page for the first time.</note>
-      </trans-unit>
-      <trans-unit id="HomePage.Set.Dialog.OK">
-        <source>Set Homepage</source>
-        <target>Set Homepage</target>
-        <note>Button accepting changes setting the home page for the first time.</note>
-      </trans-unit>
-      <trans-unit id="HomePage.Set.Dialog.Title">
-        <source>Do you want to use this web page as your home page?</source>
-        <target>Do you want to use this web page as your home page?</target>
-        <note>Alert dialog title when the user opens the home page for the first time.</note>
       </trans-unit>
       <trans-unit id="HomePanel.ContextMenu.Bookmark">
         <source>Bookmark</source>
@@ -2086,45 +2076,10 @@
         <target>General</target>
         <note>General settings section title</note>
       </trans-unit>
-      <trans-unit id="Settings.HomePage.Clear.Button">
-        <source>Clear</source>
-        <target>Clear</target>
-        <note>Button in settings to clear the home page.</note>
-      </trans-unit>
-      <trans-unit id="Settings.HomePage.SectionName">
-        <source>Homepage</source>
-        <target>Homepage</target>
-        <note>Label used as an item in Settings. When touched it will open a dialog to configure the home page and its uses.</note>
-      </trans-unit>
-      <trans-unit id="Settings.HomePage.Title">
-        <source>Homepage Settings</source>
-        <target>Homepage Settings</target>
-        <note>Title displayed in header of the setting panel.</note>
-      </trans-unit>
-      <trans-unit id="Settings.HomePage.URL.Placeholder">
-        <source>Enter a webpage</source>
-        <target>Enter a webpage</target>
-        <note>Placeholder text in the homepage setting when no homepage has been set.</note>
-      </trans-unit>
-      <trans-unit id="Settings.HomePage.URL.Title">
-        <source>Current Homepage</source>
-        <target>Current Homepage</target>
-        <note>Title of the setting section containing the URL of the current home page.</note>
-      </trans-unit>
-      <trans-unit id="Settings.HomePage.UseCopiedLink.Button">
-        <source>Use Copied Link</source>
-        <target>Use Copied Link</target>
-        <note>Button in settings to use the current link on the clipboard as home page.</note>
-      </trans-unit>
-      <trans-unit id="Settings.HomePage.UseCurrent.Button">
-        <source>Use Current Page</source>
-        <target>Use Current Page</target>
-        <note>Button in settings to use the current page as home page.</note>
-      </trans-unit>
-      <trans-unit id="Settings.HomePage.UseDefault.Button">
-        <source>Use Default</source>
-        <target>Use Default</target>
-        <note>Button in settings to use the default home page. If no default is set, then this button isn't shown.</note>
+      <trans-unit id="Settings.NewTab.CustomURL">
+        <source>Custom URL</source>
+        <target>Custom URL</target>
+        <note>Label used to set a custom url as the new tab option (homepage).</note>
       </trans-unit>
       <trans-unit id="Settings.NewTab.Description">
         <source>When you open a New Tab:</source>
@@ -2145,6 +2100,21 @@
         <source>Bookmarks</source>
         <target>Bookmarks</target>
         <note>Option in settings to show bookmarks when you open a new tab</note>
+      </trans-unit>
+      <trans-unit id="Settings.NewTab.Option.CustomizeFooter">
+        <source>The sites you visit most</source>
+        <target>The sites you visit most</target>
+        <note>The footer for the section to customize top sites in the new tab settings page.</note>
+      </trans-unit>
+      <trans-unit id="Settings.NewTab.Option.CustomizeTitle">
+        <source>Customize firefox Home</source>
+        <target>Customize firefox Home</target>
+        <note>The title for the section to customize top sites in the new tab settings page.</note>
+      </trans-unit>
+      <trans-unit id="Settings.NewTab.Option.FirefoxHome">
+        <source>Firefox Home</source>
+        <target>Firefox Home</target>
+        <note>Option in settings to show Firefox Home when you open a new tab</note>
       </trans-unit>
       <trans-unit id="Settings.NewTab.Option.HighlightsBookmarks">
         <source>Recent Bookmarks</source>
@@ -2167,19 +2137,19 @@
         <note>Option in settings to show your homepage when you open a new tab</note>
       </trans-unit>
       <trans-unit id="Settings.NewTab.Option.Pocket">
-        <source>Recommended by Pocket</source>
-        <target>Recommended by Pocket</target>
+        <source>Trending on Pocket</source>
+        <target>Trending on Pocket</target>
         <note>Option in settings to turn on off pocket recommendations</note>
+      </trans-unit>
+      <trans-unit id="Settings.NewTab.Option.PocketFooter">
+        <source>Great content from around the web.</source>
+        <target>Great content from around the web.</target>
+        <note>Footer caption for pocket settings</note>
       </trans-unit>
       <trans-unit id="Settings.NewTab.Option.ReadingList">
         <source>Show your Reading List</source>
         <target>Show your Reading List</target>
         <note>Option in settings to show reading list when you open a new tab</note>
-      </trans-unit>
-      <trans-unit id="Settings.NewTab.Option.TopSites">
-        <source>Top Sites</source>
-        <target>Top Sites</target>
-        <note>Option in settings to show top sites when you open a new tab</note>
       </trans-unit>
       <trans-unit id="Settings.NewTab.SectionName">
         <source>New Tab</source>
