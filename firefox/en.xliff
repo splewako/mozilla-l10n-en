@@ -576,7 +576,7 @@
       <trans-unit id="ActivityStream.TopSites.RowSettingFooter">
         <source>Set Rows</source>
         <target>Set Rows</target>
-        <note>The link that shows more Pocket trending stories</note>
+        <note>The title for the setting page which lets you select the number of top site rows</note>
       </trans-unit>
       <trans-unit id="ActivityStream.TopSites.SectionTitle">
         <source>Top Sites</source>
@@ -2167,8 +2167,8 @@
         <note>The footer for the section to customize top sites in the new tab settings page.</note>
       </trans-unit>
       <trans-unit id="Settings.NewTab.Option.CustomizeTitle">
-        <source>Customize firefox Home</source>
-        <target>Customize firefox Home</target>
+        <source>Customize Firefox Home</source>
+        <target>Customize Firefox Home</target>
         <note>The title for the section to customize top sites in the new tab settings page.</note>
       </trans-unit>
       <trans-unit id="Settings.NewTab.Option.FirefoxHome">
